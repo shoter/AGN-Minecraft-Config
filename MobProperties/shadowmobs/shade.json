@@ -1,0 +1,10 @@
+{
+  "_name": "shadowmobs.shade",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 400~500 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 10000~12000 }
+  ]
+}

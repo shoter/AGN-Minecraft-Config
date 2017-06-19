@@ -1,0 +1,18 @@
+{
+  "_name": "critterpet.Fire Beetle",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "value": 400~600 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200 },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.20~0.40 }
+		]
+	}
+  ]
+}

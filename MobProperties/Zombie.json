@@ -1,0 +1,16 @@
+{
+  "_name": "Zombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+		{
+		"function": "all",
+		"functions": 
+			[			
+			{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 300~600 },
+			{ "function": "modifier", "attribute": "generic.attackDamage", "value": 50~100 }
+			]
+		}	
+  ]
+}

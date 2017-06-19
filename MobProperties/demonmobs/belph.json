@@ -1,0 +1,26 @@
+{
+  "_name": "demonmobs.belph",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1~2, "damage": 1~3 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.025,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Magneticraft:item.ingotTungsten", "count": 1~3}
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": []
+}

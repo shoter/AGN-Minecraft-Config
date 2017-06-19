@@ -1,0 +1,66 @@
+{
+  "_name": "enderzoo.FallenKnight",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "rotten_flesh" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "name", "value": "Brotherhood of Steam: Paladin" },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~300, "override": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "value": 7000~9000, "override": true },
+	
+	{ "function": "equip", "id": "infernomobs:cinderfallsword", "slot": 0, "override": true },
+	{ "function": "equip", "id": "Steamcraft:exoArmorFeet", "slot": 1, "override": true },
+	{ "function": "equip", "id": "Steamcraft:exoArmorLegs", "slot": 2, "override": true },
+	{ "function": "equip", "id": "Steamcraft:exoArmorBody", "slot": 3, "override": true },
+	{ "function": "equip", "id": "Steamcraft:exoArmorHead", "slot": 4, "override": true },
+	{ "function": "potion", "id": 8, "amplifier": 4, "override": true, "ambient": true },
+	{ "function": "potion", "id": 1, "override": true, "ambient": true },
+	{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.42 },
+	{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.75 },
+	{ "function": "potion", "id": 5, "override": true, "ambient": true },
+	{
+	  "_comment": "Add Steampunk style drops",
+	  "function": "drops",
+	  "functions": [
+		{
+		  "function": "add",
+		  "id": "Steamcraft:steamcraftNugget",
+		 "count": 0.10
+		},
+		{
+		  "function": "add",
+		  "id": "Steamcraft:pipe",
+		 "count": 0.05
+		},
+		{
+		  "function": "add",
+		  "id": "Steamcraft:steamcraftCrafting",
+		 "count": 1.0
+		},
+		{
+		  "function": "add",
+		  "id": "terrafirmacraft:item.Brass Sheet",
+		 "count": 0.05
+		},
+		{
+		  "function": "add",
+		  "id": "HardcoreQuesting:hearts",
+		 "count": 0.05
+		},
+		{ "function": "add", "id": "HardcoreQuesting:bags", "count": 0.25, "damage": 2~4 }
+	  ]
+	}
+  ]
+}

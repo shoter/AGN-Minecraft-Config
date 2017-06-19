@@ -1,0 +1,41 @@
+{
+  "_name": "desertmobs.manticore",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "sandstone" },
+			{ "function": "remove", "id": "stone" },
+			{ "function": "remove", "id": "iron_ore" },
+			{ "function": "remove", "id": "apple" }
+			
+			
+		]
+		
+	},
+	{
+      "function": "all",
+      "count": 0.1,
+      "functions": [
+        { "function": "add", "id": "HardcoreQuesting:bags", "count": 1, "damage": 1~3 }
+      ]
+    },
+	{
+      "function": "all",
+      "count": 0.1,
+      "functions": [
+        { "function": "add", "id": "blaze_powder", "count": 1~4 }
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 200~400 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 5000~6000 }
+  ]
+}

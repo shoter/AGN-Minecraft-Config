@@ -1,0 +1,51 @@
+{
+  "_name": "TwilightForest.Redcap Sapper",
+  "drops": [],
+  "pre_stats": [],
+    "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "potion", "id": 14, "override": true, "ambient": true },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 },
+		{
+		"function": "choose",
+		"functions": 
+			[
+				{
+				  "function": "riding",
+				  "weight": 10,
+				  "id": "TwilightForest.Redcap",
+				  "stats": 
+					[
+					{ "function": "name", "value": "Goblin"}
+					]
+				},
+				{
+				  "function": "riding",
+				  "weight": 10,
+				  "id": "TwilightForest.Block&Chain Goblin",
+				  "stats": 
+					[
+					{ "function": "name", "value": "Block&Chain Goblin"},
+					{ "function": "modifier", "attribute": "generic.attackDamage", "value": 150~250 }
+					]
+				},
+				{
+				  "function": "riding",
+				  "weight": 10,
+				  "id": "TwilightForest.Redcap Sapper",
+				  "stats": 
+					[
+					{ "function": "name", "value": "Goblin Sapper"}
+					]
+				}
+			]
+		}
+		]
+	}
+  ]
+}

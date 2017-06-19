@@ -1,0 +1,23 @@
+{
+  "_name": "mountainmobs.jabberwock",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "leather" },
+			{ "function": "remove", "id": "log" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 300~400 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 5000~6000 }
+  ]
+}

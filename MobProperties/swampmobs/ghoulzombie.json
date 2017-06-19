@@ -1,0 +1,10 @@
+{
+  "_name": "swampmobs.ghoulzombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~150 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 500~700 }
+  ]
+}

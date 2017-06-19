@@ -1,0 +1,17 @@
+{
+  "_name": "Pig",
+  "drops": 
+  [
+	{ "function": "remove", "id": "porkchop" }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [	
+	{ "function": "name", "value": "Pigvil" },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 99999 },
+	{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 1.0 },
+	{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.0 },
+	{ "_comment": "heal", "function": "potion", "id": 6, "amplifier": 500, "override": true, "ambient": true },
+	{ "_comment": "regeneration", "function": "potion", "id": 10, "amplifier": 500, "ambient": true }
+  ]
+}

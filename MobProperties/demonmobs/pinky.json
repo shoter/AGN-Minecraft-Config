@@ -1,0 +1,30 @@
+{
+  "_name": "demonmobs.pinky",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 2~4, "damage": 3~4 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.125,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Magneticraft:tungsten_ore", "count": 1~3}
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [	
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 15000~30000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 400~500 }		
+  ]
+}

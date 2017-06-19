@@ -1,0 +1,55 @@
+{
+  "_name": "TwilightForest.Skeleton Druid",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1~2, "damage": 0~2 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[			
+			{ "function": "add", "id": "TwilightForest:item.ironwoodHoe", "count": 1 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.025,
+		"functions": 
+		[			
+			{ "function": "add", "id": "TwilightForest:item.moonwormQueen", "count": 1 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "TwilightForest:tile.TFFirefly", "count": 1~3 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1000~1500 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~150 }
+		]
+	}
+  ]
+}

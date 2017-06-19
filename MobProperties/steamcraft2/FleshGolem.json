@@ -1,0 +1,44 @@
+{
+  "_name": "steamcraft2.FleshGolem",
+  "drops": 
+  [
+	{ "function": "remove", "id": "iron_ingot" },
+	{ "function": "remove", "id": "rotten_flesh" },
+	{ "function": "remove", "id": "necromancy:Organs" },
+	{ "function": "remove", "id": "necromancy:Organs", "damage": 1},
+	{ "function": "remove", "id": "necromancy:Organs", "damage": 2},
+	{ "function": "remove", "id": "necromancy:Organs", "damage": 3}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "potion", "id": 14, "override": true, "ambient": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 },
+	{
+		"function": "choose",
+		"functions":
+		[
+			{
+				"function": "riding", 
+				"weight": 5, 
+				"id": "TwilightForest.Armored Giant", 
+				"stats": 
+					  [
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 10000~12000, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 400~600, "override": true }
+					  ]
+			},
+			{
+				"function": "riding", 
+				"weight": 5, 
+				"id": "TwilightForest.Armored Giant", 
+				"stats": 
+					  [
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 10000~12000, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 400~600, "override": true }
+					  ]
+			}
+		]
+	}
+  ]
+}

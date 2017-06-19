@@ -1,0 +1,17 @@
+{
+  "_name": "shadowmobs.phantom",
+    "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "obsidian" }
+		]
+	}
+  ],
+  "pre_stats": [],
+  "stats": []
+}

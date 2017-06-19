@@ -1,0 +1,130 @@
+{
+  "_name": "Zombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": [
+		{
+			"function": "all",
+			"count": 0.25,
+			"functions": 
+			[ 
+				{
+				  "function": "riding",
+				  "id": "TwilightForest.Minotaur",
+				  "stats": [
+					{
+					  "_comment": "set the cave spider's attack strength to 1",
+					  "function": "modifier",
+					  "attribute": "generic.attackDamage",
+					  "value": 1,
+					  "override": true
+					},
+					{
+					  "_comment": "halve the cave spider's max health",
+					  "function": "modifier",
+					  "attribute": "generic.maxHealth",
+					  "value": -0.10,
+					  "operator": 1
+					},
+					{
+						"function": "all",
+						"count": 0.25,
+						"functions" : 
+						[
+							{
+								"function": "riding",
+								"id": "TwilightForest.Mist Wolf",
+								"stats": []
+							}
+						]
+					}
+				  ]
+				},
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 } ,
+				{ "function": "potion", "id": 14, "override": true, "ambient": true } 
+			]
+		},
+		{
+			"function": "all",
+			"count": 0.25,
+			"functions": 
+			[ 
+				{
+				  "function": "riding",
+				  "id": "TwilightForest.Block&Chain Goblin",
+				  "stats": [
+					{
+					  "_comment": "set the cave spider's attack strength to 1",
+					  "function": "modifier",
+					  "attribute": "generic.attackDamage",
+					  "value": 1,
+					  "override": true
+					},
+					{
+					  "_comment": "halve the cave spider's max health",
+					  "function": "modifier",
+					  "attribute": "generic.maxHealth",
+					  "value": 500,
+					  "operator": 1
+					}
+				  ]
+				},
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 } ,
+				{ "function": "potion", "id": 14, "override": true, "ambient": true } 
+			]
+		},
+		{
+			"function": "all",
+			"count": 1,
+			"functions": 
+			[ 
+				{
+				  "function": "ridden_by",
+				  "id": "TwilightForest.Redcap",
+				  "stats": [
+					{
+					  "_comment": "set the cave spider's attack strength to 1",
+					  "function": "modifier",
+					  "attribute": "generic.attackDamage",
+					  "value": 1,
+					  "override": true
+					},
+					{
+					  "_comment": "halve the cave spider's max health",
+					  "function": "modifier",
+					  "attribute": "generic.maxHealth",
+					  "value": 500,
+					  "operator": 1
+					},
+					{
+					  "function": "choose",
+					  "functions":
+					  [
+						{
+						  "function": "ridden_by",
+						  "id": "TwilightForest.Forest Raven",
+						  "weight": 2,
+						  "stats": []
+						},
+						{
+						  "function": "ridden_by",
+						  "id": "TwilightForest.Forest Bunny",
+						  "weight": 1,
+						  "stats": []
+						},
+						{
+						  "function": "ridden_by",
+						  "id": "TwilightForest.Forest Squirrel",
+						  "weight": 1,
+						  "stats": []
+						}
+					  ]
+					}
+				  ]
+				},
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 } ,
+				{ "function": "potion", "id": 14, "override": true, "ambient": true } 
+			]
+		}
+  ]
+}

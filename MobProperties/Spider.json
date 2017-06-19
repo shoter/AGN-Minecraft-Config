@@ -1,0 +1,41 @@
+{
+  "_comment": "this file gives spiders a 5% chance to spawn 2 to 5 weakened cave spiders that do not drop string",
+  "_name": "Spider",
+  "drops": [
+    {
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 5% of the time",
+      "count": 0.05,
+      "functions": [
+        {
+          "function": "spawn",
+          "id": "CaveSpider",
+          "count": "2~5",
+          "stats": [
+            {
+              "_comment": "set the cave spider's attack strength to 1",
+              "function": "modifier",
+              "attribute": "generic.attackDamage",
+              "value": 1,
+              "override": true
+            },
+            {
+              "_comment": "halve the cave spider's max health",
+              "function": "modifier",
+              "attribute": "generic.maxHealth",
+              "value": -0.5,
+              "operator": 1
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "stats": [
+		{
+			"function": "all",
+			"count": 1,
+			"functions": [ { "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1000 } ]
+		}
+  ]
+}

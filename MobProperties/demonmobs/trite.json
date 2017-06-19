@@ -1,0 +1,10 @@
+{
+  "_name": "demonmobs.trite",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2200~3300 },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~100 }
+  ]
+}

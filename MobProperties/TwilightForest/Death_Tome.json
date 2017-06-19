@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Death Tome",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 600~1200 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~600 },
+		{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.4 }
+		]
+	}
+  ]
+}

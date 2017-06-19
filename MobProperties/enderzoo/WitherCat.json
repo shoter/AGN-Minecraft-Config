@@ -1,0 +1,62 @@
+{
+  "_name": "enderzoo.WitherCat",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~150 },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 500 },
+		{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Mittens", "weight": 10 },
+					{ "function": "name", "value": "Whiskers", "weight": 10 },
+					{ "function": "name", "value": "Hello", "weight": 10 },
+					{ "function": "name", "value": "Tiger", "weight": 10 },
+					{ "function": "name", "value": "Tigger", "weight": 10 },
+					{ "function": "name", "value": "Pounce", "weight": 10 },
+					{ "function": "name", "value": "Sam", "weight": 10 },
+					{ "function": "name", "value": "Chuckles", "weight": 10 },
+					{ "function": "name", "value": "Tails", "weight": 10 },
+					{ "function": "name", "value": "Spook", "weight": 10 },
+					{ "function": "name", "value": "Speck", "weight": 10 },
+					{ "function": "name", "value": "Prince", "weight": 10 },
+					{ "function": "name", "value": "Kahn", "weight": 10 },
+					{ "function": "name", "value": "Elf", "weight": 10 },
+					{ "function": "name", "value": "Johhny", "weight": 10 },
+					{ "function": "name", "value": "Charlie", "weight": 10 },
+					{ "function": "name", "value": "Kate", "weight": 10 },
+					{ "function": "name", "value": "Kitty", "weight": 10 },
+					{ "function": "name", "value": "Midnight", "weight": 10 },
+					{ "function": "name", "value": "Sambo", "weight": 10 },
+					{ "function": "name", "value": "Hobbes", "weight": 10 },
+					{ "function": "name", "value": "Manny", "weight": 10 },
+					{ "function": "name", "value": "Jack", "weight": 10 },
+					{ "function": "name", "value": "Syd", "weight": 10 },
+					{ "function": "name", "value": "Gato", "weight": 10 },
+					{ "function": "name", "value": "Smokey", "weight": 10 },
+					{ "function": "name", "value": "Silvester", "weight": 10 },
+					{ "function": "name", "value": "Manx", "weight": 10 },
+					{ "function": "name", "value": "Blacky", "weight": 10 },
+					{ "function": "name", "value": "Pause", "weight": 10 },
+					{ "function": "name", "value": "Boots", "weight": 10 },
+					{ "function": "name", "value": "Puss", "weight": 10 },
+					{ "function": "name", "value": "Cori", "weight": 10 },
+					{ "function": "name", "value": "Twizzler", "weight": 10 },
+					{ "function": "name", "value": "Tesla", "weight": 10 },
+					{ "function": "name", "value": "Marley", "weight": 10 },
+					{ "function": "name", "value": "Lynx", "weight": 10 },
+					{ "function": "name", "value": "Night Shade", "weight": 10 },
+					{ "function": "name", "value": "Hemlock", "weight": 10 },
+					{ "function": "name", "value": "Poe", "weight": 10 },
+					{ "function": "name", "value": "Scrat", "weight": 10 },
+					{ "function": "name", "value": "Klaws", "weight": 10 },
+					{ "function": "name", "value": "Glade", "weight": 10 },
+					{ "function": "name", "value": "Unpause", "weight": 10 },
+					{ "function": "name", "value": "Needles", "weight": 10 },
+					{ "function": "name", "value": "Mort", "weight": 10 }
+				]
+		}
+  ]
+}

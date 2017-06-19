@@ -1,0 +1,33 @@
+{
+  "_name": "IsaacBlood",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "Add ghast tears to drops",
+		"count": 0.1,
+		"functions": 
+		[
+			{ "function": "add", "id": "ghast_tear", "count": 1 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.250~300,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1, "damage": 1~3 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 250~300 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 3000~4000 },
+	{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.40~0.60 },
+	{ "function": "potion", "id": 1, "override": true, "ambient": true }
+  ]
+}

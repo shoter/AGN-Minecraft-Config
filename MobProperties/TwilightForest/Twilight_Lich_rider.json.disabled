@@ -1,0 +1,34 @@
+{
+  "_name": "TwilightForest.Twilight Lich",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 25000~30000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~1000 },
+		{
+		"function": "choose",
+		"functions": 
+			[
+				{
+				  "function": "riding",
+				  "weight": 1,
+				  "id": "mountainmobs.beholder",
+				  "stats": 
+					[
+					{ "function": "name", "value": "Eye Master"},
+					{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 12000~18000 },
+					{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~1000 }
+					]
+				}
+			]
+		}
+		]
+	}
+  ]
+}

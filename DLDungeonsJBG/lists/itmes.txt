@@ -1,0 +1,2848 @@
+minecraft:stone
+minecraft:grass
+minecraft:dirt
+minecraft:cobblestone
+minecraft:planks
+minecraft:sapling
+minecraft:bedrock
+minecraft:flowing_water
+minecraft:water
+minecraft:flowing_lava
+minecraft:lava
+minecraft:sand
+minecraft:gravel
+minecraft:gold_ore
+minecraft:iron_ore
+minecraft:coal_ore
+minecraft:log
+minecraft:leaves
+minecraft:sponge
+minecraft:glass
+minecraft:lapis_ore
+minecraft:lapis_block
+minecraft:dispenser
+minecraft:sandstone
+minecraft:noteblock
+minecraft:golden_rail
+minecraft:detector_rail
+minecraft:sticky_piston
+minecraft:web
+minecraft:tallgrass
+minecraft:deadbush
+minecraft:piston
+minecraft:wool
+minecraft:yellow_flower
+minecraft:red_flower
+minecraft:brown_mushroom
+minecraft:red_mushroom
+minecraft:gold_block
+minecraft:iron_block
+minecraft:double_stone_slab
+minecraft:stone_slab
+minecraft:brick_block
+minecraft:tnt
+minecraft:bookshelf
+minecraft:mossy_cobblestone
+minecraft:obsidian
+minecraft:torch
+minecraft:fire
+minecraft:mob_spawner
+minecraft:oak_stairs
+minecraft:chest
+minecraft:diamond_ore
+minecraft:diamond_block
+minecraft:crafting_table
+minecraft:farmland
+minecraft:furnace
+minecraft:lit_furnace
+minecraft:ladder
+minecraft:rail
+minecraft:stone_stairs
+minecraft:lever
+minecraft:stone_pressure_plate
+minecraft:wooden_pressure_plate
+minecraft:redstone_ore
+minecraft:redstone_torch
+minecraft:stone_button
+minecraft:snow_layer
+minecraft:ice
+minecraft:snow
+minecraft:cactus
+minecraft:clay
+minecraft:jukebox
+minecraft:fence
+minecraft:pumpkin
+minecraft:netherrack
+minecraft:soul_sand
+minecraft:glowstone
+minecraft:portal
+minecraft:lit_pumpkin
+minecraft:stained_glass
+minecraft:trapdoor
+minecraft:monster_egg
+minecraft:stonebrick
+minecraft:brown_mushroom_block
+minecraft:red_mushroom_block
+minecraft:iron_bars
+minecraft:glass_pane
+minecraft:melon_block
+minecraft:vine
+minecraft:fence_gate
+minecraft:brick_stairs
+minecraft:stone_brick_stairs
+minecraft:mycelium
+minecraft:waterlily
+minecraft:nether_brick
+minecraft:nether_brick_fence
+minecraft:nether_brick_stairs
+minecraft:enchanting_table
+minecraft:end_portal
+minecraft:end_portal_frame
+minecraft:end_stone
+minecraft:dragon_egg
+minecraft:redstone_lamp
+minecraft:double_wooden_slab
+minecraft:wooden_slab
+minecraft:cocoa
+minecraft:sandstone_stairs
+minecraft:emerald_ore
+minecraft:ender_chest
+minecraft:tripwire_hook
+minecraft:emerald_block
+minecraft:spruce_stairs
+minecraft:birch_stairs
+minecraft:jungle_stairs
+minecraft:command_block
+minecraft:beacon
+minecraft:cobblestone_wall
+minecraft:carrots
+minecraft:potatoes
+minecraft:wooden_button
+minecraft:anvil
+minecraft:trapped_chest
+minecraft:light_weighted_pressure_plate
+minecraft:heavy_weighted_pressure_plate
+minecraft:daylight_detector
+minecraft:redstone_block
+minecraft:quartz_ore
+minecraft:hopper
+minecraft:quartz_block
+minecraft:quartz_stairs
+minecraft:activator_rail
+minecraft:dropper
+minecraft:stained_hardened_clay
+minecraft:stained_glass_pane
+minecraft:leaves2
+minecraft:log2
+minecraft:acacia_stairs
+minecraft:dark_oak_stairs
+terrafirmacraft:Ore1
+terrafirmacraft:Ore2
+terrafirmacraft:Ore3
+terrafirmacraft:StoneIgIn
+terrafirmacraft:StoneIgEx
+minecraft:hay_block
+minecraft:carpet
+minecraft:hardened_clay
+minecraft:coal_block
+minecraft:packed_ice
+minecraft:double_plant
+terrafirmacraft:StoneSed
+terrafirmacraft:StoneMM
+terrafirmacraft:StoneIgInCobble
+terrafirmacraft:StoneIgExCobble
+terrafirmacraft:StoneSedCobble
+terrafirmacraft:StoneMMCobble
+terrafirmacraft:StoneIgInSmooth
+terrafirmacraft:StoneIgExSmooth
+terrafirmacraft:StoneSedSmooth
+terrafirmacraft:StoneMMSmooth
+terrafirmacraft:StoneIgInBrick
+terrafirmacraft:StoneIgExBrick
+terrafirmacraft:StoneSedBrick
+terrafirmacraft:StoneMMBrick
+terrafirmacraft:Dirt
+terrafirmacraft:Dirt2
+terrafirmacraft:Sand
+terrafirmacraft:Sand2
+terrafirmacraft:Clay
+terrafirmacraft:Clay2
+terrafirmacraft:Grass
+terrafirmacraft:Grass2
+terrafirmacraft:ClayGrass
+terrafirmacraft:ClayGrass2
+terrafirmacraft:PeatGrass
+terrafirmacraft:Peat
+terrafirmacraft:DryGrass
+terrafirmacraft:DryGrass2
+terrafirmacraft:TallGrass
+terrafirmacraft:LooseRock
+terrafirmacraft:LogPile
+terrafirmacraft:Charcoal
+terrafirmacraft:Detailed
+terrafirmacraft:tilledSoil
+terrafirmacraft:tilledSoil2
+terrafirmacraft:WoodSupportV
+terrafirmacraft:WoodSupportH
+terrafirmacraft:WoodSupportV2
+terrafirmacraft:WoodSupportH2
+terrafirmacraft:Sulfur
+terrafirmacraft:log
+terrafirmacraft:log2
+terrafirmacraft:leaves
+terrafirmacraft:leaves2
+terrafirmacraft:sapling
+terrafirmacraft:sapling2
+terrafirmacraft:planks
+terrafirmacraft:planks2
+terrafirmacraft:Firepit
+terrafirmacraft:Bellows
+terrafirmacraft:Anvil
+terrafirmacraft:Anvil2
+terrafirmacraft:Forge
+terrafirmacraft:Molten
+terrafirmacraft:Bloomery
+terrafirmacraft:EarlyBloomery
+terrafirmacraft:Sluice
+terrafirmacraft:Bloom
+terrafirmacraft:fruitTreeWood
+terrafirmacraft:fruitTreeLeaves
+terrafirmacraft:fruitTreeLeaves2
+terrafirmacraft:stoneStairs
+terrafirmacraft:stoneSlabs
+terrafirmacraft:stoneStalac
+terrafirmacraft:WoodConstruct
+terrafirmacraft:WoodVert
+terrafirmacraft:WoodVert2
+terrafirmacraft:WoodHoriz
+terrafirmacraft:WoodHoriz2
+terrafirmacraft:WoodHoriz3
+terrafirmacraft:WoodHoriz4
+terrafirmacraft:ToolRack
+terrafirmacraft:SpawnMeter
+terrafirmacraft:FoodPrep
+terrafirmacraft:Quern
+terrafirmacraft:WallCobbleIgIn
+terrafirmacraft:WallCobbleIgEx
+terrafirmacraft:WallCobbleSed
+terrafirmacraft:WallCobbleMM
+terrafirmacraft:WallRawIgIn
+minecraft:iron_shovel
+minecraft:iron_pickaxe
+minecraft:iron_axe
+minecraft:flint_and_steel
+minecraft:apple
+minecraft:bow
+minecraft:arrow
+minecraft:coal
+minecraft:diamond
+minecraft:iron_ingot
+minecraft:gold_ingot
+minecraft:iron_sword
+minecraft:wooden_sword
+minecraft:wooden_shovel
+minecraft:wooden_pickaxe
+minecraft:wooden_axe
+minecraft:stone_sword
+minecraft:stone_shovel
+minecraft:stone_pickaxe
+minecraft:stone_axe
+minecraft:diamond_sword
+minecraft:diamond_shovel
+minecraft:diamond_pickaxe
+minecraft:diamond_axe
+minecraft:stick
+minecraft:bowl
+minecraft:mushroom_stew
+minecraft:golden_sword
+minecraft:golden_shovel
+minecraft:golden_pickaxe
+minecraft:golden_axe
+minecraft:string
+minecraft:feather
+minecraft:gunpowder
+minecraft:wooden_hoe
+minecraft:stone_hoe
+minecraft:iron_hoe
+minecraft:diamond_hoe
+minecraft:golden_hoe
+minecraft:wheat_seeds
+minecraft:wheat
+minecraft:bread
+minecraft:leather_helmet
+minecraft:leather_chestplate
+minecraft:leather_leggings
+minecraft:leather_boots
+minecraft:chainmail_helmet
+minecraft:chainmail_chestplate
+minecraft:chainmail_leggings
+minecraft:chainmail_boots
+minecraft:iron_helmet
+minecraft:iron_chestplate
+minecraft:iron_leggings
+minecraft:iron_boots
+minecraft:diamond_helmet
+minecraft:diamond_chestplate
+minecraft:diamond_leggings
+minecraft:diamond_boots
+minecraft:golden_helmet
+minecraft:golden_chestplate
+minecraft:golden_leggings
+minecraft:golden_boots
+minecraft:flint
+minecraft:porkchop
+minecraft:cooked_porkchop
+minecraft:painting
+minecraft:golden_apple
+minecraft:sign
+minecraft:wooden_door
+minecraft:bucket
+minecraft:water_bucket
+minecraft:lava_bucket
+minecraft:minecart
+minecraft:saddle
+minecraft:iron_door
+minecraft:redstone
+minecraft:snowball
+minecraft:boat
+minecraft:leather
+minecraft:milk_bucket
+minecraft:brick
+minecraft:clay_ball
+minecraft:reeds
+minecraft:paper
+minecraft:book
+minecraft:slime_ball
+minecraft:chest_minecart
+minecraft:furnace_minecart
+minecraft:egg
+minecraft:compass
+minecraft:fishing_rod
+minecraft:clock
+minecraft:glowstone_dust
+minecraft:fish
+minecraft:cooked_fished
+minecraft:dye
+minecraft:bone
+minecraft:sugar
+minecraft:cake
+minecraft:bed
+minecraft:repeater
+minecraft:cookie
+minecraft:filled_map
+minecraft:shears
+minecraft:melon
+minecraft:pumpkin_seeds
+minecraft:melon_seeds
+minecraft:beef
+minecraft:cooked_beef
+minecraft:chicken
+minecraft:cooked_chicken
+minecraft:rotten_flesh
+minecraft:ender_pearl
+minecraft:blaze_rod
+minecraft:ghast_tear
+minecraft:gold_nugget
+minecraft:nether_wart
+minecraft:potion
+minecraft:glass_bottle
+minecraft:spider_eye
+minecraft:fermented_spider_eye
+minecraft:blaze_powder
+minecraft:magma_cream
+minecraft:brewing_stand
+minecraft:cauldron
+minecraft:ender_eye
+minecraft:speckled_melon
+minecraft:spawn_egg
+minecraft:experience_bottle
+minecraft:fire_charge
+minecraft:writable_book
+minecraft:written_book
+minecraft:emerald
+minecraft:item_frame
+minecraft:flower_pot
+minecraft:carrot
+minecraft:potato
+minecraft:baked_potato
+minecraft:poisonous_potato
+minecraft:map
+minecraft:golden_carrot
+minecraft:skull
+minecraft:carrot_on_a_stick
+minecraft:nether_star
+minecraft:pumpkin_pie
+minecraft:fireworks
+minecraft:firework_charge
+minecraft:enchanted_book
+minecraft:comparator
+minecraft:netherbrick
+minecraft:quartz
+minecraft:tnt_minecart
+minecraft:hopper_minecart
+terrafirmacraft:WallRawIgEx
+terrafirmacraft:WallRawSed
+terrafirmacraft:WallRawMM
+terrafirmacraft:WallBrickIgIn
+terrafirmacraft:WallBrickIgEx
+terrafirmacraft:WallBrickSed
+terrafirmacraft:WallBrickMM
+terrafirmacraft:WallSmoothIgIn
+minecraft:iron_horse_armor
+minecraft:golden_horse_armor
+minecraft:diamond_horse_armor
+minecraft:lead
+minecraft:name_tag
+minecraft:command_block_minecart
+terrafirmacraft:WallSmoothIgEx
+terrafirmacraft:WallSmoothSed
+terrafirmacraft:WallSmoothMM
+terrafirmacraft:SaltWater
+terrafirmacraft:SaltWaterStationary
+terrafirmacraft:FreshWater
+terrafirmacraft:FreshWaterStationary
+terrafirmacraft:HotWater
+terrafirmacraft:HotWaterStationary
+terrafirmacraft:Lava
+terrafirmacraft:LavaStationary
+terrafirmacraft:Ice
+terrafirmacraft:SeaGrassStill
+terrafirmacraft:FireBrick
+terrafirmacraft:MetalSheet
+terrafirmacraft:DoorOak
+terrafirmacraft:DoorAspen
+terrafirmacraft:DoorBirch
+terrafirmacraft:DoorChestnut
+terrafirmacraft:DoorDouglasFir
+terrafirmacraft:DoorHickory
+terrafirmacraft:DoorMaple
+terrafirmacraft:DoorAsh
+terrafirmacraft:DoorPine
+terrafirmacraft:DoorSequoia
+terrafirmacraft:DoorSpruce
+terrafirmacraft:DoorSycamore
+terrafirmacraft:DoorWhiteCedar
+terrafirmacraft:DoorWhiteElm
+terrafirmacraft:DoorWillow
+terrafirmacraft:DoorKapok
+terrafirmacraft:DoorAcacia
+terrafirmacraft:IngotPile
+terrafirmacraft:Barrel
+terrafirmacraft:Loom
+terrafirmacraft:Moss
+terrafirmacraft:Flora
+terrafirmacraft:ClayPottery
+terrafirmacraft:Thatch
+terrafirmacraft:Crucible
+terrafirmacraft:NestBox
+terrafirmacraft:Fence
+terrafirmacraft:Fence2
+terrafirmacraft:FenceGate
+terrafirmacraft:FenceGate2
+terrafirmacraft:StrawHideBed
+terrafirmacraft:ArmourStand
+terrafirmacraft:ArmourStand2
+terrafirmacraft:BerryBush
+terrafirmacraft:Crops
+terrafirmacraft:LilyPad
+terrafirmacraft:Flowers
+terrafirmacraft:Flowers2
+terrafirmacraft:Fungi
+terrafirmacraft:Bookshelf
+terrafirmacraft:Torch
+terrafirmacraft:TorchOff
+terrafirmacraft:Chest TFC
+terrafirmacraft:Workbench
+terrafirmacraft:Cactus
+terrafirmacraft:Reeds
+terrafirmacraft:Pumpkin
+terrafirmacraft:LitPumpkin
+terrafirmacraft:ButtonWood
+terrafirmacraft:Vine
+terrafirmacraft:LeatherRack
+terrafirmacraft:Gravel
+terrafirmacraft:Gravel2
+terrafirmacraft:Grill
+terrafirmacraft:MetalTrapDoor
+terrafirmacraft:Vessel
+terrafirmacraft:Smoke
+terrafirmacraft:SmokeRack
+terrafirmacraft:Snow
+terrafirmacraft:OilLamp
+terrafirmacraft:Hopper
+terrafirmacraft:FlowerPot
+DecorationsTFC:Lantern.Copper
+DecorationsTFC:Lantern.Bronze
+DecorationsTFC:Lantern.BismuthBronze
+DecorationsTFC:Lantern.BlackBronze
+DecorationsTFC:Lantern.Brass
+DecorationsTFC:Lantern.Lead
+DecorationsTFC:Lantern.Gold
+DecorationsTFC:Lantern.RoseGold
+DecorationsTFC:Lantern.Silver
+DecorationsTFC:Lantern.SterlingSilver
+DecorationsTFC:Lantern.Platinum
+DecorationsTFC:Lantern.WroughtIron
+DecorationsTFC:Alabaster
+DecorationsTFC:MudBrickRaw.Granite
+DecorationsTFC:MudBrickRaw.Diorite
+DecorationsTFC:MudBrickRaw.Gabbro
+DecorationsTFC:MudBrickRaw.Shale
+DecorationsTFC:MudBrickRaw.Claystone
+DecorationsTFC:MudBrickRaw.RockSalt
+DecorationsTFC:MudBrickRaw.Limestone
+DecorationsTFC:MudBrickRaw.Conglomerate
+DecorationsTFC:MudBrickRaw.Dolomite
+DecorationsTFC:MudBrickRaw.Chert
+DecorationsTFC:MudBrickRaw.Chalk
+DecorationsTFC:MudBrickRaw.Rhyolite
+DecorationsTFC:MudBrickRaw.Basalt
+DecorationsTFC:MudBrickRaw.Andesite
+DecorationsTFC:MudBrickRaw.Dacite
+DecorationsTFC:MudBrickRaw.Quartzite
+DecorationsTFC:MudBrickRaw.Slate
+DecorationsTFC:MudBrickRaw.Phyllite
+DecorationsTFC:MudBrickRaw.Schist
+DecorationsTFC:MudBrickRaw.Gneiss
+DecorationsTFC:MudBrickRaw.Marble
+DecorationsTFC:MudBricks
+DecorationsTFC:MudBricks2
+Eln:Eln.ghostBlock
+Eln:Eln.lightBlock
+Eln:Eln.SixNode
+Eln:Eln.TransparentNode
+Eln:Eln.Ore
+Eln:eln.EnergyConverterElnToOtherLVUBlock
+Eln:eln.EnergyConverterElnToOtherMVUBlock
+Eln:eln.EnergyConverterElnToOtherHVUBlock
+Eln:eln.ElnProbe
+tfcudarymod:tile.empty
+tfcudarymod:tile.Alloy Calculator
+tfcudarymod:tile.Anodising Vessel
+tfcudarymod:tile.Drying Mat
+tfcudarymod:tile.Evaporator Pan
+tfcudarymod:tile.Ore Cooker
+ArchimedesShips:marker
+ArchimedesShips:floater
+ArchimedesShips:balloon
+ArchimedesShips:gauge
+ArchimedesShips:seat
+ArchimedesShips:buffer
+ArchimedesShips:engine
+ArchimedesShips:crate_wood
+BiblioCraft:tile.BiblioFramedChest
+BiblioCraft:BiblioPaneler
+BiblioCraft:BiblioClipboard
+BiblioCraft:BiblioTypewriter
+BiblioCraft:BiblioClock
+BiblioCraft:BiblioFlatPainting
+BiblioCraft:BiblioSimplePainting
+BiblioCraft:BiblioMiddlePainting
+BiblioCraft:BiblioFancyPainting
+BiblioCraft:BiblioBorderlessPainting
+BiblioCraft:BiblioPaintPress
+BiblioCraft:BiblioSwordPedestal
+BiblioCraft:BiblioFancySign
+BiblioCraft:BiblioWorkbench
+BiblioCraft:BiblioBell
+BiblioCraft:Bibliotheca
+BiblioCraft:BookcaseFilled
+BiblioCraft:BiblioPotionShelf
+BiblioCraft:BiblioShelf
+BiblioCraft:BiblioRack
+BiblioCraft:BiblioCase
+BiblioCraft:BiblioLabel
+BiblioCraft:BiblioDesk
+BiblioCraft:BiblioTable
+BiblioCraft:Armor Stand
+BiblioCraft:Typesetting Machine
+BiblioCraft:Printing Press
+BiblioCraft:BiblioLantern
+BiblioCraft:BiblioIronLantern
+BiblioCraft:BiblioLamp
+BiblioCraft:BiblioIronLamp
+BiblioCraft:BiblioStuffs
+BiblioCraft:BiblioMapFrames
+BiblioCraft:BiblioSeats
+BiblioWoodsTFC:BiblioBrassLantern
+BiblioWoodsTFC:BiblioBronzeLantern
+BiblioWoodsTFC:BiblioBlackBronzeLantern
+BiblioWoodsTFC:BiblioBismuthBronzeLantern
+BiblioWoodsTFC:BiblioBlackSteelLantern
+BiblioWoodsTFC:BiblioBlueSteelLantern
+BiblioWoodsTFC:BiblioRedSteelLantern
+BiblioWoodsTFC:BiblioBrassLamp
+BiblioWoodsTFC:BiblioBronzeLamp
+BiblioWoodsTFC:BiblioBlackBronzeLamp
+BiblioWoodsTFC:BiblioBismuthBronzeLamp
+BiblioWoodsTFC:BiblioBlackSteelLamp
+BiblioWoodsTFC:BiblioBlueSteelLamp
+BiblioWoodsTFC:BiblioRedSteelLamp
+BiblioWoodsTFC:BiblioWoodBookcase
+BiblioWoodsTFC:BiblioWoodpotshelf
+BiblioWoodsTFC:BiblioWoodshelf
+BiblioWoodsTFC:BiblioWoodrack
+BiblioWoodsTFC:BiblioWoodcase
+BiblioWoodsTFC:BiblioWoodlabel
+BiblioWoodsTFC:BiblioWooddesk
+BiblioWoodsTFC:BiblioWoodtable
+BiblioWoodsTFC:BiblioWoodSeat
+BiblioWoodsTFC:BiblioWoodMapFrame
+BiblioWoodsTFC:BiblioWoodFancySign
+BiblioWoodsTFC:BiblioWoodFancyWorkbench
+BiblioWoodsTFC:BiblioWoodPaneler
+BiblioWoodsTFC:BiblioWoodClock
+BiblioWoodsTFC:BiblioWoodPaintingT0
+BiblioWoodsTFC:BiblioWoodPaintingT1
+BiblioWoodsTFC:BiblioWoodPaintingT2
+BiblioWoodsTFC:BiblioWoodPaintingT3
+BiblioWoodsTFC:BiblioWoodPaintingT4
+BuildCraft|Core:eternalSpring
+BuildCraft|Transport:filteredBufferBlock
+BuildCraft|Transport:pipeBlock
+BuildCraft|Silicon:laserBlock
+BuildCraft|Silicon:laserTableBlock
+BuildCraft|Silicon:zonePlan
+BuildCraft|Silicon:requester
+BuildCraft|Builders:buildToolBlock
+BuildCraft|Builders:markerBlock
+BuildCraft|Builders:pathMarkerBlock
+BuildCraft|Builders:constructionMarkerBlock
+BuildCraft|Builders:fillerBlock
+BuildCraft|Builders:builderBlock
+BuildCraft|Builders:architectBlock
+BuildCraft|Builders:libraryBlock
+BuildCraft|Energy:engineBlock
+BuildCraft|Energy:blockOil
+BuildCraft|Energy:blockFuel
+BuildCraft|Energy:blockRedPlasma
+BuildCraft|Factory:miningWellBlock
+BuildCraft|Factory:plainPipeBlock
+BuildCraft|Factory:autoWorkbenchBlock
+BuildCraft|Factory:frameBlock
+BuildCraft|Factory:machineBlock
+BuildCraft|Factory:tankBlock
+BuildCraft|Factory:pumpBlock
+BuildCraft|Factory:floodGateBlock
+BuildCraft|Factory:refineryBlock
+BuildCraft|Factory:blockHopper
+CarpentersBlocks:blockCarpentersBlock
+CarpentersBlocks:blockCarpentersBarrier
+CarpentersBlocks:blockCarpentersBed
+CarpentersBlocks:blockCarpentersButton
+CarpentersBlocks:blockCarpentersCollapsibleBlock
+CarpentersBlocks:blockCarpentersDaylightSensor
+CarpentersBlocks:blockCarpentersDoor
+CarpentersBlocks:blockCarpentersFlowerPot
+CarpentersBlocks:blockCarpentersGarageDoor
+CarpentersBlocks:blockCarpentersGate
+CarpentersBlocks:blockCarpentersHatch
+CarpentersBlocks:blockCarpentersLadder
+CarpentersBlocks:blockCarpentersLever
+CarpentersBlocks:blockCarpentersPressurePlate
+CarpentersBlocks:blockCarpentersSafe
+CarpentersBlocks:blockCarpentersSlope
+CarpentersBlocks:blockCarpentersStairs
+CarpentersBlocks:blockCarpentersTorch
+exnihilo:barrel
+exnihilo:barrel_stone
+exnihilo:crucible
+exnihilo:crucible_unfired
+exnihilo:dust
+exnihilo:infested_leaves
+exnihilo:sifting_table
+exnihilo:bee_trap
+exnihilo:bee_trap_treated
+exnihilo:exnihilo.gravel_nether
+exnihilo:exnihilo.gravel_ender
+exnihilo:witchwater
+Steamcraft:steamcraftOre
+Steamcraft:blockBrass
+Steamcraft:blockZinc
+Steamcraft:blockCopper
+Steamcraft:crucible
+Steamcraft:hellCrucible
+Steamcraft:mold
+Steamcraft:carving
+Steamcraft:boiler
+Steamcraft:boilerOn
+Steamcraft:flashBoiler
+Steamcraft:pipe
+Steamcraft:valvePipe
+Steamcraft:steamTank
+Steamcraft:meter
+Steamcraft:ruptureDisc
+Steamcraft:horn
+Steamcraft:fluidSteamConverter
+Steamcraft:pump
+Steamcraft:smasher
+Steamcraft:dummy
+Steamcraft:heater
+Steamcraft:chargingPad
+Steamcraft:charger
+Steamcraft:hammer
+Steamcraft:itemMortar
+Steamcraft:thumper
+Steamcraft:thumperDummy
+Steamcraft:fan
+Steamcraft:vacuum
+Steamcraft:engineering
+Forestry:core
+Forestry:soil
+Forestry:resources
+Forestry:resourceStorage
+Forestry:stained
+Forestry:fluid.bioethanol
+Forestry:fluid.biomass
+Forestry:fluid.glass
+Forestry:fluid.honey
+Forestry:fluid.ice
+Forestry:fluid.juice
+Forestry:fluid.seedoil
+Forestry:fluid.short.mead
+Forestry:apiculture
+Forestry:beehives
+Forestry:candle
+Forestry:stump
+Forestry:alveary
+Forestry:log1
+Forestry:log2
+Forestry:log3
+Forestry:log4
+Forestry:log5
+Forestry:log6
+Forestry:log7
+Forestry:log8
+Forestry:fireproofLog1
+Forestry:fireproofLog2
+Forestry:fireproofLog3
+Forestry:fireproofLog4
+Forestry:fireproofLog5
+Forestry:fireproofLog6
+Forestry:fireproofLog7
+Forestry:fireproofLog8
+Forestry:planks
+Forestry:planks2
+Forestry:fireproofPlanks1
+Forestry:fireproofPlanks2
+Forestry:slabs1
+Forestry:slabs2
+Forestry:slabs3
+Forestry:slabs4
+Forestry:fences
+Forestry:fences2
+Forestry:stairs
+Forestry:saplingGE
+Forestry:leaves
+Forestry:pods
+Forestry:arboriculture
+Forestry:engine
+Forestry:factory
+Forestry:factory2
+Forestry:mushroom
+Forestry:ffarm
+Forestry:lepidopterology
+Forestry:mail
+HardcoreQuesting:item_barrel
+HardcoreQuesting:quest_tracker
+HardcoreQuesting:quest_portal
+Railcraft:fluid.creosote
+Railcraft:fluid.steam
+Railcraft:cube
+Railcraft:anvil
+Railcraft:machine.alpha
+Railcraft:machine.beta
+Railcraft:track
+Railcraft:track.elevator
+Railcraft:signal
+Railcraft:stair
+Railcraft:slab
+Railcraft:lantern.stone
+Railcraft:lantern.metal
+Railcraft:brick.abyssal
+Railcraft:brick.bleachedbone
+Railcraft:brick.bloodstained
+Railcraft:brick.frostbound
+Railcraft:brick.infernal
+Railcraft:brick.quarried
+Railcraft:brick.sandy
+Railcraft:brick.nether
+Railcraft:post
+Railcraft:post.metal
+Railcraft:post.metal.platform
+Railcraft:wall.alpha
+Railcraft:wall.beta
+Railcraft:glass
+Railcraft:detector
+Railcraft:machine.gamma
+Railcraft:machine.epsilon
+Railcraft:ore
+Railcraft:worldlogic
+Railcraft:firestone.recharge
+Railcraft:frame
+Railcraft:machine.delta
+Magneticraft:tile.limestoneSlab
+Magneticraft:tile.limestoneSlabFull
+Magneticraft:tile.burnt_limestoneSlab
+Magneticraft:tile.burnt_limestoneSlabFull
+Magneticraft:tile.brick_limestoneSlab
+Magneticraft:tile.brick_limestoneSlabFull
+Magneticraft:tile.roofTileSlab
+Magneticraft:tile.roofTileSlabFull
+Magneticraft:tile.tile_limestoneSlab
+Magneticraft:tile.tile_limestoneSlabFull
+Magneticraft:tile.burnt_brick_limestoneSlab
+Magneticraft:tile.burnt_brick_limestoneSlabFull
+Magneticraft:tile.cobble_limestoneSlab
+Magneticraft:tile.cobble_limestoneSlabFull
+Magneticraft:tile.burnt_cobble_limestoneSlab
+Magneticraft:tile.burnt_cobble_limestoneSlabFull
+Magneticraft:oil_source
+Magneticraft:oil_source_drained
+Magneticraft:copper_ore
+Magneticraft:salt_ore
+Magneticraft:sulfur_ore
+Magneticraft:thorium_ore
+Magneticraft:tungsten_ore
+Magneticraft:uranium_ore
+Magneticraft:limestone
+Magneticraft:tile.limestoneStairs
+Magneticraft:burnt_limestone
+Magneticraft:tile.burnt_limestoneStairs
+Magneticraft:brick_limestone
+Magneticraft:tile.brick_limestoneStairs
+Magneticraft:roofTile
+Magneticraft:tile.roofTileStairs
+Magneticraft:tile_limestone
+Magneticraft:tile.tile_limestoneStairs
+Magneticraft:burnt_brick_limestone
+Magneticraft:tile.burnt_brick_limestoneStairs
+Magneticraft:cobble_limestone
+Magneticraft:tile.cobble_limestoneStairs
+Magneticraft:burnt_cobble_limestone
+Magneticraft:tile.burnt_cobble_limestoneStairs
+Magneticraft:block_copper
+Magneticraft:block_tungsten
+Magneticraft:block_carbide
+Magneticraft:block_brass
+Magneticraft:block_zinc
+Magneticraft:solarpanel
+Magneticraft:electricfurnace
+Magneticraft:battery
+Magneticraft:transformer_lm
+Magneticraft:transformer_mh
+Magneticraft:firebox
+Magneticraft:boiler
+Magneticraft:cooler
+Magneticraft:heat_resistance
+Magneticraft:fluid_hopper
+Magneticraft:basic_generator
+Magneticraft:pumpjack
+Magneticraft:steam_engine
+Magneticraft:crusher_control
+Magneticraft:chasis
+Magneticraft:multi_io
+Magneticraft:conveyor_low
+Magneticraft:mirror
+Magneticraft:block_breaker
+Magneticraft:windturbine
+Magneticraft:geothermal_pump
+Magneticraft:permanent_magnet
+Magneticraft:concreted_pipe
+Magneticraft:reactor_vessel
+Magneticraft:thermopile
+Magneticraft:MB_EnergyIO
+Magneticraft:reactor_control
+Magneticraft:reactor_wall
+Magneticraft:reactor_activator
+Magneticraft:inserter
+Magneticraft:machine_housing
+Magneticraft:grinder_control
+Magneticraft:miner
+Magneticraft:teslacoil
+Magneticraft:airlock
+Magneticraft:biomassburner
+Magneticraft:stirling_generator
+Magneticraft:InfiniteWater
+Magneticraft:refinery_control
+Magneticraft:refinery_gap
+Magneticraft:refinery_tank
+Magneticraft:mg_tank
+Magneticraft:heater
+Magneticraft:tile.air_bubble
+Magneticraft:solar_tower_core
+Magneticraft:polimerizer_control
+Magneticraft:reactor_controller
+Magneticraft:MB_Energy_medium
+Magneticraft:turbine_control
+Magneticraft:combustion_engine
+Magneticraft:heat_sink
+Magneticraft:brickFurnace
+Magneticraft:crafter
+Magneticraft:monitor
+Magneticraft:cpu
+Magneticraft:multi_heat
+Magneticraft:droid_red
+Magneticraft:distillery_control
+Magneticraft:ElectricPoleTier1
+Magneticraft:grinding_mill
+Magneticraft:grinding_mill_gap
+Magneticraft:wooden_shaft
+Magneticraft:hand_crank_generator
+Magneticraft:mb_kinetic
+Magneticraft:infinite_steam
+Magneticraft:void_inventory
+Magneticraft:electric_switch
+Magneticraft:diode
+Magneticraft:resistance
+Magneticraft:rf_alternator
+Magneticraft:kinetic_generator
+Magneticraft:rc_alternator
+Magneticraft:ElectricPoleCableConnection
+Magneticraft:infinite_energy
+Magneticraft:sifter_control
+Magneticraft:mb_controls
+Magneticraft:block_salt
+Magneticraft:block_sulfur
+Magneticraft:zinc_ore
+Magneticraft:pressure_tank
+Magneticraft:crushing_table
+Magneticraft:blocksteam
+Magneticraft:blockoil
+Magneticraft:blockheavyoil
+Magneticraft:blocklightoil
+Magneticraft:blocknaturalgas
+Magneticraft:blockhotcrude
+necromancy:Summoning Altar
+necromancy:Altar Building Block
+necromancy:Sewing Machine
+necromancy:FlowingBlood
+necromancy:skullWall
+OpenBlocks:ladder
+OpenBlocks:guide
+OpenBlocks:elevator
+OpenBlocks:heal
+OpenBlocks:target
+OpenBlocks:grave
+OpenBlocks:flag
+OpenBlocks:tank
+OpenBlocks:trophy
+OpenBlocks:beartrap
+OpenBlocks:sprinkler
+OpenBlocks:cannon
+OpenBlocks:vacuumhopper
+OpenBlocks:sponge
+OpenBlocks:bigbutton
+OpenBlocks:imaginary
+OpenBlocks:fan
+OpenBlocks:xpbottler
+OpenBlocks:village_highlighter
+OpenBlocks:path
+OpenBlocks:autoanvil
+OpenBlocks:autoenchantmenttable
+OpenBlocks:xpdrain
+OpenBlocks:blockbreaker
+OpenBlocks:blockPlacer
+OpenBlocks:itemDropper
+OpenBlocks:ropeladder
+OpenBlocks:donationStation
+OpenBlocks:paintmixer
+OpenBlocks:canvas
+OpenBlocks:paintcan
+OpenBlocks:canvasglass
+OpenBlocks:projector
+OpenBlocks:drawingtable
+OpenBlocks:sky
+OpenBlocks:xpshower
+OpenBlocks:goldenegg
+OpenBlocks:scaffolding
+RopesPlus:blockGrHk
+RopesPlus:blockRope
+RopesPlus:blockRopeCentral
+RopesPlus:blockZiplineAnchor
+steamcraft2:BlockSteam
+steamcraft2:BlockBoilingwater
+steamcraft2:BlockBoilingmud
+steamcraft2:BlockWhaleoil
+steamcraft2:BlockEngravedSolid
+steamcraft2:BlockEngravedVanilla
+steamcraft2:BlockCastIronLamp
+steamcraft2:BlockCastIronLampOn
+steamcraft2:BlockInvertedCastIronLamp
+steamcraft2:BlockInvertedCastIronLampOff
+steamcraft2:BlockCastIronFence
+steamcraft2:BlockCastIronGate
+steamcraft2:BlockCastIronRailing
+steamcraft2:BlockLamp
+steamcraft2:BlockLampOn
+steamcraft2:BlockStonebrickWall
+steamcraft2:BlockStoneslabWall
+steamcraft2:BlockBrickWall
+steamcraft2:BlockSteamBoiler
+steamcraft2:BlockNuclearBoiler
+steamcraft2:BlockLiquidBoiler
+steamcraft2:BlockIntake
+steamcraft2:BlockInjector
+steamcraft2:BlockTurbine
+steamcraft2:BlockBattery
+steamcraft2:BlockCapacitor
+steamcraft2:BlockLightningRod
+steamcraft2:BlockTeslaCoil
+steamcraft2:BlockCharger
+steamcraft2:BlockBloomery
+steamcraft2:BlockArmorEditor
+steamcraft2:BlockCopperPipe
+steamcraft2:BlockSteelPipe
+steamcraft2:BlockCopperWire
+steamcraft2:BlockSteelWire
+steamcraft2:BlockCopperTank
+steamcraft2:BlockRefinery
+steamcraft2:BlockStasisField
+steamcraft2:BlockRawBlueSlateStairs
+steamcraft2:BlockRawBlackSlateStairs
+steamcraft2:BlockRawRedSlateStairs
+steamcraft2:BlockCobbleBlueSlateStairs
+steamcraft2:BlockCobbleBlackSlateStairs
+steamcraft2:BlockCobbleRedSlateStairs
+steamcraft2:BlockBrickBlueSlateStairs
+steamcraft2:BlockBrickBlackSlateStairs
+steamcraft2:BlockBrickRedSlateStairs
+steamcraft2:BlockRawLightBlueSlateStairs
+steamcraft2:BlockRawGreySlateStairs
+steamcraft2:BlockRawLightRedSlateStairs
+steamcraft2:BlockCobbleLightBlueSlateStairs
+steamcraft2:BlockCobbleGreySlateStairs
+steamcraft2:BlockCobbleLightRedSlateStairs
+steamcraft2:BlockBrickLightBlueSlateStairs
+steamcraft2:BlockBrickGreySlateStairs
+steamcraft2:BlockBrickLightRedSlateStairs
+steamcraft2:BlockSteamcraftOre
+steamcraft2:BlockSlate
+steamcraft2:BlockLightSlate
+steamcraft2:BlockMetal
+steamcraft2:BlockRustyMetal
+steamcraft2:BlockMossyMetal
+steamcraft2:BlockMetalPlating
+steamcraft2:BlockRustyMetalPlating
+steamcraft2:BlockMossyMetalPlating
+steamcraft2:BlockUranium
+steamcraft2:BlockTeaPlant
+steamcraft2:BlockTimeBomb
+steamcraft2:BlockHatch
+steamcraft2:BlockFlesh
+steamcraft2:BlockCongealedSlime
+steamcraft2:BlockStandardSiren
+steamcraft2:BlockStandardSirenOn
+steamcraft2:BlockAllClearSiren
+steamcraft2:BlockAllClearSirenOn
+steamcraft2:BlockIntruderSiren
+steamcraft2:BlockIntruderSirenOn
+steamcraft2:BlockNuclearSiren
+steamcraft2:BlockNuclearSirenOn
+steamcraft2:BlockSkyrail
+steamcraft2:BlockDynamite
+steamcraft2:BlockMeltingIce
+steamcraft2:BlockGhostIce
+steamcraft2:BlockFissurePortal
+steamcraft2:BlockCompressedStone
+steamcraft2:BlockInfestedGrass
+steamcraft2:BlockInfestedDirt
+steamcraft2:BlockPath
+steamcraft2:BlockLeafPile
+steamcraft2:BlockMoss
+steamcraft2:BlockPolishedPlanks
+steamcraft2:BlockRedwoodLog
+steamcraft2:BlockRedwoodLeaves
+steamcraft2:BlockRedwoodPlanks
+steamcraft2:BlockMangroveLog
+steamcraft2:BlockMangroveLeaves
+steamcraft2:BlockMangrovePlanks
+steamcraft2:BlockWillowLog
+steamcraft2:BlockWillowLeaves
+steamcraft2:BlockWillowPlanks
+steamcraft2:BlockPetrifiedLog
+steamcraft2:BlockDeadLeaves
+steamcraft2:BlockPetrifiedPlanks
+steamcraft2:BlockRedwoodFence
+steamcraft2:blockMangroveFence
+steamcraft2:blockWillowFence
+steamcraft2:blockPetrifiedFence
+steamcraft2:BlockRedwoodStairs
+steamcraft2:blockMangroveStairs
+steamcraft2:blockWillowStairs
+steamcraft2:blockPetrifiedStairs
+steamcraft2:BlockRedwoodSlab
+steamcraft2:blockMangroveSlab
+steamcraft2:blockWillowSlab
+steamcraft2:blockPetrifiedSlab
+steamcraft2:BlockMud
+steamcraft2:BlockBoulder
+steamcraft2:BlockTintedRock
+steamcraft2:BlockBrassLog
+steamcraft2:BlockBrassLeaves
+streams:river/tile.FreshWaterStationary/-2/-2
+streams:river/tile.FreshWaterStationary/-2/-1
+streams:river/tile.FreshWaterStationary/-2/0
+streams:river/tile.FreshWaterStationary/-2/1
+streams:river/tile.FreshWaterStationary/-2/2
+streams:river/tile.FreshWaterStationary/-1/-2
+streams:river/tile.FreshWaterStationary/-1/2
+streams:river/tile.FreshWaterStationary/0/-2
+streams:river/tile.FreshWaterStationary/0/0
+streams:river/tile.FreshWaterStationary/0/2
+streams:river/tile.FreshWaterStationary/1/-2
+streams:river/tile.FreshWaterStationary/1/2
+streams:river/tile.FreshWaterStationary/2/-2
+streams:river/tile.FreshWaterStationary/2/-1
+streams:river/tile.FreshWaterStationary/2/0
+streams:river/tile.FreshWaterStationary/2/1
+streams:river/tile.FreshWaterStationary/2/2
+streams:river/tile.LavaStationary/-2/-2
+streams:river/tile.LavaStationary/-2/-1
+streams:river/tile.LavaStationary/-2/0
+streams:river/tile.LavaStationary/-2/1
+streams:river/tile.LavaStationary/-2/2
+streams:river/tile.LavaStationary/-1/-2
+streams:river/tile.LavaStationary/-1/2
+streams:river/tile.LavaStationary/0/-2
+streams:river/tile.LavaStationary/0/0
+streams:river/tile.LavaStationary/0/2
+streams:river/tile.LavaStationary/1/-2
+streams:river/tile.LavaStationary/1/2
+streams:river/tile.LavaStationary/2/-2
+streams:river/tile.LavaStationary/2/-1
+streams:river/tile.LavaStationary/2/0
+streams:river/tile.LavaStationary/2/1
+streams:river/tile.LavaStationary/2/2
+streams:river/ice/-2/-2
+streams:river/ice/-2/-1
+streams:river/ice/-2/0
+streams:river/ice/-2/1
+streams:river/ice/-2/2
+streams:river/ice/-1/-2
+streams:river/ice/-1/2
+streams:river/ice/0/-2
+streams:river/ice/0/0
+streams:river/ice/0/2
+streams:river/ice/1/-2
+streams:river/ice/1/2
+streams:river/ice/2/-2
+streams:river/ice/2/-1
+streams:river/ice/2/0
+streams:river/ice/2/1
+streams:river/ice/2/2
+TwilightForest:tile.TFLog
+TwilightForest:tile.TFRoots
+TwilightForest:tile.TFLeaves
+TwilightForest:tile.TFFirefly
+TwilightForest:tile.TFCicada
+TwilightForest:tile.TFPortal
+TwilightForest:tile.TFMazestone
+TwilightForest:tile.TFHedge
+TwilightForest:tile.TFBossSpawner
+TwilightForest:tile.TFFireflyJar
+TwilightForest:tile.TFPlant
+TwilightForest:tile.TFUncraftingTable
+TwilightForest:tile.TFFireJet
+TwilightForest:tile.TFNagastone
+TwilightForest:tile.TFSapling
+TwilightForest:tile.TFMoonworm
+TwilightForest:tile.TFMagicLog
+TwilightForest:tile.TFMagicLeaves
+TwilightForest:tile.TFMagicLogSpecial
+TwilightForest:tile.TFTowerStone
+TwilightForest:tile.TFTowerDevice
+TwilightForest:tile.TFTowerTranslucent
+TwilightForest:tile.TFTrophy
+TwilightForest:tile.TFShield
+TwilightForest:tile.TFTrophyPedestal
+TwilightForest:tile.TFAuroraBrick
+TwilightForest:tile.TFUnderBrick
+TwilightForest:tile.TFThorns
+TwilightForest:tile.TFBurntThorns
+TwilightForest:tile.TFThornRose
+TwilightForest:tile.TFLeaves3
+TwilightForest:tile.TFDeadrock
+TwilightForest:tile.DarkLeaves
+TwilightForest:tile.AuroraPillar
+TwilightForest:tile.AuroraSlab
+TwilightForest:tile.AuroraDoubleSlab
+TwilightForest:tile.TrollSteinn
+TwilightForest:tile.WispyCloud
+TwilightForest:tile.FluffyCloud
+TwilightForest:tile.GiantCobble
+TwilightForest:tile.GiantLog
+TwilightForest:tile.GiantLeaves
+TwilightForest:tile.GiantObsidian
+TwilightForest:tile.UberousSoil
+TwilightForest:tile.HugeStalk
+TwilightForest:tile.HugeGloomBlock
+TwilightForest:tile.TrollVidr
+TwilightForest:tile.UnripeTrollBer
+TwilightForest:tile.TrollBer
+TwilightForest:tile.KnightmetalBlock
+TwilightForest:tile.HugeLilyPad
+TwilightForest:tile.HugeWaterLily
+TwilightForest:tile.Slider
+TwilightForest:tile.CastleBrick
+TwilightForest:tile.CastleMagic
+TwilightForest:tile.ForceField
+tfccellars:CellarWall
+tfccellars:IceBunker
+tfccellars:CellarShelf
+tfccellars:CellarDoor
+tfccellars:Ice
+Cogs:tile.blockGear
+Cogs:tile.woodenRod
+Cogs:newOre
+Cogs:blockMachine
+Cogs:tile.steamPipe
+minecraft:record_13
+minecraft:record_cat
+minecraft:record_blocks
+minecraft:record_chirp
+minecraft:record_far
+minecraft:record_mall
+minecraft:record_mellohi
+minecraft:record_stal
+minecraft:record_strad
+minecraft:record_ward
+minecraft:record_11
+minecraft:record_wait
+terrafirmacraft:item.GoldPan
+terrafirmacraft:item.SluiceItem
+terrafirmacraft:item.Bismuth Bronze ProPick
+terrafirmacraft:item.Black Bronze ProPick
+terrafirmacraft:item.Black Steel ProPick
+terrafirmacraft:item.Blue Steel ProPick
+terrafirmacraft:item.Bronze ProPick
+terrafirmacraft:item.Copper ProPick
+terrafirmacraft:item.Wrought Iron ProPick
+terrafirmacraft:item.Red Steel ProPick
+terrafirmacraft:item.Steel ProPick
+terrafirmacraft:item.Bismuth Ingot
+terrafirmacraft:item.Bismuth Bronze Ingot
+terrafirmacraft:item.Black Bronze Ingot
+terrafirmacraft:item.Black Steel Ingot
+terrafirmacraft:item.Blue Steel Ingot
+terrafirmacraft:item.Brass Ingot
+terrafirmacraft:item.Bronze Ingot
+terrafirmacraft:item.Copper Ingot
+terrafirmacraft:item.Gold Ingot
+terrafirmacraft:item.Wrought Iron Ingot
+terrafirmacraft:item.Lead Ingot
+terrafirmacraft:item.Nickel Ingot
+terrafirmacraft:item.Pig Iron Ingot
+terrafirmacraft:item.Platinum Ingot
+terrafirmacraft:item.Red Steel Ingot
+terrafirmacraft:item.Rose Gold Ingot
+terrafirmacraft:item.Silver Ingot
+terrafirmacraft:item.Steel Ingot
+terrafirmacraft:item.Sterling Silver Ingot
+terrafirmacraft:item.Tin Ingot
+terrafirmacraft:item.Zinc Ingot
+terrafirmacraft:item.Bismuth Double Ingot
+terrafirmacraft:item.Bismuth Bronze Double Ingot
+terrafirmacraft:item.Black Bronze Double Ingot
+terrafirmacraft:item.Black Steel Double Ingot
+terrafirmacraft:item.Blue Steel Double Ingot
+terrafirmacraft:item.Brass Double Ingot
+terrafirmacraft:item.Bronze Double Ingot
+terrafirmacraft:item.Copper Double Ingot
+terrafirmacraft:item.Gold Double Ingot
+terrafirmacraft:item.Wrought Iron Double Ingot
+terrafirmacraft:item.Lead Double Ingot
+terrafirmacraft:item.Nickel Double Ingot
+terrafirmacraft:item.Pig Iron Double Ingot
+terrafirmacraft:item.Platinum Double Ingot
+terrafirmacraft:item.Red Steel Double Ingot
+terrafirmacraft:item.Rose Gold Double Ingot
+terrafirmacraft:item.Silver Double Ingot
+terrafirmacraft:item.Steel Double Ingot
+terrafirmacraft:item.Sterling Silver Double Ingot
+terrafirmacraft:item.Tin Double Ingot
+terrafirmacraft:item.Zinc Double Ingot
+terrafirmacraft:item.Ruby
+terrafirmacraft:item.Sapphire
+terrafirmacraft:item.Emerald
+terrafirmacraft:item.Topaz
+terrafirmacraft:item.Tourmaline
+terrafirmacraft:item.Jade
+terrafirmacraft:item.Beryl
+terrafirmacraft:item.Agate
+terrafirmacraft:item.Opal
+terrafirmacraft:item.Garnet
+terrafirmacraft:item.Jasper
+terrafirmacraft:item.Amethyst
+terrafirmacraft:item.Diamond
+terrafirmacraft:item.IgIn Stone Shovel
+terrafirmacraft:item.IgIn Stone Axe
+terrafirmacraft:item.IgIn Stone Hoe
+terrafirmacraft:item.Sed Stone Shovel
+terrafirmacraft:item.Sed Stone Axe
+terrafirmacraft:item.Sed Stone Hoe
+terrafirmacraft:item.IgEx Stone Shovel
+terrafirmacraft:item.IgEx Stone Axe
+terrafirmacraft:item.IgEx Stone Hoe
+terrafirmacraft:item.MM Stone Shovel
+terrafirmacraft:item.MM Stone Axe
+terrafirmacraft:item.MM Stone Hoe
+terrafirmacraft:item.Bismuth Bronze Pick
+terrafirmacraft:item.Bismuth Bronze Shovel
+terrafirmacraft:item.Bismuth Bronze Axe
+terrafirmacraft:item.Bismuth Bronze Hoe
+terrafirmacraft:item.Black Bronze Pick
+terrafirmacraft:item.Black Bronze Shovel
+terrafirmacraft:item.Black Bronze Axe
+terrafirmacraft:item.Black Bronze Hoe
+terrafirmacraft:item.Black Steel Pick
+terrafirmacraft:item.Black Steel Shovel
+terrafirmacraft:item.Black Steel Axe
+terrafirmacraft:item.Black Steel Hoe
+terrafirmacraft:item.Blue Steel Pick
+terrafirmacraft:item.Blue Steel Shovel
+terrafirmacraft:item.Blue Steel Axe
+terrafirmacraft:item.Blue Steel Hoe
+terrafirmacraft:item.Bronze Pick
+terrafirmacraft:item.Bronze Shovel
+terrafirmacraft:item.Bronze Axe
+terrafirmacraft:item.Bronze Hoe
+terrafirmacraft:item.Copper Pick
+terrafirmacraft:item.Copper Shovel
+terrafirmacraft:item.Copper Axe
+terrafirmacraft:item.Copper Hoe
+terrafirmacraft:item.Wrought Iron Pick
+terrafirmacraft:item.Wrought Iron Shovel
+terrafirmacraft:item.Wrought Iron Axe
+terrafirmacraft:item.Wrought Iron Hoe
+terrafirmacraft:item.Red Steel Pick
+terrafirmacraft:item.Red Steel Shovel
+terrafirmacraft:item.Red Steel Axe
+terrafirmacraft:item.Red Steel Hoe
+terrafirmacraft:item.Steel Pick
+terrafirmacraft:item.Steel Shovel
+terrafirmacraft:item.Steel Axe
+terrafirmacraft:item.Steel Hoe
+terrafirmacraft:item.Bismuth Bronze Chisel
+terrafirmacraft:item.Black Bronze Chisel
+terrafirmacraft:item.Black Steel Chisel
+terrafirmacraft:item.Blue Steel Chisel
+terrafirmacraft:item.Bronze Chisel
+terrafirmacraft:item.Copper Chisel
+terrafirmacraft:item.Wrought Iron Chisel
+terrafirmacraft:item.Red Steel Chisel
+terrafirmacraft:item.Steel Chisel
+terrafirmacraft:item.Bismuth Bronze Sword
+terrafirmacraft:item.Black Bronze Sword
+terrafirmacraft:item.Black Steel Sword
+terrafirmacraft:item.Blue Steel Sword
+terrafirmacraft:item.Bronze Sword
+terrafirmacraft:item.Copper Sword
+terrafirmacraft:item.Wrought Iron Sword
+terrafirmacraft:item.Red Steel Sword
+terrafirmacraft:item.Steel Sword
+terrafirmacraft:item.Bismuth Bronze Mace
+terrafirmacraft:item.Black Bronze Mace
+terrafirmacraft:item.Black Steel Mace
+terrafirmacraft:item.Blue Steel Mace
+terrafirmacraft:item.Bronze Mace
+terrafirmacraft:item.Copper Mace
+terrafirmacraft:item.Wrought Iron Mace
+terrafirmacraft:item.Red Steel Mace
+terrafirmacraft:item.Steel Mace
+terrafirmacraft:item.Bismuth Bronze Saw
+terrafirmacraft:item.Black Bronze Saw
+terrafirmacraft:item.Black Steel Saw
+terrafirmacraft:item.Blue Steel Saw
+terrafirmacraft:item.Bronze Saw
+terrafirmacraft:item.Copper Saw
+terrafirmacraft:item.Wrought Iron Saw
+terrafirmacraft:item.Red Steel Saw
+terrafirmacraft:item.Steel Saw
+terrafirmacraft:item.HC Black Steel Ingot
+terrafirmacraft:item.Weak Blue Steel Ingot
+terrafirmacraft:item.Weak Red Steel Ingot
+terrafirmacraft:item.Weak Steel Ingot
+terrafirmacraft:item.HC Blue Steel Ingot
+terrafirmacraft:item.HC Red Steel Ingot
+terrafirmacraft:item.HC Steel Ingot
+terrafirmacraft:item.Ore
+terrafirmacraft:item.Small Ore
+terrafirmacraft:item.Log
+terrafirmacraft:item.IgIn Stone Javelin
+terrafirmacraft:item.Sed Stone Javelin
+terrafirmacraft:item.IgEx Stone Javelin
+terrafirmacraft:item.MM Stone Javelin
+terrafirmacraft:item.Copper Javelin
+terrafirmacraft:item.Bismuth Bronze Javelin
+terrafirmacraft:item.Bronze Javelin
+terrafirmacraft:item.Black Bronze Javelin
+terrafirmacraft:item.Wrought Iron Javelin
+terrafirmacraft:item.Steel Javelin
+terrafirmacraft:item.Black Steel Javelin
+terrafirmacraft:item.Blue Steel Javelin
+terrafirmacraft:item.Red Steel Javelin
+terrafirmacraft:item.IgIn Stone Javelin Head
+terrafirmacraft:item.Sed Stone Javelin Head
+terrafirmacraft:item.IgEx Stone Javelin Head
+terrafirmacraft:item.MM Stone Javelin Head
+terrafirmacraft:item.Copper Javelin Head
+terrafirmacraft:item.Bismuth Bronze Javelin Head
+terrafirmacraft:item.Bronze Javelin Head
+terrafirmacraft:item.Black Bronze Javelin Head
+terrafirmacraft:item.Wrought Iron Javelin Head
+terrafirmacraft:item.Steel Javelin Head
+terrafirmacraft:item.Black Steel Javelin Head
+terrafirmacraft:item.Blue Steel Javelin Head
+terrafirmacraft:item.Red Steel Javelin Head
+terrafirmacraft:item.Bismuth Unshaped
+terrafirmacraft:item.Bismuth Bronze Unshaped
+terrafirmacraft:item.Black Bronze Unshaped
+terrafirmacraft:item.Black Steel Unshaped
+terrafirmacraft:item.Blue Steel Unshaped
+terrafirmacraft:item.Brass Unshaped
+terrafirmacraft:item.Bronze Unshaped
+terrafirmacraft:item.Copper Unshaped
+terrafirmacraft:item.Gold Unshaped
+terrafirmacraft:item.Wrought Iron Unshaped
+terrafirmacraft:item.Lead Unshaped
+terrafirmacraft:item.Nickel Unshaped
+terrafirmacraft:item.Pig Iron Unshaped
+terrafirmacraft:item.Platinum Unshaped
+terrafirmacraft:item.Red Steel Unshaped
+terrafirmacraft:item.Rose Gold Unshaped
+terrafirmacraft:item.Silver Unshaped
+terrafirmacraft:item.Steel Unshaped
+terrafirmacraft:item.Sterling Silver Unshaped
+terrafirmacraft:item.Tin Unshaped
+terrafirmacraft:item.Zinc Unshaped
+terrafirmacraft:item.Stone Hammer
+terrafirmacraft:item.Bismuth Bronze Hammer
+terrafirmacraft:item.Black Bronze Hammer
+terrafirmacraft:item.Black Steel Hammer
+terrafirmacraft:item.Blue Steel Hammer
+terrafirmacraft:item.Bronze Hammer
+terrafirmacraft:item.Copper Hammer
+terrafirmacraft:item.Wrought Iron Hammer
+terrafirmacraft:item.Red Steel Hammer
+terrafirmacraft:item.Steel Hammer
+terrafirmacraft:item.Ink
+terrafirmacraft:item.Firestarter
+terrafirmacraft:item.Bismuth Bronze Pick Head
+terrafirmacraft:item.Black Bronze Pick Head
+terrafirmacraft:item.Black Steel Pick Head
+terrafirmacraft:item.Blue Steel Pick Head
+terrafirmacraft:item.Bronze Pick Head
+terrafirmacraft:item.Copper Pick Head
+terrafirmacraft:item.Wrought Iron Pick Head
+terrafirmacraft:item.Red Steel Pick Head
+terrafirmacraft:item.Steel Pick Head
+terrafirmacraft:item.Bismuth Bronze Shovel Head
+terrafirmacraft:item.Black Bronze Shovel Head
+terrafirmacraft:item.Black Steel Shovel Head
+terrafirmacraft:item.Blue Steel Shovel Head
+terrafirmacraft:item.Bronze Shovel Head
+terrafirmacraft:item.Copper Shovel Head
+terrafirmacraft:item.Wrought Iron Shovel Head
+terrafirmacraft:item.Red Steel Shovel Head
+terrafirmacraft:item.Steel Shovel Head
+terrafirmacraft:item.Bismuth Bronze Hoe Head
+terrafirmacraft:item.Black Bronze Hoe Head
+terrafirmacraft:item.Black Steel Hoe Head
+terrafirmacraft:item.Blue Steel Hoe Head
+terrafirmacraft:item.Bronze Hoe Head
+terrafirmacraft:item.Copper Hoe Head
+terrafirmacraft:item.Wrought Iron Hoe Head
+terrafirmacraft:item.Red Steel Hoe Head
+terrafirmacraft:item.Steel Hoe Head
+terrafirmacraft:item.Bismuth Bronze Axe Head
+terrafirmacraft:item.Black Bronze Axe Head
+terrafirmacraft:item.Black Steel Axe Head
+terrafirmacraft:item.Blue Steel Axe Head
+terrafirmacraft:item.Bronze Axe Head
+terrafirmacraft:item.Copper Axe Head
+terrafirmacraft:item.Wrought Iron Axe Head
+terrafirmacraft:item.Red Steel Axe Head
+terrafirmacraft:item.Steel Axe Head
+terrafirmacraft:item.Bismuth Bronze Hammer Head
+terrafirmacraft:item.Black Bronze Hammer Head
+terrafirmacraft:item.Black Steel Hammer Head
+terrafirmacraft:item.Blue Steel Hammer Head
+terrafirmacraft:item.Bronze Hammer Head
+terrafirmacraft:item.Copper Hammer Head
+terrafirmacraft:item.Wrought Iron Hammer Head
+terrafirmacraft:item.Red Steel Hammer Head
+terrafirmacraft:item.Steel Hammer Head
+terrafirmacraft:item.Bismuth Bronze Chisel Head
+terrafirmacraft:item.Black Bronze Chisel Head
+terrafirmacraft:item.Black Steel Chisel Head
+terrafirmacraft:item.Blue Steel Chisel Head
+terrafirmacraft:item.Bronze Chisel Head
+terrafirmacraft:item.Copper Chisel Head
+terrafirmacraft:item.Wrought Iron Chisel Head
+terrafirmacraft:item.Red Steel Chisel Head
+terrafirmacraft:item.Steel Chisel Head
+terrafirmacraft:item.Bismuth Bronze Sword Blade
+terrafirmacraft:item.Black Bronze Sword Blade
+terrafirmacraft:item.Black Steel Sword Blade
+terrafirmacraft:item.Blue Steel Sword Blade
+terrafirmacraft:item.Bronze Sword Blade
+terrafirmacraft:item.Copper Sword Blade
+terrafirmacraft:item.Wrought Iron Sword Blade
+terrafirmacraft:item.Red Steel Sword Blade
+terrafirmacraft:item.Steel Sword Blade
+terrafirmacraft:item.Bismuth Bronze Mace Head
+terrafirmacraft:item.Black Bronze Mace Head
+terrafirmacraft:item.Black Steel Mace Head
+terrafirmacraft:item.Blue Steel Mace Head
+terrafirmacraft:item.Bronze Mace Head
+terrafirmacraft:item.Copper Mace Head
+terrafirmacraft:item.Wrought Iron Mace Head
+terrafirmacraft:item.Red Steel Mace Head
+terrafirmacraft:item.Steel Mace Head
+terrafirmacraft:item.Bismuth Bronze Saw Blade
+terrafirmacraft:item.Black Bronze Saw Blade
+terrafirmacraft:item.Black Steel Saw Blade
+terrafirmacraft:item.Blue Steel Saw Blade
+terrafirmacraft:item.Bronze Saw Blade
+terrafirmacraft:item.Copper Saw Blade
+terrafirmacraft:item.Wrought Iron Saw Blade
+terrafirmacraft:item.Red Steel Saw Blade
+terrafirmacraft:item.Steel Saw Blade
+terrafirmacraft:item.HC Black Steel Unshaped
+terrafirmacraft:item.Weak Blue Steel Unshaped
+terrafirmacraft:item.HC Blue Steel Unshaped
+terrafirmacraft:item.Weak Red Steel Unshaped
+terrafirmacraft:item.HC Red Steel Unshaped
+terrafirmacraft:item.Weak Steel Unshaped
+terrafirmacraft:item.HC Steel Unshaped
+terrafirmacraft:item.Bismuth Bronze ProPick Head
+terrafirmacraft:item.Black Bronze ProPick Head
+terrafirmacraft:item.Black Steel ProPick Head
+terrafirmacraft:item.Blue Steel ProPick Head
+terrafirmacraft:item.Bronze ProPick Head
+terrafirmacraft:item.Copper ProPick Head
+terrafirmacraft:item.Wrought Iron ProPick Head
+terrafirmacraft:item.Red Steel ProPick Head
+terrafirmacraft:item.Steel ProPick Head
+terrafirmacraft:item.Bismuth Bronze Scythe
+terrafirmacraft:item.Black Bronze Scythe
+terrafirmacraft:item.Black Steel Scythe
+terrafirmacraft:item.Blue Steel Scythe
+terrafirmacraft:item.Bronze Scythe
+terrafirmacraft:item.Copper Scythe
+terrafirmacraft:item.Wrought Iron Scythe
+terrafirmacraft:item.Red Steel Scythe
+terrafirmacraft:item.Steel Scythe
+terrafirmacraft:item.Bismuth Bronze Scythe Blade
+terrafirmacraft:item.Black Bronze Scythe Blade
+terrafirmacraft:item.Black Steel Scythe Blade
+terrafirmacraft:item.Blue Steel Scythe Blade
+terrafirmacraft:item.Bronze Scythe Blade
+terrafirmacraft:item.Copper Scythe Blade
+terrafirmacraft:item.Wrought Iron Scythe Blade
+terrafirmacraft:item.Red Steel Scythe Blade
+terrafirmacraft:item.Steel Scythe Blade
+terrafirmacraft:item.Wooden Bucket Empty
+terrafirmacraft:item.Wooden Bucket Water
+terrafirmacraft:item.Wooden Bucket Salt Water
+terrafirmacraft:item.Wooden Bucket Milk
+terrafirmacraft:item.Bismuth Bronze Knife Blade
+terrafirmacraft:item.Black Bronze Knife Blade
+terrafirmacraft:item.Black Steel Knife Blade
+terrafirmacraft:item.Blue Steel Knife Blade
+terrafirmacraft:item.Bronze Knife Blade
+terrafirmacraft:item.Copper Knife Blade
+terrafirmacraft:item.Wrought Iron Knife Blade
+terrafirmacraft:item.Red Steel Knife Blade
+terrafirmacraft:item.Steel Knife Blade
+terrafirmacraft:item.Bismuth Bronze Knife
+terrafirmacraft:item.Black Bronze Knife
+terrafirmacraft:item.Black Steel Knife
+terrafirmacraft:item.Blue Steel Knife
+terrafirmacraft:item.Bronze Knife
+terrafirmacraft:item.Copper Knife
+terrafirmacraft:item.Wrought Iron Knife
+terrafirmacraft:item.Red Steel Knife
+terrafirmacraft:item.Steel Knife
+terrafirmacraft:item.FlatRock
+terrafirmacraft:item.LooseRock
+terrafirmacraft:item.IgIn Stone Shovel Head
+terrafirmacraft:item.Sed Stone Shovel Head
+terrafirmacraft:item.IgEx Stone Shovel Head
+terrafirmacraft:item.MM Stone Shovel Head
+terrafirmacraft:item.IgIn Stone Axe Head
+terrafirmacraft:item.Sed Stone Axe Head
+terrafirmacraft:item.IgEx Stone Axe Head
+terrafirmacraft:item.MM Stone Axe Head
+terrafirmacraft:item.IgIn Stone Hoe Head
+terrafirmacraft:item.Sed Stone Hoe Head
+terrafirmacraft:item.IgEx Stone Hoe Head
+terrafirmacraft:item.MM Stone Hoe Head
+terrafirmacraft:item.Stone Knife Blade
+terrafirmacraft:item.Stone Hammer Head
+terrafirmacraft:item.Stone Knife
+terrafirmacraft:item.SinglePlank
+terrafirmacraft:item.Red Steel Bucket Empty
+terrafirmacraft:item.Red Steel Bucket Water
+terrafirmacraft:item.Red Steel Bucket Salt Water
+terrafirmacraft:item.Blue Steel Bucket Empty
+terrafirmacraft:item.Blue Steel Bucket Lava
+terrafirmacraft:item.Quern
+terrafirmacraft:item.flintAndSteel
+terrafirmacraft:item.Oak Door
+terrafirmacraft:item.Aspen Door
+terrafirmacraft:item.Birch Door
+terrafirmacraft:item.Chestnut Door
+terrafirmacraft:item.Douglas Fir Door
+terrafirmacraft:item.Hickory Door
+terrafirmacraft:item.Maple Door
+terrafirmacraft:item.Ash Door
+terrafirmacraft:item.Pine Door
+terrafirmacraft:item.Sequoia Door
+terrafirmacraft:item.Spruce Door
+terrafirmacraft:item.Sycamore Door
+terrafirmacraft:item.White Cedar Door
+terrafirmacraft:item.White Elm Door
+terrafirmacraft:item.Willow Door
+terrafirmacraft:item.Kapok Door
+terrafirmacraft:item.Acacia Door
+terrafirmacraft:item.Glass Bottle
+terrafirmacraft:item.Beer
+terrafirmacraft:item.Cider
+terrafirmacraft:item.Rum
+terrafirmacraft:item.RyeWhiskey
+terrafirmacraft:item.Sake
+terrafirmacraft:item.Vodka
+terrafirmacraft:item.Whiskey
+terrafirmacraft:item.CornWhiskey
+terrafirmacraft:item.Blueprint
+terrafirmacraft:item.Nametag
+terrafirmacraft:item.WoolYarn
+terrafirmacraft:item.Wool
+terrafirmacraft:item.WoolCloth
+terrafirmacraft:item.SilkCloth
+terrafirmacraft:item.BurlapCloth
+terrafirmacraft:item.Spindle
+terrafirmacraft:item.Spindle Head
+terrafirmacraft:item.ItemStoneBrick
+terrafirmacraft:item.Mortar
+terrafirmacraft:item.Vinegar
+terrafirmacraft:item.Hide
+terrafirmacraft:item.Soaked Hide
+terrafirmacraft:item.Scraped Hide
+terrafirmacraft:item.Prep Hide
+terrafirmacraft:item.Sheep Skin
+terrafirmacraft:item.Flat Leather
+terrafirmacraft:item.TFC Leather
+terrafirmacraft:item.Straw
+terrafirmacraft:item.Flat Clay
+terrafirmacraft:item.Jug
+terrafirmacraft:item.Small Vessel
+terrafirmacraft:item.ClayBowl
+terrafirmacraft:item.Mold
+terrafirmacraft:item.Fire Brick
+terrafirmacraft:item.Axe Mold
+terrafirmacraft:item.Chisel Mold
+terrafirmacraft:item.Hammer Mold
+terrafirmacraft:item.Hoe Mold
+terrafirmacraft:item.Knife Mold
+terrafirmacraft:item.Mace Mold
+terrafirmacraft:item.Pick Mold
+terrafirmacraft:item.ProPick Mold
+terrafirmacraft:item.Saw Mold
+terrafirmacraft:item.Scythe Mold
+terrafirmacraft:item.Shovel Mold
+terrafirmacraft:item.Sword Mold
+terrafirmacraft:item.Javelin Mold
+terrafirmacraft:item.Copper Tuyere
+terrafirmacraft:item.Bronze Tuyere
+terrafirmacraft:item.Black Bronze Tuyere
+terrafirmacraft:item.Bismuth Bronze Tuyere
+terrafirmacraft:item.Wrought Iron Tuyere
+terrafirmacraft:item.Steel Tuyere
+terrafirmacraft:item.Black Steel Tuyere
+terrafirmacraft:item.Red Steel Tuyere
+terrafirmacraft:item.Blue Steel Tuyere
+terrafirmacraft:item.Iron Bloom
+terrafirmacraft:item.Raw Iron Bloom
+terrafirmacraft:item.Unknown Ingot
+terrafirmacraft:item.Unknown Unshaped
+terrafirmacraft:item.Jute
+terrafirmacraft:item.Jute Fibre
+terrafirmacraft:item.Reeds
+terrafirmacraft:item.fishingRod
+terrafirmacraft:item.coal
+terrafirmacraft:item.stick
+terrafirmacraft:item.bow
+terrafirmacraft:item.arrow
+terrafirmacraft:item.dyePowder
+terrafirmacraft:item.Rope
+terrafirmacraft:item.Clay
+terrafirmacraft:item.Powder
+terrafirmacraft:item.Fertilizer
+terrafirmacraft:item.FruitSapling
+terrafirmacraft:item.Red Apple
+terrafirmacraft:item.Banana
+terrafirmacraft:item.Orange
+terrafirmacraft:item.Green Apple
+terrafirmacraft:item.Lemon
+terrafirmacraft:item.Olive
+terrafirmacraft:item.Cherry
+terrafirmacraft:item.Peach
+terrafirmacraft:item.Plum
+terrafirmacraft:item.egg
+terrafirmacraft:item.Egg Cooked
+terrafirmacraft:item.Wheat Grain
+terrafirmacraft:item.Barley Grain
+terrafirmacraft:item.Oat Grain
+terrafirmacraft:item.Rye Grain
+terrafirmacraft:item.Rice Grain
+terrafirmacraft:item.Maize Ear
+terrafirmacraft:item.Tomato
+terrafirmacraft:item.Potato
+terrafirmacraft:item.Onion
+terrafirmacraft:item.Cabbage
+terrafirmacraft:item.Garlic
+terrafirmacraft:item.Carrot
+terrafirmacraft:item.Sugarcane
+terrafirmacraft:item.Soybeans
+terrafirmacraft:item.Greenbeans
+terrafirmacraft:item.Green Bell Pepper
+terrafirmacraft:item.Yellow Bell Pepper
+terrafirmacraft:item.Red Bell Pepper
+terrafirmacraft:item.Squash
+terrafirmacraft:item.Cheese
+terrafirmacraft:item.Wheat Whole
+terrafirmacraft:item.Barley Whole
+terrafirmacraft:item.Oat Whole
+terrafirmacraft:item.Rye Whole
+terrafirmacraft:item.Rice Whole
+terrafirmacraft:item.Wheat Ground
+terrafirmacraft:item.Barley Ground
+terrafirmacraft:item.Oat Ground
+terrafirmacraft:item.Rye Ground
+terrafirmacraft:item.Rice Ground
+terrafirmacraft:item.Cornmeal Ground
+terrafirmacraft:item.Wheat Dough
+terrafirmacraft:item.Barley Dough
+terrafirmacraft:item.Oat Dough
+terrafirmacraft:item.Rye Dough
+terrafirmacraft:item.Rice Dough
+terrafirmacraft:item.Cornmeal Dough
+terrafirmacraft:item.Wheat Bread
+terrafirmacraft:item.Barley Bread
+terrafirmacraft:item.Oat Bread
+terrafirmacraft:item.Rye Bread
+terrafirmacraft:item.Rice Bread
+terrafirmacraft:item.Corn Bread
+terrafirmacraft:item.Calamari
+terrafirmacraft:item.Seeds Wheat
+terrafirmacraft:item.Seeds Barley
+terrafirmacraft:item.Seeds Rye
+terrafirmacraft:item.Seeds Oat
+terrafirmacraft:item.Seeds Rice
+terrafirmacraft:item.Seeds Maize
+terrafirmacraft:item.Seeds Potato
+terrafirmacraft:item.Seeds Onion
+terrafirmacraft:item.Seeds Cabbage
+terrafirmacraft:item.Seeds Garlic
+terrafirmacraft:item.Seeds Carrot
+terrafirmacraft:item.Seeds Sugarcane
+terrafirmacraft:item.Seeds Tomato
+terrafirmacraft:item.Seeds Yellow Bell Pepper
+terrafirmacraft:item.Seeds Red Bell Pepper
+terrafirmacraft:item.Seeds Soybean
+terrafirmacraft:item.Seeds Greenbean
+terrafirmacraft:item.Seeds Squash
+terrafirmacraft:item.Seeds Jute
+terrafirmacraft:item.Mutton
+terrafirmacraft:item.Venison
+terrafirmacraft:item.HorseMeat
+terrafirmacraft:item.Porkchop
+terrafirmacraft:item.Fish
+terrafirmacraft:item.Beef
+terrafirmacraft:item.Chicken
+terrafirmacraft:item.Sea Weed
+terrafirmacraft:item.Wintergreen Berry
+terrafirmacraft:item.Blueberry
+terrafirmacraft:item.Raspberry
+terrafirmacraft:item.Strawberry
+terrafirmacraft:item.Blackberry
+terrafirmacraft:item.Bunchberry
+terrafirmacraft:item.Cranberry
+terrafirmacraft:item.Snowberry
+terrafirmacraft:item.Elderberry
+terrafirmacraft:item.Gooseberry
+terrafirmacraft:item.Cloudberry
+terrafirmacraft:item.Bismuth Sheet
+terrafirmacraft:item.Bismuth Bronze Sheet
+terrafirmacraft:item.Black Bronze Sheet
+terrafirmacraft:item.Black Steel Sheet
+terrafirmacraft:item.Blue Steel Sheet
+terrafirmacraft:item.Bronze Sheet
+terrafirmacraft:item.Copper Sheet
+terrafirmacraft:item.Wrought Iron Sheet
+terrafirmacraft:item.Red Steel Sheet
+terrafirmacraft:item.Rose Gold Sheet
+terrafirmacraft:item.Steel Sheet
+terrafirmacraft:item.Tin Sheet
+terrafirmacraft:item.Zinc Sheet
+terrafirmacraft:item.Bismuth Double Sheet
+terrafirmacraft:item.Bismuth Bronze Double Sheet
+terrafirmacraft:item.Black Bronze Double Sheet
+terrafirmacraft:item.Black Steel Double Sheet
+terrafirmacraft:item.Blue Steel Double Sheet
+terrafirmacraft:item.Bronze Double Sheet
+terrafirmacraft:item.Copper Double Sheet
+terrafirmacraft:item.Wrought Iron Double Sheet
+terrafirmacraft:item.Red Steel Double Sheet
+terrafirmacraft:item.Rose Gold Double Sheet
+terrafirmacraft:item.Steel Double Sheet
+terrafirmacraft:item.Tin Double Sheet
+terrafirmacraft:item.Zinc Double Sheet
+terrafirmacraft:item.Brass Sheet
+terrafirmacraft:item.Gold Sheet
+terrafirmacraft:item.Lead Sheet
+terrafirmacraft:item.Nickel Sheet
+terrafirmacraft:item.Pig Iron Sheet
+terrafirmacraft:item.Platinum Sheet
+terrafirmacraft:item.Silver Sheet
+terrafirmacraft:item.Sterling Silver Sheet
+terrafirmacraft:item.Brass Double Sheet
+terrafirmacraft:item.Gold Double Sheet
+terrafirmacraft:item.Lead Double Sheet
+terrafirmacraft:item.Nickel Double Sheet
+terrafirmacraft:item.Pig Iron Double Sheet
+terrafirmacraft:item.Platinum Double Sheet
+terrafirmacraft:item.Silver Double Sheet
+terrafirmacraft:item.Sterling Silver Double Sheet
+terrafirmacraft:item.Bismuth Bronze Unfinished Boots
+terrafirmacraft:item.Black Bronze Unfinished Boots
+terrafirmacraft:item.Black Steel Unfinished Boots
+terrafirmacraft:item.Blue Steel Unfinished Boots
+terrafirmacraft:item.Bronze Unfinished Boots
+terrafirmacraft:item.Copper Unfinished Boots
+terrafirmacraft:item.Wrought Iron Unfinished Boots
+terrafirmacraft:item.Red Steel Unfinished Boots
+terrafirmacraft:item.Steel Unfinished Boots
+terrafirmacraft:item.Bismuth Bronze Boots
+terrafirmacraft:item.Black Bronze Boots
+terrafirmacraft:item.Black Steel Boots
+terrafirmacraft:item.Blue Steel Boots
+terrafirmacraft:item.Bronze Boots
+terrafirmacraft:item.Copper Boots
+terrafirmacraft:item.Wrought Iron Boots
+terrafirmacraft:item.Red Steel Boots
+terrafirmacraft:item.Steel Boots
+terrafirmacraft:item.Bismuth Bronze Unfinished Greaves
+terrafirmacraft:item.Black Bronze Unfinished Greaves
+terrafirmacraft:item.Black Steel Unfinished Greaves
+terrafirmacraft:item.Blue Steel Unfinished Greaves
+terrafirmacraft:item.Bronze Unfinished Greaves
+terrafirmacraft:item.Copper Unfinished Greaves
+terrafirmacraft:item.Wrought Iron Unfinished Greaves
+terrafirmacraft:item.Red Steel Unfinished Greaves
+terrafirmacraft:item.Steel Unfinished Greaves
+terrafirmacraft:item.Bismuth Bronze Greaves
+terrafirmacraft:item.Black Bronze Greaves
+terrafirmacraft:item.Black Steel Greaves
+terrafirmacraft:item.Blue Steel Greaves
+terrafirmacraft:item.Bronze Greaves
+terrafirmacraft:item.Copper Greaves
+terrafirmacraft:item.Wrought Iron Greaves
+terrafirmacraft:item.Red Steel Greaves
+terrafirmacraft:item.Steel Greaves
+terrafirmacraft:item.Bismuth Bronze Unfinished Chestplate
+terrafirmacraft:item.Black Bronze Unfinished Chestplate
+terrafirmacraft:item.Black Steel Unfinished Chestplate
+terrafirmacraft:item.Blue Steel Unfinished Chestplate
+terrafirmacraft:item.Bronze Unfinished Chestplate
+terrafirmacraft:item.Copper Unfinished Chestplate
+terrafirmacraft:item.Wrought Iron Unfinished Chestplate
+terrafirmacraft:item.Red Steel Unfinished Chestplate
+terrafirmacraft:item.Steel Unfinished Chestplate
+terrafirmacraft:item.Bismuth Bronze Chestplate
+terrafirmacraft:item.Black Bronze Chestplate
+terrafirmacraft:item.Black Steel Chestplate
+terrafirmacraft:item.Blue Steel Chestplate
+terrafirmacraft:item.Bronze Chestplate
+terrafirmacraft:item.Copper Chestplate
+terrafirmacraft:item.Wrought Iron Chestplate
+terrafirmacraft:item.Red Steel Chestplate
+terrafirmacraft:item.Steel Chestplate
+terrafirmacraft:item.Bismuth Bronze Unfinished Helmet
+terrafirmacraft:item.Black Bronze Unfinished Helmet
+terrafirmacraft:item.Black Steel Unfinished Helmet
+terrafirmacraft:item.Blue Steel Unfinished Helmet
+terrafirmacraft:item.Bronze Unfinished Helmet
+terrafirmacraft:item.Copper Unfinished Helmet
+terrafirmacraft:item.Wrought Iron Unfinished Helmet
+terrafirmacraft:item.Red Steel Unfinished Helmet
+terrafirmacraft:item.Steel Unfinished Helmet
+terrafirmacraft:item.Bismuth Bronze Helmet
+terrafirmacraft:item.Black Bronze Helmet
+terrafirmacraft:item.Black Steel Helmet
+terrafirmacraft:item.Blue Steel Helmet
+terrafirmacraft:item.Bronze Helmet
+terrafirmacraft:item.Copper Helmet
+terrafirmacraft:item.Wrought Iron Helmet
+terrafirmacraft:item.Red Steel Helmet
+terrafirmacraft:item.Steel Helmet
+terrafirmacraft:item.helmetCloth
+terrafirmacraft:item.chestplateCloth
+terrafirmacraft:item.leggingsCloth
+terrafirmacraft:item.bootsCloth
+terrafirmacraft:item.Quiver
+terrafirmacraft:item.Sandwich
+terrafirmacraft:item.Salad
+terrafirmacraft:item.Sugar
+terrafirmacraft:item.shears
+DecorationsTFC:item.LanternCore.Copper
+DecorationsTFC:item.LanternCore.Bronze
+DecorationsTFC:item.LanternCore.BismuthBronze
+DecorationsTFC:item.LanternCore.BlackBronze
+DecorationsTFC:item.LanternCore.Brass
+DecorationsTFC:item.LanternCore.Lead
+DecorationsTFC:item.LanternCore.Gold
+DecorationsTFC:item.LanternCore.RoseGold
+DecorationsTFC:item.LanternCore.Silver
+DecorationsTFC:item.LanternCore.SterlingSilver
+DecorationsTFC:item.LanternCore.Platinum
+DecorationsTFC:item.LanternCore.WroughtIron
+DecorationsTFC:item.Powders.Gypsum
+DecorationsTFC:item.Plaster
+DecorationsTFC:item.LiquidDye
+DecorationsTFC:item.Brush
+Eln:eln.itemCreativeTab
+Eln:Eln.sharedItem
+Eln:Eln.sharedItemStackOne
+Eln:Eln.Copper Helmet
+Eln:Eln.Copper Chestplate
+Eln:Eln.Copper Leggings
+Eln:Eln.Copper Boots
+Eln:Eln.E-Coal Helmet
+Eln:Eln.E-Coal Chestplate
+Eln:Eln.E-Coal Leggings
+Eln:Eln.E-Coal Boots
+Eln:Eln.Copper Sword
+Eln:Eln.Copper Hoe
+Eln:Eln.Copper Shovel
+Eln:Eln.Copper Pickaxe
+Eln:Eln.Copper Axe
+lwstfc:item.LeatherWaterSac
+lwstfc:item.WaterSacLeather
+lwstfc:item.Bladder
+tfcudarymod:item.empty
+tfcudarymod:item.Ceramic Battery
+tfcudarymod:item.Bottled Water
+tfcudarymod:item.Bottled Nitric Acid
+tfcudarymod:item.Blue Steel Bucket Nitric Acid
+tfcudarymod:item.Red Steel Bucket Nitric Acid
+tfcudarymod:item.Bottled Sulfuric Acid
+tfcudarymod:item.Blue Steel Bucket Sulfuric Acid
+tfcudarymod:item.Red Steel Bucket Sulfuric Acid
+tfcudarymod:item.Copper Wire
+tfcudarymod:item.Wrought Iron Buckle
+tfcudarymod:item.Silver Flake
+tfcudarymod:item.Cooked Limonite
+tfcudarymod:item.Nickel Flake
+tfcudarymod:item.Rod Mold
+tfcudarymod:item.Cooked Limonite Powder
+tfcudarymod:item.Carbon Rod
+tfcudarymod:item.Copper Rod
+tfcudarymod:item.Copper Rod Silver Coated
+tfcudarymod:item.Copper Rod Nickel Coated
+tfcudarymod:item.Tucker Bag
+tfcudarymod:item.Tucker Bag v2
+antiqueatlas:antiqueAtlas
+antiqueatlas:emptyAntiqueAtlas
+BiblioCraft:item.StockroomCatalog
+BiblioCraft:item.PlumbLine
+BiblioCraft:item.FramingSaw
+BiblioCraft:item.FramingBoard
+BiblioCraft:item.FramingSheet
+BiblioCraft:item.TesterItem
+BiblioCraft:item.AtlasBook
+BiblioCraft:item.AtlasPlate
+BiblioCraft:item.DeathCompass
+BiblioCraft:item.PaintingCanvas
+BiblioCraft:item.BigBook
+BiblioCraft:item.RecipeBook
+BiblioCraft:item.SlottedBook
+BiblioCraft:item.HandDrill
+BiblioCraft:item.tapeMeasure
+BiblioCraft:item.tape
+BiblioCraft:item.BiblioChase
+BiblioCraft:item.PrintPlate
+BiblioCraft:item.EnchantedPlate
+BiblioCraft:item.BiblioRedBook
+BiblioCraft:item.BiblioGlasses
+BiblioCraft:item.BiblioDrill
+BiblioCraft:item.BiblioCreativeLock
+BiblioCraft:item.BiblioClipboard
+BiblioCraft:item.seatBack
+BiblioCraft:item.seatBack2
+BiblioCraft:item.seatBack3
+BiblioCraft:item.seatBack4
+BiblioCraft:item.seatBack5
+BiblioCraft:item.BiblioMapTool
+BiblioCraft:item.BiblioWayPointCompass
+BiblioWoodsTFC:item.BiblioTFCItems
+BiblioWoodsTFC:seatBack1
+BiblioWoodsTFC:seatBack2
+BiblioWoodsTFC:seatBack3
+BiblioWoodsTFC:seatBack4
+BiblioWoodsTFC:seatBack5
+BuildCraft|Core:wrenchItem
+BuildCraft|Core:mapLocation
+BuildCraft|Core:list
+BuildCraft|Core:woodenGearItem
+BuildCraft|Core:stoneGearItem
+BuildCraft|Core:ironGearItem
+BuildCraft|Core:goldGearItem
+BuildCraft|Core:diamondGearItem
+BuildCraft|Transport:pipeWaterproof
+BuildCraft|Transport:item.buildcraftPipe.pipeitemswood
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemerald
+BuildCraft|Transport:item.buildcraftPipe.pipeitemscobblestone
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstone
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsquartz
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsiron
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsgold
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdiamond
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsobsidian
+BuildCraft|Transport:item.buildcraftPipe.pipeitemslapis
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsdaizuli
+BuildCraft|Transport:item.buildcraftPipe.pipeitemssandstone
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsvoid
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsemzuli
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsstripes
+BuildCraft|Transport:item.buildcraftPipe.pipeitemsclay
+BuildCraft|Transport:item.buildcraftPipe.pipefluidswood
+BuildCraft|Transport:item.buildcraftPipe.pipefluidscobblestone
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsstone
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsquartz
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsiron
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsgold
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsemerald
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsdiamond
+BuildCraft|Transport:item.buildcraftPipe.pipefluidssandstone
+BuildCraft|Transport:item.buildcraftPipe.pipefluidsvoid
+BuildCraft|Transport:item.buildcraftPipe.pipepowerwood
+BuildCraft|Transport:item.buildcraftPipe.pipepowercobblestone
+BuildCraft|Transport:item.buildcraftPipe.pipepowerstone
+BuildCraft|Transport:item.buildcraftPipe.pipepowerquartz
+BuildCraft|Transport:item.buildcraftPipe.pipepoweriron
+BuildCraft|Transport:item.buildcraftPipe.pipepowergold
+BuildCraft|Transport:item.buildcraftPipe.pipepowerdiamond
+BuildCraft|Transport:item.buildcraftPipe.pipepoweremerald
+BuildCraft|Transport:item.buildcraftPipe.pipepowersandstone
+BuildCraft|Transport:item.buildcraftPipe.pipestructurecobblestone
+BuildCraft|Transport:pipeWire
+BuildCraft|Transport:pipeGate
+BuildCraft|Transport:pipeFacade
+BuildCraft|Transport:pipePlug
+BuildCraft|Transport:pipeLens
+BuildCraft|Transport:robotStation
+BuildCraft|Transport:gateCopier
+BuildCraft|Silicon:redstoneChipset
+BuildCraft|Silicon:redstone_board
+BuildCraft|Silicon:redstoneCrystal
+BuildCraft|Silicon:robot
+BuildCraft|Builders:templateItem
+BuildCraft|Builders:blueprintItem
+BuildCraft|Energy:bucketOil
+BuildCraft|Energy:bucketFuel
+CarpentersBlocks:itemCarpentersHammer
+CarpentersBlocks:itemCarpentersChisel
+CarpentersBlocks:itemCarpentersTile
+CarpentersBlocks:itemCarpentersDoor
+CarpentersBlocks:itemCarpentersBed
+exnihilo:bucket_witchwater
+exnihilo:hammer_wood
+exnihilo:hammer_stone
+exnihilo:hammer_iron
+exnihilo:hammer_gold
+exnihilo:hammer_diamond
+exnihilo:crook
+exnihilo:crook_bone
+exnihilo:silkworm
+exnihilo:mesh
+exnihilo:spores
+exnihilo:seed_grass
+exnihilo:stone
+exnihilo:porcelain
+exnihilo:doll
+exnihilo:doll_angry
+exnihilo:doll_creepy
+exnihilo:silkworm_cooked
+exnihilo:seed_oak
+exnihilo:seed_acacia
+exnihilo:seed_spruce
+exnihilo:seed_birch
+exnihilo:seed_jungle
+exnihilo:seed_cactus
+exnihilo:seed_sugar_cane
+exnihilo:seed_carrot
+exnihilo:seed_potato
+exnihilo:seed_rubber
+exnihilo:ice_shard
+Steamcraft:book
+Steamcraft:spyglass
+Steamcraft:astrolabe
+Steamcraft:canister
+Steamcraft:survivalist
+Steamcraft:wrench
+Steamcraft:smashedOre
+Steamcraft:steamcraftCrafting
+Steamcraft:musketCartridge
+Steamcraft:musket
+Steamcraft:pistol
+Steamcraft:blunderbuss
+Steamcraft:enhancementRevolver
+Steamcraft:enhancementAblaze
+Steamcraft:enhancementSpeedloader
+Steamcraft:enhancementSilencer
+Steamcraft:enhancementRecoil
+Steamcraft:enhancementSpeedy
+Steamcraft:rocketLauncher
+Steamcraft:enhancementFastRockets
+Steamcraft:enhancementAirStrike
+Steamcraft:enhancementAmmo
+Steamcraft:rocket
+Steamcraft:rocketConcussive
+Steamcraft:rocketMiner
+Steamcraft:exoArmorHead
+Steamcraft:exoArmorBody
+Steamcraft:exoArmorLegs
+Steamcraft:exoArmorFeet
+Steamcraft:jetpack
+Steamcraft:wings
+Steamcraft:powerFist
+Steamcraft:extendoFist
+Steamcraft:thrusters
+Steamcraft:fallAssist
+Steamcraft:jumpAssist
+Steamcraft:runAssist
+Steamcraft:doubleJump
+Steamcraft:canner
+Steamcraft:pitonDeployer
+Steamcraft:stealthUpgrade
+Steamcraft:enderShroud
+Steamcraft:reinforcedTank
+Steamcraft:uberReinforcedTank
+Steamcraft:steamDrill
+Steamcraft:steamAxe
+Steamcraft:steamShovel
+Steamcraft:ingotMold
+Steamcraft:nuggetMold
+Steamcraft:plateMold
+Steamcraft:blankMold
+Steamcraft:steamedFish
+Steamcraft:steamedChicken
+Steamcraft:steamedBeef
+Steamcraft:steamedPorkchop
+Steamcraft:steamcraftIngot
+Steamcraft:monacle
+Steamcraft:goggles
+Steamcraft:tophatNoEmerald
+Steamcraft:tophat
+Steamcraft:steamcraftNugget
+Steamcraft:steamcraftPlate
+Steamcraft:exosuitPlate
+Steamcraft:pickBrass
+Steamcraft:axeBrass
+Steamcraft:shovelBrass
+Steamcraft:hoeBrass
+Steamcraft:swordBrass
+Steamcraft:helmBrass
+Steamcraft:chestBrass
+Steamcraft:legsBrass
+Steamcraft:feetBrass
+Steamcraft:pickGildedGold
+Steamcraft:axeGildedGold
+Steamcraft:shovelGildedGold
+Steamcraft:hoeGildedGold
+Steamcraft:swordGildedGold
+Steamcraft:helmGildedGold
+Steamcraft:chestGildedGold
+Steamcraft:legsGildedGold
+Steamcraft:feetGildedGold
+Forestry:fertilizerBio
+Forestry:fertilizerCompound
+Forestry:apatite
+Forestry:researchNote
+Forestry:ingotCopper
+Forestry:ingotTin
+Forestry:ingotBronze
+Forestry:wrench
+Forestry:pipette
+Forestry:sturdyMachine
+Forestry:hardenedMachine
+Forestry:impregnatedCasing
+Forestry:craftingMaterial
+Forestry:naturalistHelmet
+Forestry:peat
+Forestry:ash
+Forestry:bituminousPeat
+Forestry:gearBronze
+Forestry:gearCopper
+Forestry:gearTin
+Forestry:chipsets
+Forestry:solderingIron
+Forestry:thermionicTubes
+Forestry:carton
+Forestry:oakStick
+Forestry:woodPulp
+Forestry:brokenBronzePickaxe
+Forestry:brokenBronzeShovel
+Forestry:bronzePickaxe
+Forestry:bronzeShovel
+Forestry:kitShovel
+Forestry:kitPickaxe
+Forestry:mouldyWheat
+Forestry:decayingWheat
+Forestry:mulch
+Forestry:iodineCapsule
+Forestry:phosphor
+Forestry:beeswax
+Forestry:refractoryWax
+Forestry:fruits
+Forestry:cratedWood
+Forestry:cratedSpruceWood
+Forestry:cratedBirchWood
+Forestry:cratedJungleWood
+Forestry:cratedAcaciaWood
+Forestry:cratedDarkOakWood
+Forestry:cratedCobblestone
+Forestry:cratedDirt
+Forestry:cratedPodzol
+Forestry:cratedStone
+Forestry:cratedBrick
+Forestry:cratedCacti
+Forestry:cratedSand
+Forestry:cratedRedSand
+Forestry:cratedObsidian
+Forestry:cratedNetherrack
+Forestry:cratedSoulsand
+Forestry:cratedSandstone
+Forestry:cratedHumus
+Forestry:cratedBogearth
+Forestry:cratedNetherbrick
+Forestry:cratedPeat
+Forestry:cratedApatite
+Forestry:cratedFertilizer
+Forestry:cratedWheat
+Forestry:cratedMycelium
+Forestry:cratedMulch
+Forestry:cratedCookies
+Forestry:cratedRedstone
+Forestry:cratedLapis
+Forestry:cratedReeds
+Forestry:cratedClay
+Forestry:cratedGlowstone
+Forestry:cratedApples
+Forestry:cratedNetherwart
+Forestry:cratedPhosphor
+Forestry:cratedAsh
+Forestry:cratedCharcoal
+Forestry:cratedCoal
+Forestry:cratedGravel
+Forestry:cratedSeeds
+Forestry:cratedSaplings
+Forestry:cratedSpruceSapling
+Forestry:cratedBirchSapling
+Forestry:cratedJungleSapling
+Forestry:cratedAcaciaSapling
+Forestry:cratedDarkOakSapling
+Forestry:cratedPotatoes
+Forestry:cratedCarrots
+Forestry:cratedTin
+Forestry:cratedCopper
+Forestry:cratedBronze
+Forestry:canEmpty
+Forestry:canEthanol
+Forestry:canBiomass
+Forestry:canHoney
+Forestry:canIce
+Forestry:canJuice
+Forestry:canSeedOil
+Forestry:canWater
+Forestry:canLava
+Forestry:canFuel
+Forestry:canOil
+Forestry:waxCapsule
+Forestry:waxCapsuleEthanol
+Forestry:waxCapsuleBiomass
+Forestry:waxCapsuleHoney
+Forestry:waxCapsuleIce
+Forestry:waxCapsuleJuice
+Forestry:waxCapsuleSeedOil
+Forestry:waxCapsuleWater
+Forestry:waxCapsuleFuel
+Forestry:waxCapsuleOil
+Forestry:refractoryEmpty
+Forestry:refractoryEthanol
+Forestry:refractoryBiomass
+Forestry:refractoryHoney
+Forestry:refractoryIce
+Forestry:refractoryJuice
+Forestry:refractorySeedOil
+Forestry:refractoryWater
+Forestry:refractoryLava
+Forestry:refractoryFuel
+Forestry:refractoryOil
+Forestry:bucketEthanol
+Forestry:bucketBiomass
+Forestry:bucketGlass
+Forestry:bucketHoney
+Forestry:bucketIce
+Forestry:bucketJuice
+Forestry:bucketSeedoil
+Forestry:bucketShortMead
+Forestry:beeQueenGE
+Forestry:beeDroneGE
+Forestry:beePrincessGE
+Forestry:beeLarvaeGE
+Forestry:beealyzer
+Forestry:habitatLocator
+Forestry:imprinter
+Forestry:frameUntreated
+Forestry:frameImpregnated
+Forestry:frameProven
+Forestry:honeyDrop
+Forestry:pollen
+Forestry:propolis
+Forestry:honeydew
+Forestry:royalJelly
+Forestry:waxCast
+Forestry:beeCombs
+Forestry:apiaristHelmet
+Forestry:apiaristChest
+Forestry:apiaristLegs
+Forestry:apiaristBoots
+Forestry:scoop
+Forestry:cratedBeeswax
+Forestry:cratedPollen
+Forestry:cratedPropolis
+Forestry:cratedHoneydew
+Forestry:cratedRoyalJelly
+Forestry:cratedHoneycombs
+Forestry:cratedCocoaComb
+Forestry:cratedSimmeringCombs
+Forestry:cratedStringyCombs
+Forestry:cratedFrozenCombs
+Forestry:cratedDrippingCombs
+Forestry:cratedSilkyCombs
+Forestry:cratedParchedCombs
+Forestry:cratedMysteriousCombs
+Forestry:cratedPowderyCombs
+Forestry:cratedWheatenCombs
+Forestry:cratedMossyCombs
+Forestry:cratedMellowCombs
+Forestry:cratedRefractoryWax
+Forestry:sapling
+Forestry:pollenFertile
+Forestry:treealyzer
+Forestry:grafter
+Forestry:grafterProven
+Forestry:cratedCherry
+Forestry:cratedWalnut
+Forestry:cratedChestnut
+Forestry:cratedLemon
+Forestry:cratedPlum
+Forestry:cratedPapaya
+Forestry:cratedDates
+Forestry:honeyedSlice
+Forestry:beverage
+Forestry:ambrosia
+Forestry:honeyPot
+Forestry:infuser
+Forestry:flutterlyzer
+Forestry:butterflyGE
+Forestry:serumGE
+Forestry:caterpillarGE
+Forestry:stamps
+Forestry:letters
+Forestry:catalogue
+Forestry:crate
+Forestry:apiaristBag
+Forestry:lepidopteristBag
+Forestry:minerBag
+Forestry:minerBagT2
+Forestry:diggerBag
+Forestry:diggerBagT2
+Forestry:foresterBag
+Forestry:foresterBagT2
+Forestry:hunterBag
+Forestry:hunterBagT2
+Forestry:adventurerBag
+Forestry:adventurerBagT2
+Forestry:builderBag
+Forestry:builderBagT2
+HardcoreQuesting:quest_book
+HardcoreQuesting:hearts
+HardcoreQuesting:bags
+HardcoreQuesting:hqmInvalidItem
+Railcraft:fluid.creosote.bucket
+Railcraft:fluid.creosote.bottle
+Railcraft:fluid.creosote.can
+Railcraft:fluid.creosote.cell
+Railcraft:fluid.creosote.wax
+Railcraft:fluid.creosote.refactory
+Railcraft:fluid.steam.bottle
+Railcraft:tool.crowbar
+Railcraft:tool.crowbar.reinforced
+Railcraft:tool.magnifying.glass
+Railcraft:armor.goggles
+Railcraft:part.circuit
+Railcraft:tool.steel.shears
+Railcraft:tool.steel.sword
+Railcraft:tool.steel.shovel
+Railcraft:tool.steel.pickaxe
+Railcraft:tool.steel.axe
+Railcraft:tool.steel.hoe
+Railcraft:armor.steel.helmet
+Railcraft:armor.steel.plate
+Railcraft:armor.steel.legs
+Railcraft:armor.steel.boots
+Railcraft:armor.overalls
+Railcraft:nugget
+Railcraft:ingot
+Railcraft:part.railbed
+Railcraft:part.tie
+Railcraft:part.rebar
+Railcraft:part.rail
+Railcraft:fuel.coke
+Railcraft:part.plate
+Railcraft:dust
+Railcraft:part.gear
+Railcraft:cart.tnt.wood
+Railcraft:cart.work
+Railcraft:tool.surveyor
+Railcraft:tool.signal.tuner
+Railcraft:part.signal.lamp
+Railcraft:part.bleached.clay
+Railcraft:cart.bore
+Railcraft:borehead.diamond
+Railcraft:borehead.steel
+Railcraft:borehead.iron
+Railcraft:cart.track.relayer
+Railcraft:cart.undercutter
+Railcraft:cart.track.layer
+Railcraft:cart.track.remover
+Railcraft:cart.tank
+Railcraft:cart.cargo
+Railcraft:cart.anchor
+Railcraft:cart.anchor.personal
+Railcraft:cart.anchor.admin
+Railcraft:cart.pumpkin
+Railcraft:cart.gift
+Railcraft:tool.whistle.tuner
+Railcraft:cart.loco.steam.solid
+Railcraft:cart.loco.electric
+Railcraft:routing.table
+Railcraft:routing.ticket.gold
+Railcraft:routing.ticket
+Railcraft:emblem
+Railcraft:firestone.raw
+Railcraft:firestone.cut
+Railcraft:firestone.refined
+Railcraft:firestone.cracked
+Railcraft:tool.electric.meter
+Railcraft:part.turbine.rotor
+Railcraft:part.turbine.disk
+Railcraft:part.turbine.blade
+Magneticraft:item.chunks
+Magneticraft:item.rubble
+Magneticraft:item.pebbles
+Magneticraft:item.dust
+Magneticraft:item.ingotCopper
+Magneticraft:item.ingotTungsten
+Magneticraft:item.ingotBrass
+Magneticraft:item.ingotZinc
+Magneticraft:item.dustSulfur
+Magneticraft:item.dustQuartz
+Magneticraft:item.dustObsidian
+Magneticraft:item.dustSalt
+Magneticraft:item.heatcoil_copper
+Magneticraft:item.heatcoil_iron
+Magneticraft:item.heatcoil_tungsten
+Magneticraft:item.cable_low
+Magneticraft:item.cable_medium
+Magneticraft:item.cable_high
+Magneticraft:item.voltmeter
+Magneticraft:item.thermometer
+Magneticraft:item.battery
+Magneticraft:item.map_pos
+Magneticraft:item.copper_pipe
+Magneticraft:item.wrench
+Magneticraft:item.turbine_0
+Magneticraft:item.turbine_1
+Magneticraft:item.turbine_2
+Magneticraft:item.uranium_rod
+Magneticraft:item.thorium_rod
+Magneticraft:item.motor
+Magneticraft:item.copper_coil
+Magneticraft:item.drill
+Magneticraft:item.copper_wire
+Magneticraft:item.ingotCarbide
+Magneticraft:item.oil_prospector
+Magneticraft:item.photoelectric_dust
+Magneticraft:item.string_fabric
+Magneticraft:item.turbine_wing
+Magneticraft:item.plastic
+Magneticraft:item.dustdiamond
+Magneticraft:item.electric_sword
+Magneticraft:item.chainsaw
+Magneticraft:item.bucket_oil
+Magneticraft:item.bucket_light_oil
+Magneticraft:item.bucket_heavy_oil
+Magneticraft:item.bucket_hot_crude
+Magneticraft:item.mips_cpu
+Magneticraft:item.ram
+Magneticraft:item.rom
+Magneticraft:item.floppydisk
+Magneticraft:item.harddrive
+Magneticraft:item.iron_pipe
+Magneticraft:item.heat_cable
+Magneticraft:item.jack_hammer
+Magneticraft:item.heavy_copper_coil
+Magneticraft:item.tool_charger
+Magneticraft:item.optic_fiber
+Magneticraft:item.dustBrass
+Magneticraft:item.stick_iron
+Magneticraft:item.battery_small
+Magneticraft:item.alternator
+Magneticraft:item.magnet
+Magneticraft:item.inserter_item_drop_upgrade
+Magneticraft:item.inserter_item_suck_upgrade
+Magneticraft:item.inserter_item_speed_upgrade
+Magneticraft:item.inserter_item_slow_upgrade
+Magneticraft:item.rubber
+Magneticraft:item.brass_pipe
+Magneticraft:item.stone_hammer
+Magneticraft:item.iron_hammer
+Magneticraft:item.manometer
+necromancy:ItemNecromancy
+necromancy:Necronomicon
+necromancy:ItemScythe
+necromancy:ItemScytheBone
+necromancy:BucketBlood
+necromancy:Organs
+necromancy:BodyParts
+necromancy:ItemIsaacsHead
+necromancy:NecroSpawner
+OpenBlocks:hangglider
+OpenBlocks:generic
+OpenBlocks:luggage
+OpenBlocks:sonicglasses
+OpenBlocks:pencilGlasses
+OpenBlocks:crayonGlasses
+OpenBlocks:technicolorGlasses
+OpenBlocks:seriousGlasses
+OpenBlocks:craneControl
+OpenBlocks:craneBackpack
+OpenBlocks:slimalyzer
+OpenBlocks:filledbucket
+OpenBlocks:sleepingBag
+OpenBlocks:paintBrush
+OpenBlocks:stencil
+OpenBlocks:squeegee
+OpenBlocks:heightMap
+OpenBlocks:emptyMap
+OpenBlocks:cartographer
+OpenBlocks:tastyClay
+OpenBlocks:goldenEye
+OpenBlocks:genericUnstackable
+OpenBlocks:cursor
+OpenBlocks:infoBook
+OpenBlocks:devnull
+OpenBlocks:spongeonastick
+OpenBlocks:pedometer
+RopesPlus:DirtArrow
+RopesPlus:ExplodingArrow
+RopesPlus:FireArrow
+RopesPlus:SeedArrow
+RopesPlus:FrostArrow
+RopesPlus:PenetratingArrow
+RopesPlus:SlimeArrow
+RopesPlus:TorchArrow
+RopesPlus:WarpArrow
+RopesPlus:ConfusingArrow
+RopesPlus:RopeArrow
+RopesPlus:RedstonetorchArrow
+RopesPlus:itemGrapplingHook
+RopesPlus:itemHookshot
+RopesPlus:HookshotCartridge
+RopesPlus:bowRopesPlus
+steamcraft2:ItemClockworkWings
+steamcraft2:ItemSteamJetpack
+steamcraft2:ItemSteamWingpack
+steamcraft2:ItemHelmetBrass
+steamcraft2:ItemChestplateBrass
+steamcraft2:ItemLegsBrass
+steamcraft2:ItemBootsBrass
+steamcraft2:ItemBrassGoggles
+steamcraft2:ItemDivingHelmet
+steamcraft2:ItemMonocle
+steamcraft2:ItemHelmetWhalebone
+steamcraft2:ItemChestplateWhalebone
+steamcraft2:ItemLegsWhalebone
+steamcraft2:ItemBootsWhalebone
+steamcraft2:ItemMusketBall
+steamcraft2:ItemRifleBullet
+steamcraft2:ItemPercussionCap
+steamcraft2:ItemFlintlockMusket
+steamcraft2:ItemMatchlockMusket
+steamcraft2:ItemPercussionCapMusket
+steamcraft2:ItemFlintlockRifle
+steamcraft2:ItemMatchlockRifle
+steamcraft2:ItemPercussionCapRifle
+steamcraft2:ItemFlintlockPistol
+steamcraft2:ItemMatchlockPistol
+steamcraft2:ItemPercussionCapPistol
+steamcraft2:ItemRayGun
+steamcraft2:ItemShrinkray
+steamcraft2:ItemRocket
+steamcraft2:ItemClockworkRocketLauncher
+steamcraft2:ItemIngot
+steamcraft2:ItemMetalNugget
+steamcraft2:ItemMetalSheet
+steamcraft2:ItemMetalPowder
+steamcraft2:ItemVanillaMetalPowder
+steamcraft2:ItemVanillaMetalSheet
+steamcraft2:ItemMachinePart
+steamcraft2:ItemGunPart
+steamcraft2:ItemIronParts
+steamcraft2:ItemSteelParts
+steamcraft2:ItemCanisterSteam
+steamcraft2:ItemReinforcedCanisterSteam
+steamcraft2:ItemElectricJarSmall
+steamcraft2:ItemElectricJarMedium
+steamcraft2:ItemElectricJarLarge
+steamcraft2:ItemElectricJarHuge
+steamcraft2:ItemResource
+steamcraft2:ItemWatch
+steamcraft2:ItemTimeClock
+steamcraft2:ItemTeaSeed
+steamcraft2:ItemChisel
+steamcraft2:ItemHammer
+steamcraft2:ItemBugHammer
+steamcraft2:ItemDrawplate
+steamcraft2:ItemGrindstone
+steamcraft2:ItemSpanner
+steamcraft2:ItemMatch
+steamcraft2:ItemAqualung
+steamcraft2:ItemPistonPlating
+steamcraft2:ItemEmergencyTank
+steamcraft2:ItemWatchDisplay
+steamcraft2:ItemClimbingSpikes
+steamcraft2:ItemLegBraces
+steamcraft2:ItemSpringHeels
+steamcraft2:ItemRollerSkates
+steamcraft2:ItemParachute
+steamcraft2:ItemFlippers
+steamcraft2:ItemLifeVest
+steamcraft2:ItemPistonBoots
+steamcraft2:ItemSteelPlating
+steamcraft2:ItemLastResort
+steamcraft2:ItemGogglesModule
+steamcraft2:ItemWingpackModule
+steamcraft2:ItemFreezeBoots
+steamcraft2:ItemSuperFreezeBoots
+steamcraft2:ItemAutofeeder
+steamcraft2:ItemTeaLeaf
+steamcraft2:ItemSlimeRubber
+steamcraft2:ItemTeapot
+steamcraft2:ItemTeacup
+steamcraft2:ItemHandbook
+steamcraft2:ItemSpyglass
+steamcraft2:ItemLoreBook
+steamcraft2:ItemFieldManipulator
+steamcraft2:ItemSplashLightningBottle
+steamcraft2:ItemSteamcraftMonsterSpawner
+steamcraft2:ItemBoilingWaterBucket
+steamcraft2:ItemBoilingBucket
+steamcraft2:ItemWhaleOilBucket
+steamcraft2:ItemWhalebone
+steamcraft2:ItemWhaleMeat
+steamcraft2:ItemCookedWhaleMeat
+steamcraft2:ItemWhaleBlubber
+steamcraft2:ItemCoin
+steamcraft2:ItemRedwoodStick
+steamcraft2:ItemMangroveStick
+steamcraft2:ItemWillowStick
+steamcraft2:ItemPetrifiedStick
+steamcraft2:ItemDrillCore
+steamcraft2:ItemDrillBase
+steamcraft2:ItemDrillWood
+steamcraft2:ItemDrillStone
+steamcraft2:ItemDrillIron
+steamcraft2:ItemDrillDiamond
+steamcraft2:ItemDrillGold
+steamcraft2:ItemDrillSteam
+steamcraft2:ItemSwordSteam
+steamcraft2:ItemShovelSteam
+steamcraft2:ItemPickaxeSteam
+steamcraft2:ItemAxeSteam
+steamcraft2:ItemHoeSteam
+steamcraft2:ItemElectricSword
+tfcrailcraft:woodenCreosoteBucket
+tfcrailcraft:woodenMinecartChest
+TwilightForest:item.nagaScale
+TwilightForest:item.plateNaga
+TwilightForest:item.legsNaga
+TwilightForest:item.scepterTwilight
+TwilightForest:item.scepterLifeDrain
+TwilightForest:item.scepterZombie
+TwilightForest:item.oreMeter
+TwilightForest:item.magicMap
+TwilightForest:item.mazeMap
+TwilightForest:item.oreMap
+TwilightForest:item.tfFeather
+TwilightForest:item.magicMapFocus
+TwilightForest:item.mazeMapFocus
+TwilightForest:item.liveRoot
+TwilightForest:item.ironwoodRaw
+TwilightForest:item.ironwoodIngot
+TwilightForest:item.ironwoodHelm
+TwilightForest:item.ironwoodPlate
+TwilightForest:item.ironwoodLegs
+TwilightForest:item.ironwoodBoots
+TwilightForest:item.ironwoodSword
+TwilightForest:item.ironwoodShovel
+TwilightForest:item.ironwoodPick
+TwilightForest:item.ironwoodAxe
+TwilightForest:item.ironwoodHoe
+TwilightForest:item.torchberries
+TwilightForest:item.venisonRaw
+TwilightForest:item.venisonCooked
+TwilightForest:item.hydraChop
+TwilightForest:item.fieryBlood
+TwilightForest:item.trophy
+TwilightForest:item.fieryIngot
+TwilightForest:item.fieryHelm
+TwilightForest:item.fieryPlate
+TwilightForest:item.fieryLegs
+TwilightForest:item.fieryBoots
+TwilightForest:item.fierySword
+TwilightForest:item.fieryPick
+TwilightForest:item.steeleafIngot
+TwilightForest:item.steeleafHelm
+TwilightForest:item.steeleafPlate
+TwilightForest:item.steeleafLegs
+TwilightForest:item.steeleafBoots
+TwilightForest:item.steeleafSword
+TwilightForest:item.steeleafShovel
+TwilightForest:item.steeleafPick
+TwilightForest:item.steeleafAxe
+TwilightForest:item.steeleafHoe
+TwilightForest:item.minotaurAxe
+TwilightForest:item.mazebreakerPick
+TwilightForest:item.transformPowder
+TwilightForest:item.meefRaw
+TwilightForest:item.meefSteak
+TwilightForest:item.meefStroganoff
+TwilightForest:item.mazeWafer
+TwilightForest:item.emptyMagicMap
+TwilightForest:item.emptyMazeMap
+TwilightForest:item.emptyOreMap
+TwilightForest:item.oreMagnet
+TwilightForest:item.crumbleHorn
+TwilightForest:item.peacockFan
+TwilightForest:item.moonwormQueen
+TwilightForest:item.charmOfLife1
+TwilightForest:item.charmOfLife2
+TwilightForest:item.charmOfKeeping1
+TwilightForest:item.charmOfKeeping2
+TwilightForest:item.charmOfKeeping3
+TwilightForest:item.towerKey
+TwilightForest:item.borerEssence
+TwilightForest:item.carminite
+TwilightForest:item.experiment115
+TwilightForest:item.armorShards
+TwilightForest:item.knightMetal
+TwilightForest:item.shardCluster
+TwilightForest:item.knightlyHelm
+TwilightForest:item.knightlyPlate
+TwilightForest:item.knightlyLegs
+TwilightForest:item.knightlyBoots
+TwilightForest:item.knightlySword
+TwilightForest:item.knightlyPick
+TwilightForest:item.knightlyAxe
+TwilightForest:item.phantomHelm
+TwilightForest:item.phantomPlate
+TwilightForest:item.lampOfCinders
+TwilightForest:item.fieryTears
+TwilightForest:item.alphaFur
+TwilightForest:item.yetiHelm
+TwilightForest:item.yetiPlate
+TwilightForest:item.yetiLegs
+TwilightForest:item.yetiBoots
+TwilightForest:item.iceBomb
+TwilightForest:item.arcticFur
+TwilightForest:item.arcticHelm
+TwilightForest:item.arcticPlate
+TwilightForest:item.arcticLegs
+TwilightForest:item.arcticBoots
+TwilightForest:item.magicBeans
+TwilightForest:item.giantPick
+TwilightForest:item.giantSword
+TwilightForest:item.tripleBow
+TwilightForest:item.seekerBow
+TwilightForest:item.iceBow
+TwilightForest:item.enderBow
+TwilightForest:item.iceSword
+TwilightForest:item.glassSword
+TwilightForest:item.knightmetalRing
+TwilightForest:item.chainBlock
+TwilightForest:item.cubeTalisman
+TwilightForest:item.cubeOfAnnihilation
+TwilightForest:item.tfspawnegg
+ForgeMicroblock:microblock
+ForgeMicroblock:sawStone
+ForgeMicroblock:sawIron
+ForgeMicroblock:sawDiamond
+ForgeMicroblock:stoneRod
+tfccellars:CellarDoorItem
+tfccellars:BismuthBronzeIceSawHead
+tfccellars:BlackBronzeIceSawHead
+tfccellars:BlackSteelIceSawHead
+tfccellars:BlueSteelIceSawHead
+tfccellars:BronzeIceSawHead
+tfccellars:CopperIceSawHead
+tfccellars:WroughtIronIceSawHead
+tfccellars:RedSteelIceSawHead
+tfccellars:SteelIceSawHead
+tfccellars:BismuthBronzeIceSaw
+tfccellars:BlackBronzeIceSaw
+tfccellars:BlackSteelIceSaw
+tfccellars:BlueSteelIceSaw
+tfccellars:BronzeIceSaw
+tfccellars:CopperIceSaw
+tfccellars:WroughtIronIceSaw
+tfccellars:RedSteelIceSaw
+tfccellars:SteelIceSaw
+Cogs:cogwheel
+Cogs:material
+Cogs:crank
+Cogs:steamContainer
+Cogs:gyrometer
+Cogs:liquidDrainer
+Cogs:clockworkCane
+Cogs:foldingRuler
+Cogs:clockworkPick
+Cogs:windupTrinket
+Cogs:portableSaw
+Cogs:portableFan
+Cogs:woodenBox
+Cogs:poundingHammer
+Cogs:rivetGun
+Railcraft:backpack.trackman.t1
+Railcraft:backpack.trackman.t2
+Railcraft:backpack.iceman.t1
+Railcraft:backpack.iceman.t2
+Railcraft:backpack.apothecary.t1
+Railcraft:backpack.apothecary.t2

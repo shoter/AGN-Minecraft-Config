@@ -1,0 +1,30 @@
+{
+  "_name": "TwilightForest.Yeti",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "TwilightForest:item.iceBomb" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+    "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 3000~4000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~800 },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.20~0.40 }
+		]
+	}
+  ]
+}

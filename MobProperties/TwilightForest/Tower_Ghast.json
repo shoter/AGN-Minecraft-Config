@@ -1,0 +1,19 @@
+{
+  "_name": "TwilightForest.Tower Ghast",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "name", "value": "Tower Ghast" },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 10000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~750 },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.50~0.75 }
+		]
+	}
+  ]
+}

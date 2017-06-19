@@ -1,0 +1,56 @@
+{
+  "_name": "TwilightForest.HydraHead",
+  "drops": 
+  [
+	{
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 20% of the time",
+      "count": 1,
+      "functions": [
+        {
+          "function": "spawn",
+          "id": "demonmobs.nethersoul",
+          "count": "1",
+          "stats": [
+			{ "function": "name", "value": "Undead Demon Head" }
+          ]
+        }
+      ]
+    }
+  ],
+  "pre_stats": [],
+    "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~1000 },
+		{ "function": "potion", "id": 10, "amplifier": 50, "override": true, "ambient": true },
+		{
+		  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+		  "function": "drops",
+		  "functions": [
+			{
+			  "function": "all",
+			  "_comment": "this count effectively means only perform the function 20% of the time",
+			  "count": 1,
+			  "functions": [
+				{
+				  "function": "spawn",
+				  "id": "demonmobs.nethersoul",
+				  "count": "1",
+				  "stats": [
+					{ "function": "name", "value": "Undead Demon Head" }
+				  ]
+				}
+			  ]
+			}
+		  ]
+		}
+		]
+	}
+  ]
+}

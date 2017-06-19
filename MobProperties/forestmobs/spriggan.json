@@ -1,0 +1,39 @@
+{
+  "_name": "forestmobs.spriggan",
+    "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "log" },
+			{ "function": "remove", "id": "stick" },
+			{ "function": "remove", "id": "apple" },
+			{ "function": "remove", "id": "wheat_seeds" },
+			{ "function": "remove", "id": "melon_seeds" },
+			{ "function": "remove", "id": "pumpkin_seeds" },
+			{ "function": "add", "id": "terrafirmacraft:item.Straw", "count": 0.25 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Wheat", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Barley", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Rye", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Oat", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Rice", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Maize", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Potato", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Onion", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Cabbage", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Carrot", "count": 0.1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Tomato", "count": 0.1 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 500 },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~100 }
+  ]
+}

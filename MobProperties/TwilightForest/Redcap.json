@@ -1,0 +1,16 @@
+{
+  "_name": "TwilightForest.Redcap",
+  "drops": [],
+  "pre_stats":[],
+  "stats": 
+  [
+	{ "function": "name", "value": "Redcap Scavenger"},
+	{ "function": "equip", "id": "terrafirmacraft:item.Stone Knife", "slot": 0, "override": true },
+	{ "function": "equip", "id": "terrafirmacraft:item.bootsCloth", "slot": 1, "override": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "value": 600, "override": true },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 150~250 },
+	{ "function": "potion", "id": 6, "amplifier": 2000, "duration": 1, "override": true, "ambient": true }
+  ]
+}
+
+

@@ -1,0 +1,74 @@
+{
+  "_name": "PigZombie",
+  "drops": 
+  [
+	{ "function": "remove", "id": "Steamcraft:exoArmorFeet" },
+	{ "function": "remove", "id": "Steamcraft:exoArmorLegs" },
+	{ "function": "remove", "id": "Steamcraft:exoArmorBody" },
+	{ "function": "remove", "id": "Steamcraft:goggles" },
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1~2, "damage": 0~1 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Steamcraft:steamcraftCrafting", "count": 1~2 }
+		]
+		
+	},
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "PigZombie"
+				}]
+			}]
+		}]
+	}
+	
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"functions": 
+		[		
+		{ "function": "name", "value": "Steam Pirate"},
+		{ 
+			"function": "choose",
+			"functions":
+			[
+				{ "function": "equip", "id": "Steamcraft:steamDrill", "slot": 0, "weight": 10, "override": true },
+				{ "function": "equip", "id": "Steamcraft:steamAxe", "slot": 0, "weight": 5, "override": true },
+				{ "function": "equip", "id": "Steamcraft:steamShovel", "slot": 0, "weight": 5, "override": true },
+				{ "function": "equip", "id": "Steamcraft:swordBrass", "slot": 0, "weight": 5, "override": true }
+			]
+		},
+		{ "function": "potion", "id": 8, "amplifier": 5, "override": true, "ambient": false },
+		{ "function": "equip", "id": "Steamcraft:exoArmorFeet", "slot": 1, "override": true },
+		{ "function": "equip", "id": "Steamcraft:exoArmorLegs", "slot": 2, "override": true },
+		{ "function": "equip", "id": "Steamcraft:exoArmorBody", "slot": 3, "override": true },
+		{ "function": "equip", "id": "Steamcraft:goggles", "slot": 4, "override": true },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "value": 5000~8000, "override": true },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~500 }
+		]
+	}
+  ]
+}

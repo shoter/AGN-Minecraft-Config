@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Block&Chain Goblin",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 800~1200 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~150 },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.20~0.40 }
+		]
+	}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_name": "TwilightForest.Naga",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 0.05,
+		"functions": 
+		[
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1, "damage": 1~3 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"_comment": "add Steeleaf ingot to drops",
+		"count": 0.5,
+		"functions": 
+		[
+			{ "function": "add", "id": "TwilightForest:item.steeleafIngot", "count": 1~2}
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~600 },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 12000~16000 }
+		]
+	}
+  ]
+}

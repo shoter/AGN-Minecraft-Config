@@ -1,0 +1,31 @@
+{
+  "_name": "mountainmobs.yale",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "wool" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"_comment": "Add TFC Sheep hide to drops",
+		"count": 0.4,
+		"functions": 
+		[
+			{ "function": "add", "id": "terrafirmacraft:item.Sheep Skin", "count": 0~2, "damage": 1 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": [
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~200 },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 800~1800 }
+  ]
+}

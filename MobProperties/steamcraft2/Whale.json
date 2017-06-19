@@ -1,0 +1,44 @@
+{
+  "_name": "steamcraft2.Whale",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ 
+			"function": "choose",
+			"functions":
+			[
+				{ "function": "name", "value": "Nelly", "weight": 6 },
+				{ "function": "name", "value": "Wilbur", "weight": 2 },
+				{ "function": "name", "value": "Ronald", "weight": 2 },
+				{ "function": "name", "value": "Weasly", "weight": 2 },
+				{ "function": "name", "value": "Howards", "weight": 2 },
+				{ "function": "name", "value": "Whale", "weight": 2 },
+				{ "function": "name", "value": "Watson", "weight": 2 },
+				{ "function": "name", "value": "Steward", "weight": 2 },
+				{ "function": "name", "value": "Rogers", "weight": 2 },
+				{ "function": "name", "value": "Ericson", "weight": 2 },
+				{ "function": "name", "value": "Kennedy", "weight": 2 },
+				{ "function": "name", "value": "Bexley", "weight": 2 },
+				{ "function": "name", "value": "Herington", "weight": 2 },
+				{ "function": "name", "value": "Brighton", "weight": 2 },
+				{ "function": "name", "value": "Briston", "weight": 2 },
+				{ "function": "name", "value": "Lockhart", "weight": 2 },
+				{ "function": "name", "value": "Wraithville", "weight": 2 },
+				{ "function": "name", "value": "Antworth", "weight": 2 },
+				{ "function": "name", "value": "Galeshiels", "weight": 2 },
+				{ "function": "name", "value": "Ansquith", "weight": 2 },
+				{ "function": "name", "value": "Travers", "weight": 2 },
+				{ "function": "name", "value": "Upperton", "weight": 2 },
+				{ "function": "name", "value": "Steamham", "weight": 2 },
+				{ "function": "name", "value": "Coombes", "weight": 2 },
+				{ "function": "name", "value": "Keswick", "weight": 2 },
+				{ "function": "name", "value": "Davenport", "weight": 2 },
+				{ "function": "name", "value": "Hamilton", "weight": 2 },
+				{ "function": "name", "value": "Ravenswood", "weight": 2 }
+			]
+		},
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 500 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 100000~120000 }
+  ]
+}

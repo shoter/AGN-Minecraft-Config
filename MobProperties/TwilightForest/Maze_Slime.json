@@ -1,0 +1,35 @@
+{
+  "_name": "TwilightForest.Maze Slime",
+  "drops": 
+  [
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Slime"
+				}]
+			}]
+		}]
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 600~800 }
+		]
+	}
+  ]
+}

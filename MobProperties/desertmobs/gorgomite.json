@@ -1,0 +1,23 @@
+{
+  "_name": "desertmobs.gorgomite",
+    "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "stone" },
+			{ "function": "remove", "id": "sandstone" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~60 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 200~300 }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_name": "irongolemTFC",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1.0,
+	"functions": 
+		[
+		{ "function": "potion", "id": 14, "override": true, "ambient": true },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 },
+		{
+		  "function": "riding",
+		  "id": "TwilightForest.Giant Miner",
+		  "stats": 
+		  [
+			{ "function": "modifier", "attribute": "generic.attackDamage", "value": 350~550 },
+			{ "function": "potion", "id": 6, "amplifier": 2000, "duration": 1, "override": true, "ambient": true },
+			{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.4 }
+		  ]
+		},
+		{
+		  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+		  "function": "drops",
+		  "functions": [
+			{
+			  "function": "remove",
+			  "id": "minecraft:iron_ingot",
+			 "count": 1
+			},
+			{
+			  "function": "remove",
+			  "id": "minecraft:red_flower",
+			 "count": 1
+			}
+		  ]
+		}
+		]
+	}	
+  ]
+}

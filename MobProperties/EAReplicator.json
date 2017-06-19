@@ -1,0 +1,45 @@
+{
+  "_name": "EAReplicator",
+  "drops": 
+  [
+	{
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 20% of the time",
+      "count": 0.25,
+      "functions": [
+        {
+          "function": "spawn",
+          "id": "EAReplicator",
+          "count": "1~2",
+          "stats": [
+			{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~100 },
+			{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 200~300 }
+          ]
+        }
+      ]
+    },
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "minecraft:spawn_egg", "damage": 101 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~100 },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 200~300 }
+		]
+	}
+  ]
+}

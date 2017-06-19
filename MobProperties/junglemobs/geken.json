@@ -1,0 +1,30 @@
+{
+  "_name": "junglemobs.geken",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Magneticraft:item.pebbles", "count": 1~2, "damage": 4 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Magneticraft:item.pebbles", "count": 1~2, "damage": 13 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 200~400 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 5000~6000 }
+  ]
+}

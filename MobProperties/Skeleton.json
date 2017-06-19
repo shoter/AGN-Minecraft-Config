@@ -1,0 +1,9 @@
+{
+  "_name": "Skeleton",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1200~1800 }
+  ]
+}

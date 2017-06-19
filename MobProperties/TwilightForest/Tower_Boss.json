@@ -1,0 +1,48 @@
+{
+  "_name": "TwilightForest.Tower Boss",
+  "drops": 
+  [
+	{
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 20% of the time",
+      "count": 1,
+      "functions": [
+        {
+          "function": "spawn",
+          "id": "RandomThings.spirit",
+          "count": "10",
+          "stats": [
+			{ "function": "name", "value": "Cursing Spirit" },
+			{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1000 }
+          ]
+        },
+		{
+          "function": "spawn",
+          "id": "TwilightForest.Tower Ghast",
+          "count": "5",
+          "stats": [
+			{ "function": "name", "value": "Cursed Ghast" },
+			{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1000 },
+			{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 200~500 }
+          ]
+        },
+		{
+          "function": "spawn",
+          "id": "skeletonTFC",
+          "count": "5",
+          "stats": [
+			{ "function": "name", "value": "Cursed Bones" }
+          ]
+        }
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 10000 },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 500~750 },
+	{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.50~0.75 }
+	
+  ]
+}

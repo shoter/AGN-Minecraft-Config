@@ -1,0 +1,10 @@
+{
+  "_name": "desertmobs.erepede",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 200~300 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 3000~4000 }
+  ]
+}

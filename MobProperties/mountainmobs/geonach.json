@@ -1,0 +1,22 @@
+{
+  "_name": "mountainmobs.geonach",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "stone" },
+			{ "function": "remove", "id": "iron_ore" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": [
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 250 },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2000 }
+  ]
+}
