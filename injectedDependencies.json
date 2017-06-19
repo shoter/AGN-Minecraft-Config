@@ -308,6 +308,10 @@
       },
       {
         "type": "before",
+        "target": "IguanaTweaks"
+      },
+      {
+        "type": "before",
         "target": "InfernalMobs"
       },
       {
