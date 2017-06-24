@@ -1,2 +1,30 @@
 [
+  {
+    "block": "terrafirmacraft:item.Log",
+    "weight": "0.75"
+  },
+  {
+    "block": "terrafirmacraft:item.Ore",
+    "weight": "0.1"
+  },
+  {
+    "block": "terrafirmacraft:Thatch",
+    "weight": "0.05"
+  },
+  {
+    "block": "terrafirmacraft:Anvil",
+    "weight": "5.0"
+  },
+  {
+    "block": "terrafirmacraft:Anvil2",
+    "weight": "5.0"
+  },
+  {
+    "block": "terrafirmacraft:Barrel",
+    "weight": "1.5"
+  },
+  {
+    "block": "terrafirmacraft:Chest TFC",
+    "weight": "2.0"
+  }
 ]
