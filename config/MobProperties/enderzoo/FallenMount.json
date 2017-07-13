@@ -1,0 +1,11 @@
+{
+  "_name": "enderzoo.FallenMount",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "name", "value": "Steam Powered Steed" },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~300, "override": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "value": 2000~3000, "override": true }
+  ]
+}

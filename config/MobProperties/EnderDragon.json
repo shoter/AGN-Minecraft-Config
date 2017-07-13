@@ -1,0 +1,10 @@
+{
+  "_name": "EnderDragon",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 80000~120000 },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~800 }
+  ]
+}

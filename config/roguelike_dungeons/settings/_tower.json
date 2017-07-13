@@ -1,0 +1,28 @@
+{
+	"name" : "tower",
+	"tower" : {
+		"type" : "WITCH",
+		"theme" : {
+			"base" : "CRYPT",
+			"primary" : {
+				"walls" : {
+					"type" : "LAYERS",
+					"data" : [
+						{"name" : "tfcadditions:OutlinedPlanks", "meta" : 12},
+						{"name" : "tfcadditions:OutlinedPlanks", "meta" : 12},
+						{"name" : "tfcadditions:OutlinedPlanks", "meta" : 12},
+						{"name" : "tfcadditions:LargePlanks", "meta" : 5}
+					]
+				},
+				"pillar" : {"name" : "steamcraft2:BlockBrassLog", "meta" : 0},
+				"stair" : {"name" : "ImmersiveEngineering:woodenStairs", "meta" : 0},
+				"floor" : {"name" : "tfcadditions:LargePlanks", "meta" : 5}
+			},
+			"secondary" : {
+				"walls" : {"name" : "tfcadditions:LargePlanks", "meta" : 5},
+				"pillar" : {"name" : "steamcraft2:BlockBrassLog", "meta" : 0},
+				"stair" : {"name" : "ImmersiveEngineering:woodenStairs1", "meta" : 0}
+			}
+		}
+	}
+}

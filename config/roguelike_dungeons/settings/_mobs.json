@@ -1,0 +1,156 @@
+{
+	"name" : "mobs",
+	"levels" : {
+		"0" : {
+			"spawners" : {				
+				"SPIDER" : [
+					{
+						"name" : "TwilightForest.Swarm Spider",
+						"equip" : false
+					}
+				],
+				"ZOMBIE" : [
+					{
+						"name" : "zombieTFC",
+						"equip" : false
+					}
+				],
+				"ZOMBIE" : [
+					{
+						"name" : "TwilightForest.Minotaur",
+						"equip" : false
+					}
+				],
+				"SKELETON" : [
+					{
+						"name" : "TwilightForest.Redcap",
+						"equip" : false
+					}
+				],
+				"WITCH" : [
+					{
+						"name" : "Witch",
+						"equip" : false
+					}
+				]
+				
+			}
+		},
+		"1" : {
+			"spawners" : {	
+				"SPIDER" : [
+					{"name" : "TwilightForest.Pinch Beetle",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "TwilightForest.Upper Goblin Knight",
+						"equip" : false}
+				],
+				"SKELETON" : [
+					{
+						"name" : "TwilightForest.Skeleton Druid",
+						"equip" : false
+					}
+				],
+				"WITCH" : [
+					{
+						"name" : "TwilightForest.Redcap Sapper",
+						"equip" : false
+					}
+				]
+			}
+		},
+		"2" : {
+			"spawners" : {
+				"SPIDER" : [
+					{"name" : "junglemobs.tarantula",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "junglemobs.geken",
+						"equip" : false}
+				],
+				"SKELETON" : [
+					{"name" : "desertmobs.manticore",
+						"equip" : false}
+				],
+				"CREEPER" : [
+					{"name" : "junglemobs.conba",
+						"equip" : false}
+				],				
+				"WITCH" : [
+					{"name" : "desertmobs.clink",
+						"equip" : false}
+				],
+				"CAVESPIDER" : [
+					{"name" : "TwilightForest.King Spider",
+						"equip" : false}
+				]
+			}
+		},
+		"3" : {
+			"spawners" : {
+				"SPIDER" : [
+					{"name" : "plainsmobs.zoataur",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "swampmobs.ettin",
+						"equip" : false}
+				],
+				"SKELETON" : [
+					{"name" : "infernomobs.afrit",
+						"equip" : false}
+				],
+				"ENDERMAN" : [
+					{"name" : "demonmobs.belph",
+						"equip" : false}
+				],
+				"SILVERFISH" : [
+					{"name" : "demonmobs.trite",
+						"equip" : false}
+				],
+				"CREEPER" : [
+					{"name" : "junglemobs.vespidqueen",
+						"equip" : false}
+				],				
+				"WITCH" : [
+					{"name" : "enderzoo.WitherWitch",
+						"equip" : false}
+				]
+			}
+		},
+		"4" : {
+			"spawners" : {
+				"SPIDER" : [
+					{"name" : "shadowmobs.grue",
+						"equip" : false}
+				],
+				"ZOMBIE" : [
+					{"name" : "demonmobs.pinky",
+						"equip" : false}
+				],
+				"SKELETON" : [
+					{"name" : "demonmobs.nethersoul",
+						"equip" : false}
+				],
+				"ENDERMAN" : [
+					{"name" : "demonmobs.behemoth",
+						"equip" : false}
+				],
+				"SILVERFISH" : [
+					{"name" : "demonmobs.trite",
+						"equip" : false}
+				],
+				"CREEPER" : [
+					{"name" : "shadowmobs.shade",
+						"equip" : false}
+				],
+				"CAVESPIDER" : [
+					{"name" : "infernomobs.afrit",
+						"equip" : false}
+				]
+			}
+		}
+	}
+}

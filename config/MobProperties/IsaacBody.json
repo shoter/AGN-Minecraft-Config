@@ -1,0 +1,10 @@
+{
+  "_name": "IsaacBody",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 250~300 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 5000~10000 }
+  ]
+}

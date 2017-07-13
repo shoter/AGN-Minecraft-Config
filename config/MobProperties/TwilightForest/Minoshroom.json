@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Minoshroom",
+  "drops": [],
+  "pre_stats": [],
+    "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1200~1500 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 150~200 },
+		{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.359 }
+		]
+	}
+  ]
+}

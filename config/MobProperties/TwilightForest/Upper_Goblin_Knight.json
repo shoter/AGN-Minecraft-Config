@@ -1,0 +1,51 @@
+{
+  "_name": "TwilightForest.Upper Goblin Knight",
+  "drops": 
+  [
+	{
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 20% of the time",
+      "count": 0.2,
+      "functions": [
+        { "function": "add", "id": "TwilightForest:item.shardCluster", "count": 1~2}
+      ]
+    },
+	{
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 20% of the time",
+      "count": 0.02,
+      "functions": [
+        { "function": "add", "id": "TwilightForest:item.knightmetalRing", "count": 1}
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1600~1800 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 150 },
+		{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.365 },
+		{
+		"function": "choose",
+		"functions": 
+			[
+				{
+				  "function": "riding",
+				  "weight": 1,
+				  "id": "TwilightForest.Lower Goblin Knight",
+				  "stats": 
+					[
+					{ "function": "name", "value": "Lower Goblin Knight"}
+					]
+				}
+			]
+		}
+		]
+	}
+  ]
+}

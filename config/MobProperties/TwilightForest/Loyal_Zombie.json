@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Loyal Zombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "value": 300~500 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~150 }
+		]
+	}
+  ]
+}

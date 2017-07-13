@@ -1,0 +1,123 @@
+{
+  "_name": "zombieTFC",
+  "drops": [],
+  "pre_stats": [],
+  "stats":
+	[
+	{
+		"function": "choose",
+		"functions":
+		[
+			{
+			"_comment": "normal everyday zombie",
+			"function": "all",
+			"weight": 1,
+			"functions": 
+				[
+				{ "function": "name", "value": "Zombie" },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.02
+					}
+				  ]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Abby", "weight": 1 },
+					{ "function": "name", "value": "Brad", "weight": 10 },
+					{ "function": "name", "value": "Carl", "weight": 10 },
+					{ "function": "name", "value": "Deb", "weight": 10 },
+					{ "function": "name", "value": "Eric", "weight": 10 },
+					{ "function": "name", "value": "Frank", "weight": 10 },
+					{ "function": "name", "value": "Greg", "weight": 10 },
+					{ "function": "name", "value": "Hank", "weight": 10 },
+					{ "function": "name", "value": "Irene", "weight": 10 },
+					{ "function": "name", "value": "Jake", "weight": 10 },
+					{ "function": "name", "value": "Kate", "weight": 10 },
+					{ "function": "name", "value": "Lewis", "weight": 10 },
+					{ "function": "name", "value": "Mat", "weight": 10 },
+					{ "function": "name", "value": "Nate", "weight": 10 },
+					{ "function": "name", "value": "Oscar", "weight": 10 },
+					{ "function": "name", "value": "Paul", "weight": 10 },
+					{ "function": "name", "value": "Quade", "weight": 10 },
+					{ "function": "name", "value": "Rob", "weight": 10 },
+					{ "function": "name", "value": "Steve", "weight": 10 },
+					{ "function": "name", "value": "Tom", "weight": 10 },
+					{ "function": "name", "value": "Urving", "weight": 10 },
+					{ "function": "name", "value": "Vic", "weight": 10 },
+					{ "function": "name", "value": "Wade", "weight": 10 },
+					{ "function": "name", "value": "Yims", "weight": 10 },
+					{ "function": "name", "value": "Xek", "weight": 10 },
+					{ "function": "name", "value": "Zueljin", "weight": 10 },
+					{ "function": "name", "value": "Ford", "weight": 10 },
+					{ "function": "name", "value": "Mel", "weight": 10 },
+					{ "function": "name", "value": "Red", "weight": 10 },
+					{ "function": "name", "value": "Spud", "weight": 10 },
+					{ "function": "name", "value": "Mike", "weight": 10 },
+					{ "function": "name", "value": "Don", "weight": 10 },
+					{ "function": "name", "value": "Fred", "weight": 10 },
+					{ "function": "name", "value": "Dolin", "weight": 10 },
+					{ "function": "name", "value": "Chris", "weight": 10 },
+					{ "function": "name", "value": "Tim", "weight": 10 },
+					{ "function": "equip", "id": "minecraft:bone", "slot": 0, "weight": 2 }
+				]
+				}
+				]
+			},
+			{
+			"function": "all",
+			"weight": 50,
+			"functions": 
+				[
+				{ "function": "name", "value": "Jack" },
+				{ "function": "equip", "id": "terrafirmacraft:item.Wooden Bucket Empty", "slot": 0, "override": true },
+				{ "function": "modifier", "attribute": "generic.attackDamage", "value": 250~300 },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2000~3000 },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.01
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:bags",
+					 "count": 0.02
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.01
+					}
+				  ]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Jack", "weight": 50 },
+					{ "function": "name", "value": "Jill", "weight": 50 },
+					{ "function": "equip", "id": "terrafirmacraft:item.Wooden Bucket Water", "slot": 0, "weight": 1, "override": true }
+				]
+				}
+				]
+			}
+		]
+	}
+	]
+}

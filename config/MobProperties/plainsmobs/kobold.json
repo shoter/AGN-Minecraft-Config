@@ -1,0 +1,11 @@
+{
+  "_name": "plainsmobs.kobold",
+  "drops": [],
+  "pre_stats": [],
+"stats": 
+  [
+	{ "function": "name", "value": "Kobold Theif"},
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~150, "override": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "value": 550, "override": true }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "_name": "pigTFC",
+  "drops": 
+  [
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Pig"
+				}]
+			}]
+		}]
+	},
+	{ "function": "add", "id": "tfcm:item.Suet", "count": 0.2 }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 0.00125,
+	"functions": 
+		[
+		{ "function": "name", "value": "Wilson" },
+		{ "function": "equip", "id": "Steamcraft:tophatNoEmerald", "slot": 4, "override": true }
+		]
+	}
+  ]
+}

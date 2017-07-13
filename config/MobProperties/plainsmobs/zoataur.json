@@ -1,0 +1,22 @@
+{
+  "_name": "plainsmobs.zoataur",
+    "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "leather" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 200~400 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 6000~12000 }
+  ]
+}

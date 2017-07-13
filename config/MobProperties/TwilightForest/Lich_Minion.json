@@ -1,0 +1,25 @@
+{
+  "_name": "TwilightForest.Lich Minion",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "potion", "id": 14, "override": true, "ambient": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 },
+	{
+	"function": "choose",
+	"functions": 
+		[
+			{
+			  "function": "riding",
+			  "weight": 1,
+			  "id": "mountainmobs.beholder",
+			  "stats": 
+				[
+				{ "function": "name", "value": "Lich Minion"}
+				]
+			}
+		]
+	}
+  ]
+}

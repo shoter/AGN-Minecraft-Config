@@ -1,0 +1,41 @@
+{
+  "_name": "TwilightForest.Redscale Broodling",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ 
+			"function": "choose",
+			"functions":
+			[
+				{ "function": "name", "value": "Spindly", "weight": 10 },
+				{ "function": "name", "value": "Spindlies Revenge", "weight": 2 },
+				{ "function": "name", "value": "Spinder", "weight": 2 },
+				{ "function": "name", "value": "Spinless", "weight": 2 },
+				{ "function": "name", "value": "Spins", "weight": 2 },
+				{ "function": "name", "value": "Spindle", "weight": 2 },
+				{ "function": "name", "value": "Spindles Jr.", "weight": 2 },
+				{ "function": "name", "value": "Spining", "weight": 2 },
+				{ "function": "name", "value": "Spindle Returns", "weight": 2 },
+				{ "function": "name", "value": "Speckles", "weight": 2 },
+				{ "function": "name", "value": "Spaz", "weight": 2 },
+				{ "function": "name", "value": "Spudz", "weight": 2 },
+				{ "function": "name", "value": "Spincon", "weight": 2 },
+				{ "function": "name", "value": "Spinderator", "weight": 2 },
+				{ "function": "name", "value": "Spindle Eater", "weight": 2 },
+				{ "function": "name", "value": "Thimble", "weight": 2 },
+				{ "function": "name", "value": "Dont Kill Me", "weight": 2 },
+				{ "function": "name", "value": "Lux", "weight": 2 }
+			]
+		},
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 600~800 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~250 }
+		]
+	}
+  ]
+}

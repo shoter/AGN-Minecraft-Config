@@ -1,0 +1,17 @@
+{
+  "_name": "TwilightForest.Twilight Lich",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 25000~30000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~1000 }
+		]
+	}
+  ]
+}

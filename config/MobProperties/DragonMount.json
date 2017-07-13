@@ -1,0 +1,14 @@
+{
+  "_name": "DragonMount",
+  "drops": [],
+  "pre_stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 3000 },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200 }
+  ],
+  "stats": 
+  [				
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 3000 },
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200 }			
+  ]
+}

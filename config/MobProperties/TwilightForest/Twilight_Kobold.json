@@ -1,0 +1,126 @@
+{
+  "_name": "TwilightForest.Twilight Kobold",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "fish" },
+			{ "function": "remove", "id": "apple" },
+			{ "function": "remove", "id": "gold_nugget" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"_comment": "add Steeleaf ingot to drops",
+		"count": 0.05,
+		"functions": 
+		[
+			{ "function": "add", "id": "TwilightForest:item.steeleafIngot", "count": 1}
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1~2, "damage": 0~2 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "minecraft:wheat_seeds" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Wheat" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Rice" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Maize" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Cabbage" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Tomato" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Squash" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Red Bell Pepper" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.03,
+		"functions": 
+		[			
+			{ "function": "add", "id": "terrafirmacraft:item.Seeds Greenbean" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "name", "value": "Wild Kobold"},
+	{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~150, "override": true },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "value": 350, "override": true },
+	{ "function": "potion", "id": 6, "amplifier": 2000, "duration": 1, "override": true, "ambient": true }
+  ]
+}

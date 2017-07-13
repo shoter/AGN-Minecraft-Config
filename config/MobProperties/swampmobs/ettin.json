@@ -1,0 +1,23 @@
+{
+  "_name": "swampmobs.ettin",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "leather" },
+			{ "function": "remove", "id": "log" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 5000~800 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 16000~18000 }
+  ]
+}

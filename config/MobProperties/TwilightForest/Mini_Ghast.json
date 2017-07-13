@@ -1,0 +1,38 @@
+{
+  "_name": "TwilightForest.Mini Ghast",
+  "drops": 
+  [
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Ghast"
+				}]
+			}]
+		}]
+	}
+  ],
+  "pre_stats": [],
+    "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "name", "value": "Swamp Ghastling" },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1400~1800 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "value": 50~100 },
+		{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.4 }
+		]
+	}
+  ]
+}

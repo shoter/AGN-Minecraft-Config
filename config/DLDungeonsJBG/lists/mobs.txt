@@ -1,0 +1,136 @@
+Bat
+Blaze
+BuildCraft|Core.bcRobot
+CaveSpider
+Chicken
+Cow
+Creeper
+DragonMount
+EAReplicator
+EnderDragon
+Enderman
+EntityHorse
+Forestry.butterflyGE
+Ghast
+Giant
+IsaacBlood
+IsaacBody
+IsaacHead
+IsaacNormal
+LavaSlime
+MushroomCow
+NightCrawler
+OpenBlocks.Luggage
+OpenBlocks.MiniMe
+Ozelot
+Pig
+PigZombie
+Sheep
+Silverfish
+Skeleton
+Slime
+SnowMan
+Spider
+Squid
+TwilightForest.Adherent
+TwilightForest.Apocalypse Cube
+TwilightForest.Armored Giant
+TwilightForest.Bighorn Sheep
+TwilightForest.Block&Chain Goblin
+TwilightForest.Death Tome
+TwilightForest.Fire Beetle
+TwilightForest.Firefly
+TwilightForest.Forest Bunny
+TwilightForest.Forest Raven
+TwilightForest.Forest Squirrel
+TwilightForest.Giant Miner
+TwilightForest.Glacier Penguin
+TwilightForest.Hedge Spider
+TwilightForest.Helmet Crab
+TwilightForest.Hostile Wolf
+TwilightForest.Hydra
+TwilightForest.HydraHead
+TwilightForest.Ice Crystal
+TwilightForest.King Spider
+TwilightForest.Knight Phantom
+TwilightForest.Lich Minion
+TwilightForest.Lower Goblin Knight
+TwilightForest.Loyal Zombie
+TwilightForest.Maze Slime
+TwilightForest.Mini Ghast
+TwilightForest.Minoshroom
+TwilightForest.Minotaur
+TwilightForest.Mist Wolf
+TwilightForest.Mosquito Swarm
+TwilightForest.Naga
+TwilightForest.Pinch Beetle
+TwilightForest.Questing Ram
+TwilightForest.Redcap
+TwilightForest.Redcap Sapper
+TwilightForest.Redscale Broodling
+TwilightForest.Skeleton Druid
+TwilightForest.Slime Beetle
+TwilightForest.Snow Queen
+TwilightForest.SnowGuardian
+TwilightForest.Stable Ice Core
+TwilightForest.Swarm Spider
+TwilightForest.Tiny Bird
+TwilightForest.Tower Boss
+TwilightForest.Tower Ghast
+TwilightForest.Tower Golem
+TwilightForest.Tower Termite
+TwilightForest.Troll
+TwilightForest.Twilight Kobold
+TwilightForest.Twilight Lich
+TwilightForest.Twilight Wraith
+TwilightForest.Unstable Ice Core
+TwilightForest.Upper Goblin Knight
+TwilightForest.Wild Boar
+TwilightForest.Wild Deer
+TwilightForest.WinterWolf
+TwilightForest.Yeti
+TwilightForest.Yeti Boss
+Villager
+VillagerGolem
+Witch
+WitherBoss
+Wolf
+Zombie
+bearTFC
+blazeTFC
+caveSpiderTFC
+chickenTFC
+cowTFC
+creeperTFC
+deerTFC
+endermanTFC
+fishTFC
+ghastTFC
+horseTFC
+irongolemTFC
+minionNecro
+pheasantTFC
+pigTFC
+pigZombieTFC
+sheepTFC
+silverfishTFC
+skeletonTFC
+slimeTFC
+spiderTFC
+squidTFC
+standTFC
+steamcraft2.AbdandonedGolem
+steamcraft2.Boar
+steamcraft2.FleshGolem
+steamcraft2.GhostSpider
+steamcraft2.GiantSpider
+steamcraft2.Grub
+steamcraft2.LostMiner
+steamcraft2.ShroomSkeleton
+steamcraft2.ShroomZombie
+steamcraft2.SpiderQueen
+steamcraft2.VampireBat
+steamcraft2.Whale
+teddyNecro
+wolfTFC
+zombieTFC

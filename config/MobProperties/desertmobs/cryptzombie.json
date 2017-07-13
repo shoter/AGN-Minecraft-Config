@@ -1,0 +1,10 @@
+{
+  "_name": "desertmobs.cryptzombie",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 100~200 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 800~1200 }
+  ]
+}

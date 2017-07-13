@@ -1,0 +1,111 @@
+{
+  "_name": "spiderTFC",
+  "drops": 
+  [
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Spider"
+				}]
+			}]
+		}]
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+  {
+		"function": "choose",
+		"functions":
+		[
+			{
+			"_comment": "normal everyday spider",
+			"function": "all",
+			"weight": 30,
+			"functions": 
+				[
+				{ "function": "name", "value": "Spider" },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "value": 1600~2400, "override": true }
+				]
+			},
+			{
+			"function": "all",
+			"weight": 10,
+			"functions": 
+				[
+				{ "function": "potion", "id": 14, "override": true, "ambient": true },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 },
+					{ 
+					"function": "choose",
+					"functions": 
+					[
+					{
+					  "function": "ridden_by",
+					  "weight": 15,
+					  "id": "TwilightForest.Hedge Spider",
+					  "stats": [
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 1200, "override": true }
+					  ]
+					},
+					{
+					  "function": "riding",
+					  "weight": 5,
+					  "id": "TwilightForest.Helmet Crab",
+					  "stats": []
+					},
+					{
+					  "function": "ridden_by",
+					  "weight": 10,
+					  "id": "TwilightForest.Swarm Spider",
+					  "stats": [
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 1200, "override": true }
+					  ]
+					},
+					{
+					  "function": "ridden_by",
+					  "weight": 10,
+					  "id": "TwilightForest.Redscale Broodling",
+					  "stats": [
+						{ "function": "name", "value": "Jumping Spider" },
+						{ "function": "potion", "id": 8, "amplifier": 3, "override": true, "ambient": true },
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 800~1000, "override": true }
+					  ]
+					},
+					{
+					  "function": "ridden_by",
+					  "weight": 10,
+					  "id": "TwilightForest.Fire Beetle",
+					  "stats": [
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 800~1200, "override": true }
+					  ]
+					},
+					{
+					  "function": "ridden_by",
+					  "weight": 10,
+					  "id": "TwilightForest.Slime Beetle",
+					  "stats": [
+						{ "function": "modifier", "attribute": "generic.attackDamage", "value": 50~150, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "value": 600~800, "override": true }
+					  ]
+					}
+					]
+					}
+				]
+			}
+		]
+  }
+  ]
+}

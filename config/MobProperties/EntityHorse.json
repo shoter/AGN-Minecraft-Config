@@ -1,0 +1,19 @@
+{
+  "_name": "EntityHorse",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "leather" },
+			{ "function": "add", "id": "terrafirmacraft:item.Hide", "count": 0.4, "damage": 1 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": []
+}

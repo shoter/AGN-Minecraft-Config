@@ -1,0 +1,17 @@
+{
+  "_name": "blazeTFC",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 5000~8000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 500~800 }
+		]
+	}
+  ]
+}

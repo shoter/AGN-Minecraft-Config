@@ -1,0 +1,16 @@
+{
+  "_name": "GSZombieSkullCrawler",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 200 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "value": 25~150 }
+		]
+	}
+  ]
+}

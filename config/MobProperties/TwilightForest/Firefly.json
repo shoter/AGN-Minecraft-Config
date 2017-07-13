@@ -1,0 +1,12 @@
+{
+  "_name": "TwilightForest.Firefly",
+  "drops": 
+  [
+	{ "function": "add", "id": "minecraft:glowstone_dust", "count": 0.01 }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 100 }
+  ]
+}

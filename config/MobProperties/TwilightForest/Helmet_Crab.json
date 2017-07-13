@@ -1,0 +1,32 @@
+{
+  "_name": "TwilightForest.Helmet Crab",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			//{ "function": "remove", "id": "fish" },
+			{ "function": "remove", "id": "apple" },
+			{ "function": "remove", "id": "wheat" }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 600~800 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~100 },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.20~0.40 }
+		]
+	}
+  ]
+}

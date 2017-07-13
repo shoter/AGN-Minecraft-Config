@@ -1,0 +1,73 @@
+{
+  "_name": "skeletonTFC",
+  "drops": 
+  [
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Skeleton"
+				}]
+			}]
+		}]
+	},
+	{ "function": "add", "id": "skull", "count": 0.035, "damage": 0~1 }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 0.125,
+	"functions": 
+		[
+		{ "function": "name", "value": "Rail Worker" },
+		{ 
+		"function": "choose",
+		"functions":
+		[
+			{ "function": "equip", "id": "Railcraft:tool.crowbar", "slot": 0, "weight": 2, "override": true },
+			{ "function": "equip", "id": "terrafirmacraft:item.Bismuth Bronze Shovel", "slot": 4, "weight": 5, "override": true },
+			{ "function": "equip", "id": "minecraft:redstone_torch", "slot": 4, "weight": 2, "override": true },
+			{ "function": "equip", "id": "Steamcraft:goggles", "slot": 4, "weight": 5, "override": true }
+		]
+		},
+		{ 
+		"function": "choose",
+		"functions":
+		[
+			{ "function": "equip", "id": "Railcraft:armor.steel.boots", "slot": 1, "weight": 5, "override": true },
+			{ "function": "equip", "id": "Steamcraft:helmBrass", "slot": 4, "weight": 5, "override": true },
+			{ "function": "equip", "id": "Steamcraft:goggles", "slot": 4, "weight": 5, "override": true }
+		]
+		},
+		{ "function": "equip", "id": "Railcraft:armor.overalls", "slot": 2 }
+		]
+	},
+	{
+	"function": "all",
+	"count": 0.125,
+	"functions": 
+		[
+		{ "function": "name", "value": "Aristocrat" },
+		{ 
+		"function": "choose",
+		"functions":
+		[
+			{ "function": "equip", "id": "Steamcraft:tophatNoEmerald", "slot": 4, "weight": 5, "override": true },
+			{ "function": "equip", "id": "Steamcraft:tophat", "slot": 4, "weight": 2, "override": true }
+		]
+		},
+		{ "function": "equip", "id": "terrafirmacraft:item.leggingsCloth", "slot": 2, "override": true }
+		]
+	}
+  ]
+}

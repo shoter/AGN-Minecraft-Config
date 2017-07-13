@@ -1,0 +1,41 @@
+{
+  "_name": "Villager",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"functions": 
+		[		
+		{ "function": "potion", "id": 14, "override": true, "ambient": true },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": -10000 },
+		{
+		  "function": "riding",
+		  "id": "PigZombie",
+		  "stats": 
+		  [
+			{ "function": "name", "value": "Steam Pirate"},
+			{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "equip", "id": "Steamcraft:steamDrill", "slot": 0, "weight": 10, "override": true },
+					{ "function": "equip", "id": "Steamcraft:steamAxe", "slot": 0, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:steamShovel", "slot": 0, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:blunderbuss", "slot": 0, "weight": 5, "override": true }
+				]
+			},
+			{ "function": "potion", "id": 8, "amplifier": 5, "override": true, "ambient": false },
+			{ "function": "equip", "id": "Steamcraft:exoArmorFeet", "slot": 1, "override": true },
+			{ "function": "equip", "id": "Steamcraft:exoArmorLegs", "slot": 2, "override": true },
+			{ "function": "equip", "id": "Steamcraft:exoArmorBody", "slot": 3, "override": true },
+			{ "function": "equip", "id": "Steamcraft:goggles", "slot": 4, "override": true },
+			{ "function": "modifier", "attribute": "generic.maxHealth", "value": 3000, "override": true },
+			{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~400 }
+		  ]
+		}
+		]
+	}
+  ]
+}

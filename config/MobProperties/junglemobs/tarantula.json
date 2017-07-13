@@ -1,0 +1,26 @@
+{
+  "_name": "junglemobs.tarantula",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Magneticraft:item.pebbles", "count": 1~2, "damage": 4 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.05,
+		"functions": 
+		[			
+			{ "function": "add", "id": "Magneticraft:item.pebbles", "count": 1~2, "damage": 13 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": []
+}

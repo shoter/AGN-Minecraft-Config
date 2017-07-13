@@ -1,0 +1,87 @@
+{
+  "_name": "Giant",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "rotten_flesh" },
+			{ "function": "add", "id": "terrafirmacraft:item.Nametag", "count": 0~1 },
+			{ "function": "add", "id": "terrafirmacraft:item.Log", "damage": 15, "count": 4~8 },
+			{ "function": "add", "id": "terrafirmacraft:item.Diamond", "damage": 2, "count": 0~2 },
+			{ "function": "add", "id": "ImmersiveEngineering:metal", "damage": 1, "count": 0~5 },
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1, "damage": 1~4 }
+		]
+	},
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[
+			{ "function": "add", "id": "terrafirmacraft:item.Ruby", "damage": 2, "count": 0~3 },
+			{ "function": "add", "id": "terrafirmacraft:item.Emerald", "damage": 2, "count": 0~4 }
+		]
+	},
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[
+			{ "function": "add", "id": "terrafirmacraft:item.Sapphire", "damage": 2, "count": 0~4 },
+			{ "function": "add", "id": "terrafirmacraft:item.Amethyst", "damage": 2, "count": 0~4 },
+			{ "function": "add", "id": "terrafirmacraft:item.Jade", "damage": 2, "count": 0~4 }
+		]
+	},
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[
+			{ "function": "add", "id": "ImmersiveEngineering:metal", "damage": 5, "count": 0~5 }
+		]
+	},
+	{
+		"function": "all",
+		"count": 0.25,
+		"functions": 
+		[
+			{ "function": "add", "id": "ImmersiveEngineering:metal", "damage": 6, "count": 0~5 },
+			{ "function": "add", "id": "ImmersiveEngineering:metal", "damage": 20, "count": 0~5 }
+		]
+		
+	},
+	{
+      "function": "all",
+      "_comment": "this count effectively means only perform the function 20% of the time",
+      "count": 1,
+      "functions": [
+        {
+          "function": "spawn",
+          "id": "TwilightForest.Hedge Spider",
+          "count": "4~6",
+          "stats": [
+			{ "function": "name", "value": "Marsh Minions" }
+          ]
+        }
+      ]
+    }
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "name", "value": "Marsh Giant" },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 50000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 350~650 },
+		{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.38 }
+		]
+	}
+  ]
+}

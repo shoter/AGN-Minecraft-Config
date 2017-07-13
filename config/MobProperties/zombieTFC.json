@@ -1,0 +1,560 @@
+{
+  "_name": "zombieTFC",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "this removes vanilla items from creature drops",
+		"count": 1,
+		"functions": 
+		[
+			{ "function": "remove", "id": "rotten_flesh" }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.02,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 0~1, "damage": 0~1 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.01,
+		"functions": 
+		[			
+			{ "function": "add", "id": "rotten_flesh" }
+		]
+		
+	},
+	{"function": "all",
+     "count": 0.001,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Zombie"
+				}]
+			}]
+		}]
+	}
+  ],
+  "pre_stats": [],
+  "stats":
+	[
+	{
+		"function": "choose",
+		"functions":
+		[
+			{
+			"_comment": "normal everyday zombie",
+			"function": "all",
+			"weight": 550,
+			"functions": 
+				[
+				{ "function": "name", "value": "Zombie" },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.02
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.05
+					}
+				  ]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Abby", "weight": 1 },
+					{ "function": "name", "value": "Brad", "weight": 10 },
+					{ "function": "name", "value": "Carl", "weight": 10 },
+					{ "function": "name", "value": "Deb", "weight": 10 },
+					{ "function": "name", "value": "Eric", "weight": 10 },
+					{ "function": "name", "value": "Frank", "weight": 10 },
+					{ "function": "name", "value": "Greg", "weight": 10 },
+					{ "function": "name", "value": "Hank", "weight": 10 },
+					{ "function": "name", "value": "Irene", "weight": 10 },
+					{ "function": "name", "value": "Jake", "weight": 10 },
+					{ "function": "name", "value": "Kate", "weight": 10 },
+					{ "function": "name", "value": "Lewis", "weight": 10 },
+					{ "function": "name", "value": "Mat", "weight": 10 },
+					{ "function": "name", "value": "Nate", "weight": 10 },
+					{ "function": "name", "value": "Oscar", "weight": 10 },
+					{ "function": "name", "value": "Paul", "weight": 10 },
+					{ "function": "name", "value": "Quade", "weight": 10 },
+					{ "function": "name", "value": "Rob", "weight": 10 },
+					{ "function": "name", "value": "Steve", "weight": 10 },
+					{ "function": "name", "value": "Tom", "weight": 10 },
+					{ "function": "name", "value": "Urving", "weight": 10 },
+					{ "function": "name", "value": "Vic", "weight": 10 },
+					{ "function": "name", "value": "Wade", "weight": 10 },
+					{ "function": "name", "value": "Yims", "weight": 10 },
+					{ "function": "name", "value": "Xek", "weight": 10 },
+					{ "function": "name", "value": "Zueljin", "weight": 10 },
+					{ "function": "name", "value": "Ford", "weight": 10 },
+					{ "function": "name", "value": "Mel", "weight": 10 },
+					{ "function": "name", "value": "Red", "weight": 10 },
+					{ "function": "name", "value": "Spud", "weight": 10 },
+					{ "function": "name", "value": "Mike", "weight": 10 },
+					{ "function": "name", "value": "Don", "weight": 10 },
+					{ "function": "name", "value": "Fred", "weight": 10 },
+					{ "function": "name", "value": "Dolin", "weight": 10 },
+					{ "function": "name", "value": "Chris", "weight": 10 },
+					{ "function": "name", "value": "Tim", "weight": 10 },
+					{ "function": "name", "value": "Drop Dead Fred", "weight": 20 },
+					{ "function": "equip", "id": "minecraft:bone", "slot": 0, "weight": 2 }
+				]
+				}
+				]
+			},
+			{
+			"function": "all",
+			"weight": 50,
+			"functions": 
+				[
+				{ "function": "name", "value": "Jack" },
+				{ "function": "equip", "id": "terrafirmacraft:item.Wooden Bucket Empty", "slot": 0, "override": true },
+				{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~150 },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 800~1200 },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.01
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:bags",
+					 "count": 0.03
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.02
+					}
+				  ]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Jack", "weight": 50 },
+					{ "function": "name", "value": "Jill", "weight": 50 },
+					{ "function": "equip", "id": "terrafirmacraft:item.Wooden Bucket Water", "slot": 0, "weight": 50, "override": true }
+				]
+				}
+				]
+			},
+			{
+			"function": "all",
+			"weight": 250,
+			"functions": 
+				[
+				{ "function": "name", "value": "Captain Nemo" },
+				{ "function": "equip", "id": "Railcraft:armor.overalls", "slot": 2},
+				{ "function": "modifier", "attribute": "generic.attackDamage", "value": 100~200 },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "value": 600~1200 },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.02
+					},
+					{
+					  "function": "add",
+					  "id": "Steamcraft:pipe",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftCrafting",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "terrafirmacraft:item.Brass Sheet",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "steamcraft2:ItemWatch",
+					 "count": 0.01
+					}
+				  ]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ 
+					"_comment": "Steam Power Jump Zombie", 
+					"function": "all", 
+					"weight": 20, 
+					"functions":
+						[
+						{ "function": "name", "value": "Johnson Cruisy" },
+						{ "function": "equip", "id": "Steamcraft:legsBrass", "slot": 2, "override": true },
+						{ "function": "potion", "id": 8, "amplifier": 4, "override": true, "ambient": true }
+						]
+					},
+					{ 
+					"_comment": "Steam Power Run Zombie", 
+					"function": "all", 
+					"weight": 20, 
+					"functions":
+						[
+						{ "function": "name", "value": "Charly Batelor" },
+						{ "function": "equip", "id": "Steamcraft:feetBrass", "slot": 1, "override": true },
+						{ "function": "potion", "id": 1, "override": true, "ambient": true }
+						]
+					},
+					{ 
+					"_comment": "Steam Power Strong Zombie", 
+					"function": "all", 
+					"weight": 20, 
+					"functions":
+						[
+						{ "function": "name", "value": "Madson Daily" },
+						{ "function": "equip", "id": "Steamcraft:chestBrass", "slot": 3, "override": true },
+						{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 800~1600 },
+						{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.75 },
+						{ "function": "potion", "id": 5, "override": true, "ambient": true }
+						]
+					}
+				]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Menlo", "weight": 2 },
+					{ "function": "name", "value": "Tom Alva Sr.", "weight": 2 },
+					{ "function": "name", "value": "Dot", "weight": 2 },
+					{ "function": "name", "value": "Dash", "weight": 2 },
+					{ "function": "name", "value": "Stilwell", "weight": 2 },
+					{ "function": "name", "value": "Dr Laws", "weight": 2 },
+					{ "function": "name", "value": "Charman", "weight": 2 },
+					{ "function": "name", "value": "Kristie St", "weight": 2 },
+					{ "function": "name", "value": "Steam Power Zombie", "weight": 5 },
+					{ "function": "equip", "id": "Cogs:crank", "slot": 0, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:swordBrass", "slot": 0, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:steamDrill", "slot": 0, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:steamAxe", "slot": 0, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:steamShovel", "slot": 0, "weight": 5, "override": true }
+				]
+				},
+				{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.25 }
+				]
+			},
+			{
+			"function": "all",
+			"weight": 50,
+			"functions": 
+				[
+				{ "function": "name", "value": "Brotherhood of Steam: Knight" },
+				{ "function": "equip", "id": "Steamcraft:legsGildedGold", "slot": 2, "override": true },
+				{ "function": "potion", "id": 8, "amplifier": 4, "override": true, "ambient": true },
+				{ "function": "equip", "id": "Steamcraft:feetGildedGold", "slot": 1, "override": true },
+				{ "function": "potion", "id": 1, "override": true, "ambient": true },
+				{ "function": "equip", "id": "Steamcraft:chestGildedGold", "slot": 3, "override": true },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2000~3000 },
+				{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.75 },
+				{ "function": "potion", "id": 5, "override": true, "ambient": true },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.10
+					},
+					{
+					  "function": "add",
+					  "id": "Steamcraft:pipe",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftCrafting",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "terrafirmacraft:item.Brass Sheet",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.05
+					}
+				  ]
+				}
+				
+				]
+			},
+			{
+			"function": "all",
+			"weight": 150,
+			"functions": 
+				[
+				{ "function": "name", "value": "Zombie Aristocrat" },
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "equip", "id": "Steamcraft:monocle", "slot": 4, "weight": 10, "override": true },
+					{ "function": "equip", "id": "Steamcraft:tophatNoEmerald", "slot": 4, "weight": 5, "override": true },
+					{ "function": "equip", "id": "Steamcraft:tophat", "slot": 4, "weight": 2, "override": true }
+				]
+				},
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Charlstone", "weight": 10 },
+					{ "function": "name", "value": "Fredricks", "weight": 10 },
+					{ "function": "name", "value": "Johnson", "weight": 10 },
+					{ "function": "name", "value": "Geraldine", "weight": 10 },
+					{ "function": "name", "value": "Edwordson", "weight": 10 },
+					{ "function": "name", "value": "Eisenhower", "weight": 10 },
+					{ "function": "name", "value": "Leucratious", "weight": 10 },
+					{ "function": "name", "value": "Howards", "weight": 10 },
+					{ "function": "name", "value": "Pottsworth", "weight": 10 },
+					{ "function": "name", "value": "Worthington", "weight": 10 },
+					{ "function": "name", "value": "Van Braun", "weight": 10 },
+					{ "function": "name", "value": "Brighton", "weight": 10 },
+					{ "function": "equip", "id": "steamcraft2:ItemWatch", "slot": 0, "weight": 1 }
+				]
+				},
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Steamcraft:steamcraftNugget",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:bags",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "clock",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "HardcoreQuesting:hearts",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "steamcraft2:ItemWatch",
+					 "count": 0.01
+					}
+				  ]
+				},
+				{ "function": "equip", "id": "Cogs:crank", "slot": 0, "override": true },
+				{ "function": "equip", "id": "terrafirmacraft:item.leggingsCloth", "slot": 2, "override": true },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1200~1600 }
+				]
+			},
+			{
+			"function": "all",
+			"weight": 150,
+			"functions": 
+				[
+				{ "function": "name", "value": "Roger Banner" },
+				{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.3 },
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Landy", "weight": 10 },
+					{ "function": "name", "value": "Guerrouj", "weight": 10 },
+					{ "function": "name", "value": "Ryun", "weight": 10 },
+					{ "function": "name", "value": "Coghlan", "weight": 10 },
+					{ "function": "name", "value": "Bolt", "weight": 10 },
+					{ "function": "name", "value": "Usain", "weight": 10 },
+					{ "function": "name", "value": "Radford", "weight": 10 },
+					{ "function": "name", "value": "Bascomb", "weight": 10 },
+					{ "function": "name", "value": "Parrot", "weight": 10 },
+					{ "function": "name", "value": "Cunnigham", "weight": 10 },
+					{ "function": "name", "value": "Williamson", "weight": 10 },
+					{ "function": "name", "value": "Scott", "weight": 10 },
+					{ "function": "name", "value": "Goswell", "weight": 10 },
+					{ "function": "name", "value": "Road", "weight": 10 },
+					{ "function": "name", "value": "Whiteman", "weight": 10 },
+					{ "function": "name", "value": "Komen", "weight": 10 },
+					{ "function": "name", "value": "Morceli", "weight": 10 },
+					{ "function": "name", "value": "Harison", "weight": 10 },
+					{ "function": "name", "value": "Westhall", "weight": 10 },
+					{ "function": "name", "value": "Horspool", "weight": 10 },
+					{ "function": "name", "value": "Albison", "weight": 10 },
+					{ "function": "name", "value": "Lang", "weight": 10 },
+					{ "function": "name", "value": "Mills", "weight": 10 },
+					{ "function": "name", "value": "Richards", "weight": 10 },
+					{ "function": "name", "value": "Greene", "weight": 10 },
+					{ "function": "equip", "id": "minecraft:sugar", "slot": 0, "weight": 2 }
+				]
+				}
+				]
+			},
+			{
+			"function": "all",
+			"weight": 50,
+			"functions": 
+				[
+				{ "function": "name", "value": "Strong Zombie" },
+				{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~300 },
+				{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.10~0.20 },
+				{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.75 }
+				]
+			},
+			{
+			"function": "all",
+			"weight": 50,
+			"functions": 
+				[
+				{ "function": "name", "value": "Chuck" },
+				{ "function": "equip", "id": "terrafirmacraft:item.Black Bronze Sword", "slot": 0, "override": true },
+				{ "function": "equip", "id": "terrafirmacraft:item.Black Bronze Chestplate", "slot": 3, "override": true },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 1200~2000 },
+				{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~250 },
+				{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.37 },
+				{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.65 },
+				{ "function": "potion", "id": 11, "override": true, "ambient": true },
+				{ 
+				"function": "choose",
+				"functions":
+				[
+					{ "function": "name", "value": "Charlie", "weight": 1 },
+					{ "function": "name", "value": "Mahoney", "weight": 10 },
+					{ "function": "name", "value": "Hightower", "weight": 10 },
+					{ "function": "name", "value": "Tackleberry", "weight": 10 },
+					{ "function": "name", "value": "Callahan", "weight": 10 },
+					{ "function": "name", "value": "McLawd", "weight": 10 },
+					{ "function": "name", "value": "Connor", "weight": 10 },
+					{ "function": "equip", "id": "terrafirmacraft:item.Black Bronze Sword", "slot": 0, "override": true }
+				]
+				}				
+				]
+			},
+			{
+			"function": "all",
+			"weight": 7,
+			"functions": 
+				[
+				{ "function": "name", "value": "Bee Keeper" },
+				{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~300 },
+				{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 5000~7000 },
+				{ "function": "modifier", "attribute": "generic.movementSpeed", "override": true, "value": 0.32 },
+				{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.75 },
+				{ "function": "equip", "id": "Forestry:apiaristFeet", "slot": 1, "override": true },
+				{ "function": "equip", "id": "Forestry:apiaristLegs", "slot": 2, "override": true },				
+				{ "function": "equip", "id": "Forestry:apiaristChest", "slot": 3, "override": true },
+				{ "function": "equip", "id": "Forestry:apiaristHelmet", "slot": 4, "override": true },
+				{ "function": "equip", "id": "Forestry:scoop", "slot": 0, "override": true },
+				{
+				  "_comment": "give them a small chance to drop Canola Seeds for rotary craft lubrication",
+				  "function": "drops",
+				  "functions": [
+					{
+					  "function": "add",
+					  "id": "Forestry:beeCombs",
+					 "count": 0.3
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:beeCombs",
+					 "count": 0.3,
+					 "damage": 2
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:beeCombs",
+					 "count": 0.3,
+					 "damage": 3
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:beeCombs",
+					 "count": 0.3,
+					 "damage": 6
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:beeCombs",
+					 "count": 0.3,
+					 "damage": 15
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:beeDroneGE",
+					 "count": 0.05
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:beePrincessGE",
+					 "count": 0.01
+					},
+					{
+					  "function": "add",
+					  "id": "terrafirmacraft:Flowers",
+					 "count": 0.15,
+					 "damage": 0~5
+					},
+					{
+					  "function": "add",
+					  "id": "terrafirmacraft:Flowers2",
+					 "count": 0.15,
+					 "damage": 0~7
+					},
+					{
+					  "function": "add",
+					  "id": "Forestry:frameImpregnated",
+					 "count": 0.15
+					},
+					{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1, "damage": 0~2 }
+				  ]
+				}
+				]
+			}
+			
+		]
+	}
+	]
+}

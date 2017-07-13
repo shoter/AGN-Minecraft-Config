@@ -1,0 +1,25 @@
+{
+  "_name": "creeperTFC",
+  "drops": 
+  [
+	{"function": "all",
+     "count": 0.01,
+     "functions": 
+		[{"function": "add",
+		"id": "OpenBlocks:trophy",
+		"item_stats":
+			[{
+				"function": "nbt",
+				"tags":
+				[{
+					"function": "string",
+					"name": "entity",
+					"value": "Creeper"
+				}]
+			}]
+		}]
+	}
+  ],
+  "pre_stats": [],
+  "stats": []
+}

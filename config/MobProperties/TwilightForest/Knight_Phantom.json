@@ -1,0 +1,18 @@
+{
+  "_name": "TwilightForest.Knight Phantom",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "modifier", "attribute": "generic.maxHealth", "value": 1200~1800 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "value": 200~300 },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.50~0.75 }
+		]
+	}
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_name": "TwilightForest.Troll",
+  "drops": 
+  [
+	{ "function": "remove", "id": "necromancy:Organs" },
+	{ "function": "remove", "id": "necromancy:Organs", "damage": 1},
+	{ "function": "remove", "id": "necromancy:Organs", "damage": 2},
+	{ "function": "remove", "id": "necromancy:Organs", "damage": 3},
+	{ "function": "add", "id": "HardcoreQuesting:bags", "count": 0.15, "damage": 1~2 },
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05 },
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 1},
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 2},
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 4},
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 11},
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 7},
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 1},
+	{ "function": "add", "id": "terrafirmacraft:item.Ore", "count": 0.05, "damage": 12}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{
+	"function": "all",
+	"count": 1,
+	"functions": 
+		[
+		{ "function": "name", "value": "Mountain Troll" },
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2000~5000 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 150~200 },
+		{ "_comment": "regeneration", "function": "potion", "id": 10, "ambient": true },
+		{ "function": "modifier", "attribute": "generic.knockbackResistance", "override": true, "value": 0.40~0.60 }
+		]
+	}
+  ]
+}

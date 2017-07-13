@@ -1,0 +1,34 @@
+{
+    "changeBlocks":
+	[
+		{
+		  "name":"minecraft:chest",
+		  "maxStackSize": 0,
+		  "harvestLevel": 10,
+		  "toolClass": "axe",
+		  "hardness": 999999,
+		  "resistance": 10,
+		  "material": "metal",
+		  "breaks": true,
+		  "canSilkHarvest": false,
+		  "dropItemName": "",
+		  "minItemDrop": 0,
+		  "maxItemDrop": 0
+		}
+	],
+	"blocksDrop":
+	[
+        {
+            "id": "minecraft:chest",
+            "overrides": true,
+            "drops":[
+                {
+                    "id": "t",
+                    "min" : 0,
+                    "max" : 0,
+                    "chance" : 0.0
+                }
+            ]
+        }
+    ]
+}

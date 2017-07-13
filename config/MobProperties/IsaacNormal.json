@@ -1,0 +1,31 @@
+{
+  "_name": "IsaacNormal",
+  "drops": 
+  [
+	{
+		"function": "all",
+		"_comment": "Add TFC Sheep hide to drops",
+		"count": 0.1,
+		"functions": 
+		[
+			{ "function": "add", "id": "ghast_tear", "count": 1 }
+		]
+		
+	},
+	{
+		"function": "all",
+		"count": 0.2,
+		"functions": 
+		[			
+			{ "function": "add", "id": "HardcoreQuesting:bags", "count": 1~2, "damage": 0~2 }
+		]
+		
+	}
+  ],
+  "pre_stats": [],
+  "stats": 
+  [
+	{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 50~150 },
+	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 2000~3000 }
+  ]
+}

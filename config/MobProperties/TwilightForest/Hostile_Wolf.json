@@ -1,0 +1,10 @@
+{
+  "_name": "TwilightForest.Hostile Wolf",
+  "drops": [],
+  "pre_stats": [],
+  "stats": 
+  [	
+		{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 600~800 },
+		{ "function": "modifier", "attribute": "generic.attackDamage", "override": true, "value": 200~300 }		
+  ]
+}
