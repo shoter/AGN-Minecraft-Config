@@ -1,3 +1,14 @@
 
 # Pliki wykonywalne - ich nie potrzebujemy
 *.java
+
+# Folder z save'ami
+saves/
+
+logs/
+
+backups/
+
+screenshots/
+
+crash-reports/
