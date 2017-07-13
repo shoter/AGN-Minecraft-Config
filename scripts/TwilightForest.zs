@@ -5,9 +5,9 @@
 recipes.addShapeless(<TwilightForest:tile.TFFireflyJar>, [<TwilightForest:tile.TFFirefly>, <terrafirmacraft:item.Glass Bottle>]);
 
 // Cleaning Raw Beef
-//for item in <ore:itemKnife>.items {
-//recipes.addShapeless(<terrafirmacraft:item.Beef>.withTag({foodWeight:16.0 as float}), [<TwilightForest:item.meefRaw>, item.anyDamage().transformDamage(6) ]);
-//}
+for item in <ore:itemKnife>.items {
+	recipes.addShapeless(<terrafirmacraft:item.Beef>.withTag({foodWeight:16.0 as float}), [<TwilightForest:item.meefRaw>, item.anyDamage().transformDamage(3) ]);
+}
 
 // Steeleaf Shovel
 recipes.addShaped(<TwilightForest:item.steeleafShovel>.withTag({ench: [{lvl:2 as short, id: 32 as short}]}),
@@ -24,6 +24,7 @@ recipes.addShaped(<terrafirmacraft:Torch> * 5,
 // Arrow
 recipes.remove(<minecraft:arrow>);
 recipes.addShapeless(<terrafirmacraft:item.arrow> * 8, [<ore:itemRock>, <ore:stickWood>, <TwilightForest:item.tfFeather>] );
+recipes.addShapeless(<terrafirmacraft:item.arrow> * 2, [<ore:itemRock>, <ore:stickWood>, <minecraft:string>] );
   
 // Huge Lily Pad
 recipes.addShapeless(<TwilightForest:tile.HugeLilyPad> * 2, [<terrafirmacraft:LilyPad>, <terrafirmacraft:LilyPad>, <terrafirmacraft:LilyPad>, <terrafirmacraft:LilyPad>]);
@@ -101,3 +102,4 @@ recipes.addShaped(<TwilightForest:tile.TFFireJet:11>,
  [[<TwilightForest:tile.TFTowerStone:1>, <minecraft:redstone>, <TwilightForest:tile.TFTowerStone:1>],
   [<minecraft:redstone>, <TwilightForest:tile.TFFireJet:8>, <minecraft:redstone>],
   [<TwilightForest:tile.TFTowerStone:1>, <TwilightForest:item.carminite>, <TwilightForest:tile.TFTowerStone:1>]]);
+  

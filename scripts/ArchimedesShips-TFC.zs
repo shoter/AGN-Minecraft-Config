@@ -98,9 +98,9 @@ recipes.removeShaped(<ArchimedesShips:marker>,
   [<ore:plankWood>, <ore:stickWood>, <ore:plankWood>]]);
 
 recipes.addShaped(<ArchimedesShips:marker>,
- [[<ore:plankWood>, <Railcraft:part.plate:1>, <ore:plankWood>],
-  [<Railcraft:part.plate:1>, <Railcraft:part.gear:2>, <Railcraft:part.plate:1>],
-  [<ore:plankWood>, <Railcraft:signal:5>, <ore:plankWood>]]);
+ [[<ore:plankWood>, <terrafirmacraft:item.Copper Ingot>, <ore:plankWood>],
+  [<terrafirmacraft:item.Copper Ingot>, <BuildCraft|Core:stoneGearItem>, <terrafirmacraft:item.Copper Ingot>],
+  [<ore:plankWood>, <terrafirmacraft:item.Copper Ingot>, <ore:plankWood>]]);
   
 // Wooden Crates
 
