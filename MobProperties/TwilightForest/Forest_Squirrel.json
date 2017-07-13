@@ -1,9 +1,0 @@
-{
-  "_name": "TwilightForest.Forest Squirrel",
-  "drops": [],
-  "pre_stats": [],
-  "stats": 
-  [
-	{ "function": "modifier", "attribute": "generic.maxHealth", "override": true, "value": 200~300 }
-  ]
-}
