@@ -1,0 +1,32 @@
+
+# Created by Ruins mod version 13.8 Ingame Parser
+# authoring Player: OneWolfe
+
+weight=10
+embed_into_distance=2
+biomesToSpawnIn=plains,forest,mountains,tiaga,swamp,high hills,rolling hills,high plains
+acceptable_target_blocks=
+unacceptable_target_blocks=flowing_water,water,flowing_lava,lava
+dimensions=3,1,1
+allowable_overhang=2
+max_leveling=2
+leveling_buffer=0
+preserve_water=0
+preserve_lava=0
+
+rule1=0,100,preserveBlock,preserveBlock,preserveBlock,ChestGenHook:dungeonChest:5-3,ChestGenHook:dungeonChest:5-3,ChestGenHook:dungeonChest:5-3,MobSpawner:slimeTFC,MobSpawner:silverfishTFC,MobSpawner:pigZombieTFC,MobSpawner:TwilightForest.Troll,MobSpawner:TwilightForest.Forest Raven,MobSpawner:TwilightForest.Lower Goblin Knight,MobSpawner:TwilightForest.Mini Ghast,MobSpawner:TwilightForest.Redscale Broodling,MobSpawner:TwilightForest.Redcap Sapper,MobSpawner:TwilightForest.Twilight Kobold
+rule2=0,100,terrafirmacraft:ClayGrass-11
+rule3=0,100,air,terrafirmacraft:TallGrass-2,terrafirmacraft:TallGrass-2,terrafirmacraft:TallGrass-1,terrafirmacraft:TallGrass-0,terrafirmacraft:Flora-0,terrafirmacraft:Flora-1,terrafirmacraft:Flora-2,terrafirmacraft:Flora-4
+
+layer
+1
+endlayer
+
+layer
+2
+endlayer
+
+layer
+3
+endlayer
+

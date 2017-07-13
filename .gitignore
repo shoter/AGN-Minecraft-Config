@@ -1,6 +1,6 @@
 
 # Pliki wykonywalne - ich nie potrzebujemy
-*.java
+*.jar
 
 # Folder z save'ami
 saves/

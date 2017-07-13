@@ -1,0 +1,19 @@
+/setblock ~ ~1 ~ minecraft:mob_spawner 0 replace {EntityId:TwilightForest.Twilight Wraith}
+
+/setblock ~ ~2 ~ minecraft:mob_spawner 0 replace {EntityId:Zombie,SpawnCount:5,SpawnRange:2,SpawnData:{Equipment:[{id:276},{},{},{},{}]} }
+
+/summon MinecartSpawner ~ ~4 ~ {EntityId:TwilightForest.Twilight Wraith}
+
+/summon PigZombie ~0 ~3 ~0 {Riding:{id:TwilightForest.Twilight Wraith,PersistenceRequired:1,Health:5000}} 
+/summon PigZombie ~0 ~3 ~0 {Riding:{id:TwilightForest.Twilight Wraith,PersistenceRequired:1,Health:5000}} 
+/summon PigZombie ~0 ~3 ~0 {Riding:{id:TwilightForest.Twilight Wraith,PersistenceRequired:1,Health:5000}} 
+/summon PigZombie ~0 ~3 ~0 {Riding:{id:TwilightForest.Twilight Wraith,PersistenceRequired:1,Health:5000}} 
+/setblock ~ ~ ~ air
+
+/fill ~1 ~1 ~1 ~-1 ~-1 ~-1 air
+
+/summon PigZombie ~0 ~3 ~0 {CustomName:Steam Captain,CustomNameVisible:1,Health:12000,Equipment:[{id:4876},{id:4860},{id:4859},{id:4858},{id:4889}],AbsorptionAmount:1000,ActiveEffects:[{Id:8,Amplifier:5,Duration:999999},{Id:1,Amplifier:1,Duration:999999},{Id:10,Amplifier:200,Duration:999999},{Id:5,Amplifier:2,Duration:999999},{Id:22,Amplifier:2,Duration:999999}],IsBaby:1,Anger:32767}
+
+/summon PigZombie ~0 ~1 ~0 {CustomName:Steam Cptain,CustomNameVisible:1,ActiveEffects:[{Id:8,Amplifier:1,Duration:999999},{Id:10,Amplifier:1,Duration:999999},{Id:1,Amplifier:1,Duration:999999},{Id:5,Amplifier:1,Duration:999999}],IsBaby:1}
+
+/setblock ~ ~1 ~ minecraft:mob_spawner 0 replace {EntityId:PigZombie,SpawnData:{Equipment:[{id:4876},{id:4860},{id:4859},{id:4858},{id:4889}]},IsBaby:1}
